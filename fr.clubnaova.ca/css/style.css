@@ -25,7 +25,7 @@ h2 {
     font-weight: 300;
 }
 h3 {
-    
+
     font-weight: 500;
 	font-size: 20px;
 	line-height:25px;
@@ -1257,6 +1257,9 @@ ul.meta-tags li:last-child:after { content: ' ' }
     text-align: center;
     color: #222;
 }
+.img-membre-profil{
+  padding-top: 50px;
+}
 .team-member:hover .team-hover .s-link {
     bottom: 10%;
 }
@@ -1346,18 +1349,18 @@ div.space {
 }
 
 #sidebar { height:auto;
-	width: auto; 
-	position: fixed; 
-	right: 0px; 
-	bottom: 0px; 
+	width: auto;
+	position: fixed;
+	right: 0px;
+	bottom: 0px;
 	margin: 0 0 0 110px;
 	z-index: 1; }
 
 #flag { width:45px;}
-		
-		
-#flag:hover {			
+
+
+#flag:hover {
 				transform: translateY(-5px);
 				transition: transform 0.5s}
 
-#sponsor {z-index: 1;}				
+#sponsor {z-index: 1;}

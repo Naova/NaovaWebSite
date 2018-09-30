@@ -56,11 +56,6 @@ a:focus {
 
 .content-heading p.lead { margin-bottom: 80px }
 
-/* Home Section Style 2 - With Video*/
-#tf-home.video .overlay {
-    padding: 0;
-    padding-top: 10%;
-}
 .img-wrapper { position: relative }
 .img-wrapper img.img-responsive { margin: 0 auto !important }
 .img-wrapper i.fa {
@@ -206,39 +201,7 @@ a.goto-btn { margin-right: 30px }
 }
 /* Service Section */
 #tf-services { padding: 60px 0 }
-.section-header {
-    padding: 40px 0;
-    text-align: center;
-}
-.section-header h2 { text-transform: uppercase }
-.section-header h5 { letter-spacing: 1px }
-.fancy {
-    line-height: 0.5;
-    text-align: center;
-    margin-bottom: 40px;
-    margin-top: 20px;
-}
-.fancy span {
-    display: inline-block;
-    position: relative;
-}
-.fancy span:before,
-.fancy span:after {
-    content: "";
-    position: absolute;
-    height: 5px;
-    border-bottom: 1px solid #f1f1f1;
-    top: 15px;
-    width: 400px;
-}
-.fancy span:before {
-    right: 100%;
-    margin-right: 10px;
-}
-.fancy span:after {
-    left: 100%;
-    margin-left: 10px;
-}
+
 /* service lists */
 .service { margin-bottom: 20px }
 .service .media-right i.fa {
@@ -281,36 +244,7 @@ h4.media-heading {
     line-height: 20px;
 }
 /* About Us #f3f3f3*/
-#tf-about {
-	padding: 40px 0;
 
-}
-.gray-bg {
-	/* background: url(../img/bg/nao.jpg); */
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    /* color: #04007c; */
-	background-color: #5a5a5a;
-	color: #ffffff;
-}
-.img-wrap .profile-img {
-    position: relative;
-    margin-bottom: 0px;
-	margin-top: 20px;
-}
-.profile-img .social {
-    position: absolute;
-    z-index: 1;
-    bottom: -10px;
-    left: 50px;
-}
-.about-right-content { padding: 40px 0 }
-.about-left-content { padding-bottom: 60px }
-.about-left-content h2,
-.about-left-content h2 small { color: #333 }
-.about-left-content h2 small { font-weight: 300 }
 ul.social li a.fa {
     background: #04007c;
     width: 50px;
@@ -323,39 +257,7 @@ ul.social li a.fa {
     margin-bottom: 0;
 }
 ul.social li a.fa:hover { background-color: #333333 }
-/* Skills Progress Bar */
-.progress {
-    height: 12px;
-    margin-bottom: 20px;
-    overflow: hidden;
-    background-color: #999999;
-    border-radius: 0;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-}
-.progress-bar {
-    float: left;
-    width: 0;
-    height: 100%;
-    font-size: 12px;
-    line-height: 20px;
-    color: #fff;
-    text-align: center;
-    background-color: #04007c;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    -webkit-transition: width .6s ease;
-    -o-transition: width .6s ease;
-    transition: width .6s ease;
-}
-.skills {
-    margin-top: 30px;
-    padding: 20px 0;
-}
-.skillset p {
-    font-size: 13px;
-    margin-bottom: 5px;
-}
+
 /* Counter */
 #tf-counter {
     border-top: 1px solid #D1D1D1;
@@ -1199,37 +1101,7 @@ ul.meta-tags li:last-child:after { content: ' ' }
     text-transform: uppercase;
     color: #a5a5a5;
     letter-spacing: 1px;
-
-
 }
-
-
-div.gallery {
-    /* margin: 0px; */
-    border: 1px solid #ffffff;
-    float: left;
-    width: 20%;
-}
-
-
-
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
-div.gallery-bottom {
-    /* margin: 0px; */
-    border: 1px solid #ffffff;
-    float: left;
-    width: 20%;
-}
-
-div.gallery-bottom img {
-    width: 100%;
-    height: auto;
-	padding-bottom:50px;
-}
-
 
 div.desc {
     padding: 10px;

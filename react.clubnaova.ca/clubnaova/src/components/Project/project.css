@@ -1,0 +1,37 @@
+#tf-about {
+	padding: 40px 0;
+}
+
+.gray-bg {
+	/* background: url(../img/bg/nao.jpg); */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* color: #04007c; */
+	background-color: #5a5a5a;
+	color: #ffffff;
+}
+
+.img-wrap .profile-img {
+    position: relative;
+    margin-bottom: 0px;
+	margin-top: 20px;
+}
+.profile-img .social {
+    position: absolute;
+    z-index: 1;
+    bottom: -10px;
+    left: 50px;
+}
+
+.about-right-content { padding: 40px 0 }
+.about-left-content { padding-bottom: 60px }
+.about-left-content h2,
+.about-left-content h2 small { color: #333 }
+.about-left-content h2 small { font-weight: 300 }
+
+.skills {
+    margin-top: 30px;
+    padding: 20px 0;
+}

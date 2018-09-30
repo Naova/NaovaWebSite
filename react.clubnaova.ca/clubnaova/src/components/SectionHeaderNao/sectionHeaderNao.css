@@ -1,0 +1,35 @@
+.section-header {
+    padding: 40px 0;
+    text-align: center;
+}
+.section-header h2 { text-transform: uppercase }
+.section-header h5 { letter-spacing: 1px }
+.fancy {
+    line-height: 0.5;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.fancy span {
+    display: inline-block;
+    position: relative;
+}
+.fancy span:before,
+.fancy span:after {
+    content: "";
+    position: absolute;
+    height: 5px;
+    border-bottom: 1px solid #f1f1f1;
+    top: 15px;
+    width: 400px;
+}
+.fancy span:before {
+    right: 100%;
+    margin-right: 10px;
+}
+.fancy span:after {
+    left: 100%;
+    margin-left: 10px;
+}
+
+.highlight { color: #0800f9 }

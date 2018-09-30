@@ -1,0 +1,49 @@
+.skillset p {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+.progress {
+    height: 12px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color: #999999;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.progress-bar {
+    float: left;
+    width: 0;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #04007c;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: width .6s ease;
+    -o-transition: width .6s ease;
+    transition: width .6s ease;
+}
+
+.progress-bar.progress-65{
+    width: 65%
+}
+
+.progress-bar.progress-62{
+    width: 62%
+}
+
+.progress-bar.progress-60{
+    width: 60%
+}
+
+.progress-bar.progress-55{
+    width: 55%
+}
+
+.progress-bar.progress-25{
+    width: 25%
+}

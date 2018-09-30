@@ -13,7 +13,7 @@ class Presentation extends Component {
 
            		<div className="fancy"><span></span></div>
                 <div className="container">
-                    <p><h2>Naova, c'est donc :</h2></p>
+                    <h2>Naova, c'est donc :</h2>
                     <Summary />
                 </div>
             </div>

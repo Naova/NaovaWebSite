@@ -1,0 +1,81 @@
+import React, { Component } from "react";
+import { compose, withProps } from "recompose";
+import { withScriptjs, withGoogleMap, GoogleMap, Marker } from "react-google-maps";
+import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
+
+import "./contactUs.css"
+
+//const marker_nao_icon = require("../../img/logo/naofacehalf.png");
+
+class ContactUs extends Component {
+
+    render(){
+        const Map = compose(
+            withProps({
+              googleMapURL:
+                "https://maps.googleapis.com/maps/api/js?key=AIzaSyBkj5ZbICj-HuiAZYZOZrPsFt3VqiBSZes&amp;sensor=false",
+              loadingElement: <div style={{ height: `100%` }} />,
+              containerElement: <div style={{ height: `400px` }} />,
+              mapElement: <div style={{ height: `100%` }} />
+            }),
+            withScriptjs,
+            withGoogleMap
+          )(props => (
+            <GoogleMap defaultZoom={14} defaultCenter={{ lat: 45.495125, lng: -73.562493 }} options={{
+                streetViewControl: false,
+                scaleControl: false,
+                fullscreenControl: false,
+                disableDoubleClickZoom: false,
+                mapTypeControl: false,
+                zoomControl: false,
+                clickableIcons: false
+            }}>
+              <Marker position={{ lat: 45.495125, lng: -73.562493 }}/>
+            </GoogleMap>
+          ));
+
+        return(
+            <div id="tf-contact">
+                <SectionHeaderNao isBigNaoFace={false} smallTitle="Parce qu'on aime les cartes postales">
+                    Pour nous <span className="highlight"><strong>contacter</strong></span>
+                </SectionHeaderNao>
+                <div id="map">
+                    <Map />
+                </div>
+                
+                <div className="container">
+                    <div className="row"> 
+                        <div className="col-md-10 col-md-offset-1">
+                            <div className="row">
+                                <div className="col-md-4">
+                                    <div className="contact-detail">
+                                        <a href="https://goo.gl/maps/3hMjSTfhGeo">
+                                            <i className="fa fa-map-marker"></i>
+                                            <h4>1100 Rue Notre-Dame Ouest, Montréal, QC H3C 1K3</h4>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div className="col-md-4">
+                                    <div className="contact-detail">
+                                        <i className="fa fa-envelope-o"></i>
+                                        <h4>naova@ens.etsmtl.ca</h4>
+                                    </div>
+                                </div>
+                                <div className="col-md-4">
+                                    <div className="contact-detail">
+                                        <a href="https://www.facebook.com/naorobotique/?ref=br_rs">
+                                            <i className="fa fa-facebook"></i>
+                                            <h4>Naova</h4>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        );
+    }
+}
+
+export default ContactUs;

@@ -6,8 +6,10 @@ import Video from "../../components/Video/Video";
 import Historique from "../../components/Historique/Historique";
 import Projet from "../../components/Project/Project";
 import Images from "../../components/Images/Images";
+import ContactUs from "../../components/ContactUs/ContactUs";
+import Footer from "../../components/Footer/Footer";
 
-class App extends Component {
+class Home extends Component {
     render() {
         return (
             <div className="App">
@@ -18,9 +20,11 @@ class App extends Component {
                 <Historique />
                 <Projet />
                 <Images />
+                <ContactUs />
+                <Footer />
             </div>
         );
     }
 }
 
-export default App;
+export default Home;

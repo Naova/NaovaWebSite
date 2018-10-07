@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { FormattedHTMLMessage} from "react-intl";
 import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
 
 class Historique extends Component {
@@ -11,10 +12,12 @@ class Historique extends Component {
                 </SectionHeaderNao>
                 <div className="container">
                     <div className="col-md-12">
-                        <h3>
-                            <p><span className="highlight"><strong>MARS 2017</strong></span> - Création du club étudiant <span className="highlight"><strong>Naova</strong></span> par Jonathan Fortin</p>
-                            <p><span className="highlight"><strong>24 JANVIER 2018</strong></span> - Qualifié pour participer à la <span className="highlight"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</p>
-                        </h3>
+                        <h4>
+                            <p><FormattedHTMLMessage id="historique.his1" defaultMessage='<span class="highlight"><strong>MAI 2017</strong></span> - Création du club étudiant <span class="highlight"><strong>Naova</strong></span> par Jonathan Fortin, Alexandre Doyle et Thierry Pouplier' /></p>
+                            <p><FormattedHTMLMessage id="historique.his2" defaultMessage='<span class="highlight"><strong>JANUARY 24 2018</strong></span> - Qualifed to participate in the <span class="highlight"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)' /></p>
+                            <p><FormattedHTMLMessage id="historique.his3" defaultMessage='<span class="highlight"><strong>JUNE 15-22, 2018</strong></span> - Participated to in the <span class="highlight"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)' /></p>
+                            <p><FormattedHTMLMessage id="historique.his4" defaultMessage='<span class="highlight"><strong>JUIN 22, 2018</strong></span> - Finalist (Challenge Shield) to in the <span class="highlight"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)' /></p>
+                        </h4>
                     </div>
                 </div>
           </div>

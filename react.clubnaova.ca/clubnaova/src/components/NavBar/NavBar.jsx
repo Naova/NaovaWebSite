@@ -37,15 +37,47 @@ class NavBar extends Component {
                                 <FormattedMessage id="nav.home" defaultMessage="Home" />
                             </a>
                         </li>
-                        <li><a href="#tf-presentation" className="scroll">Présentation</a></li>
-                        <li><a href="#tf-history" className="scroll">Historique</a></li>
-                        <li><a href="#tf-about" className="scroll">Projets</a></li>
-                        <li><a href="#tf-works" className="scroll">Photos</a></li>
-                        <li><a href="equipe.html" className="scroll">Equipe</a></li>
-                        <li><a href="partenaires.html" className="scroll">Partenaires</a></li>
-                        <li><a href="#tf-contact" className="scroll">Contact</a></li> 
-                        <li><span className="scroll">|</span></li>
-                        <li><a className="scroll" onClick={() => this.props.setLocale(langChange)}>EN</a></li>
+                        <li>
+                            <a href="#tf-presentation" className="scroll">
+                                <FormattedMessage id="nav.presentation" defaultMessage="Presentation" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#tf-history" className="scroll">
+                                <FormattedMessage id="nav.history" defaultMessage="History" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#tf-about" className="scroll">
+                                <FormattedMessage id="nav.projects" defaultMessage="Projects" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#tf-works" className="scroll">
+                                <FormattedMessage id="nav.pictures" defaultMessage="Pictures" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="equipe.html" className="scroll">
+                                <FormattedMessage id="nav.team" defaultMessage="Team" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="partenaires.html" className="scroll">
+                                <FormattedMessage id="nav.sponsors" defaultMessage="Sponsors" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#tf-contact" className="scroll">
+                                <FormattedMessage id="nav.contact" defaultMessage="Contact us" />
+                            </a>
+                        </li> 
+                        <li><span className="scroll navbar_small_bar">|</span></li>
+                        <li>
+                            <a className="scroll" onClick={() => this.props.setLocale(langChange)}>
+                                <FormattedMessage id="nav.langue" defaultMessage="fr" />
+                            </a>
+                        </li>
                     </ul>
                     </div>
                 </div>

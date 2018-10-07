@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { FormattedHTMLMessage} from "react-intl";
 import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
 import OneImage from "./OneImage";
 
@@ -9,8 +10,8 @@ class Images extends Component {
     render(){
         return(
             <div id="tf-works">
-                <SectionHeaderNao isBigNaoFace={false} smallTitle="Parce qu'un robot vaut mille photos">
-                    Notre travail en <span className="highlight"><strong>image</strong></span>
+                <SectionHeaderNao isBigNaoFace={false} idSmallTitle="imgages.sectionHeadNaoTitle" defaultMessageSmallTitle="Because a robot is worth a thousand photos">
+                    <FormattedHTMLMessage id="images.sectionHeadNaoChild" defaultMessage='Our work in <span class="highlight"><strong>pictures</strong></span>' />
                 </SectionHeaderNao>
                 <div className="images">
                     <center>

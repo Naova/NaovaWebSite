@@ -27,3 +27,8 @@
 .navbar-default .navbar-toggle:focus { background-color: transparent }
 .navbar-default .navbar-toggle:hover>.navbar-default .navbar-toggle .icon-bar,
 .navbar-default .navbar-toggle:focus>.navbar-default .navbar-toggle .icon-bar { color: #04007c }
+
+.navbar_small_bar {
+    position: absolute;
+    padding-top: 14px;
+}

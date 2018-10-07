@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { compose, withProps } from "recompose";
 import { withScriptjs, withGoogleMap, GoogleMap, Marker } from "react-google-maps";
+import { FormattedMessage , FormattedHTMLMessage} from "react-intl";
 import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
 
 import "./contactUs.css"
@@ -36,8 +37,8 @@ class ContactUs extends Component {
 
         return(
             <div id="tf-contact">
-                <SectionHeaderNao isBigNaoFace={false} smallTitle="Parce qu'on aime les cartes postales">
-                    Pour nous <span className="highlight"><strong>contacter</strong></span>
+                <SectionHeaderNao isBigNaoFace={false} idSmallTitle="contactUs.sectionHeadNaoTitle"  defaultMessageSmallTitle="We love getting cards!">
+                    <FormattedHTMLMessage id="contactUs.sectionHeadNaoChild" defaultMessage='Contact <span class="highlight"><strong>us</strong></span>'/>
                 </SectionHeaderNao>
                 <div id="map">
                     <Map />
@@ -51,7 +52,7 @@ class ContactUs extends Component {
                                     <div className="contact-detail">
                                         <a href="https://goo.gl/maps/3hMjSTfhGeo">
                                             <i className="fa fa-map-marker"></i>
-                                            <h4>1100 Rue Notre-Dame Ouest, Montréal, QC H3C 1K3</h4>
+                                            <h4><FormattedMessage id="contactUs.address" defaultMessage="1100 Notre-Dame Street West, Montréal, QC H3C 1K3" /></h4>
                                         </a>
                                     </div>
                                 </div>

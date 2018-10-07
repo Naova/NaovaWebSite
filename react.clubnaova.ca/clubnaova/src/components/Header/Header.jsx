@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { FormattedMessage } from "react-intl";
 
 import "./header.css"
 
@@ -15,8 +16,8 @@ class Header extends Component {
                     <div className="container">
                         <div className="content-heading text-center">
                             <center><img src={naovoLogo_img} className="intro-logo img-responsive" alt="Naova Logo"/></center>
-                            <h1>Club scientifique de robotique</h1>
-                            <p className="lead">Ecole de Technologie Supérieure, Montréal</p>
+                            <h1><FormattedMessage id="header.title" defaultMessage="Robotic scientific club" /></h1>
+                            <p className="lead"><FormattedMessage id="header.school" defaultMessage="Ecole de Technologie Supérieure, Montréal" /></p>
                             <div>
                                 <img src={aeetsLogo_img} className="partenaire_aeets_img intro-logo" alt="AEETS"/>
                                 <img src={ubiMtlLogo_img} className="partenaire_ubiMtl_img intro-logo" alt="Ubisoft Montréal"/>

@@ -1,19 +1,29 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+import { FormattedMessage } from "react-intl";
 
 class LeftSummary extends Component {
 
+    renderLink() {
+        const { link, idLinkTitle, defaultMessageLinkTitle } = this.props;
+        if(idLinkTitle && defaultMessageLinkTitle) {
+            return <a href={link}><FormattedMessage id={idLinkTitle} defaultMessage={defaultMessageLinkTitle} /></a>
+        } else {
+            return null;
+        }
+    }
+
     render(){
-        const { title, description, icon, link, linkTitle } = this.props;
+        const { idTitle, defaultMessageTitle, idDescription, defaultMessageDescription, icon, link } = this.props;
         return(
             <div className="media service">
                 <div className="media-body">
-                    <a href={link}><h4 className="media-heading">{title}</h4></a>
-                    <p>{description}</p>
-                    <p><a href={link}>{linkTitle}</a></p>
+                    <a href={link}><h4 className="media-heading"><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></h4></a>
+                    <p><FormattedMessage id={idDescription} defaultMessage={defaultMessageDescription} /></p>
+                    <p>{this.renderLink()}</p>
                 </div>
                 <div className="media-right media-middle">
-                    <a href="{link}"><i className={icon}></i></a>
+                    <a href={link}><i className={icon}></i></a>
                 </div>
             </div> 
         );
@@ -21,11 +31,14 @@ class LeftSummary extends Component {
 }
 
 LeftSummary.propTypes = {
-    title: PropTypes.string,
-    description: PropTypes.string,
+    idTitle: PropTypes.string,
+    defaultMessageTitle: PropTypes.string,
+    idDescription: PropTypes.string,
+    defaultMessageDescription: PropTypes.string,
     icon: PropTypes.string,
     link: PropTypes.string,
-    linkTitle: PropTypes.string
+    idLinkTitle: PropTypes.string,
+    defaultMessageLinkTitle: PropTypes.string
 }
 
 export default LeftSummary;

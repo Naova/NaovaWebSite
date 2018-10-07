@@ -1,19 +1,29 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+import { FormattedMessage } from "react-intl";
 
 class RightSummary extends Component {
 
+    renderLink() {
+        const { link, idLinkTitle, defaultMessageLinkTitle } = this.props;
+        if(idLinkTitle && defaultMessageLinkTitle) {
+            return <a href={link}><FormattedMessage id={idLinkTitle} defaultMessage={defaultMessageLinkTitle} /></a>
+        } else {
+            return null;
+        }
+    }
+
     render(){
-        const { title, description, icon, link, linkTitle } = this.props;
+        const { idTitle, defaultMessageTitle, idDescription, defaultMessageDescription, icon, link } = this.props;
         return(
             <div className="media service"> 
                 <div className="media-left media-middle">
                     <a href={link}><i className={icon}></i></a>
                 </div>
                 <div className="media-body">
-                    <h4 className="media-heading"><a href={link}>{title}</a></h4>
-                    <p>{description}</p>
-                    <p><a href={link}>{linkTitle}</a></p>
+                    <h4 className="media-heading"><a href={link}><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></a></h4>
+                    <p><FormattedMessage id={idDescription} defaultMessage={defaultMessageDescription} /></p>
+                    <p>{this.renderLink()}</p>
                 </div>
             </div>
         );
@@ -21,11 +31,14 @@ class RightSummary extends Component {
 }
 
 RightSummary.propTypes = {
-    title: PropTypes.string,
-    description: PropTypes.string,
+    idTitle: PropTypes.string,
+    defaultMessageTitle: PropTypes.string,
+    idDescription: PropTypes.string,
+    defaultMessageDescription: PropTypes.string,
     icon: PropTypes.string,
     link: PropTypes.string,
-    linkTitle: PropTypes.string
+    idLinkTitle: PropTypes.string,
+    defaultMessageLinkTitle: PropTypes.string
 }
 
 

@@ -11,7 +11,7 @@ class Project extends Component {
     render(){
         return(
             <div id="tf-about">
-                <SectionHeaderNao isBigNaoFace={false} smallTitle="Gotta keep workin'">
+                <SectionHeaderNao isBigNaoFace={false} idSmallTitle="" defaultMessageSmallTitle="Gotta keep workin'">
                     Projets en <span className="highlight"><strong>cours</strong></span>
                 </SectionHeaderNao>
                 <div className="gray-bg">

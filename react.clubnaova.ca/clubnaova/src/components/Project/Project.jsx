@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { FormattedMessage, FormattedHTMLMessage } from "react-intl";
 import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
 import Skill from "./Skill";
 
@@ -11,8 +12,8 @@ class Project extends Component {
     render(){
         return(
             <div id="tf-about">
-                <SectionHeaderNao isBigNaoFace={false} idSmallTitle="" defaultMessageSmallTitle="Gotta keep workin'">
-                    Projets en <span className="highlight"><strong>cours</strong></span>
+                <SectionHeaderNao isBigNaoFace={false} idSmallTitle="project.sectionHeadNaoTitle" defaultMessageSmallTitle="Gotta keep workin'">
+                    <FormattedHTMLMessage id="project.sectionHeadNaoChild" defaultMessage='Projects in <span class="highlight"><strong>progress</strong></span>'/>                    
                 </SectionHeaderNao>
                 <div className="gray-bg">
                     <div className="container">
@@ -29,36 +30,42 @@ class Project extends Component {
                             <center>
                                 <div className="col-md-6">
                                     <div className="about-right-content">
-                                        <h4><strong>Progression</strong></h4>
-                                        <p>Notre équipe se concentre actuellement sur les tâches suivantes avec beaucoup (un peu trop?) d'acharnement.</p>
+                                        <h4><strong><FormattedMessage id="project.title" defaultMessage="Progression" /></strong></h4>
+                                        <p><FormattedMessage id="project.description" defaultMessage="Our team works (too?) hard on the following projects."/></p>
                                         <div className="skills">
-                                            <Skill 
-                                                title="Simulation"
+                                            <Skill
+                                                idTitle="project.skill1" 
+                                                defaultMessageTitle="Simulation"
                                                 value_num="65"
                                                 className="progress-65"/>
                                             
-                                            <Skill 
-                                                title="Developpement de la Vision"
+                                            <Skill
+                                                idTitle="project.skill2"
+                                                defaultMessageTitle="Vision developement"
                                                 value_num="60"
                                                 className="progress-60"/>
                                             
-                                            <Skill 
-                                                title="Developpement de la Communication"
+                                            <Skill
+                                                idTitle="project.skill3" 
+                                                defaultMessageTitle="Communication developement"
                                                 value_num="55"
                                                 className="progress-55"/>
                                             
-                                            <Skill 
-                                                title="Gestion des mouvements, Contrôle"
+                                            <Skill
+                                                idTitle="project.skill4"
+                                                defaultMessageTitle="Movement management, controls"
                                                 value_num="60"
                                                 className="progress-60"/>
                                             
                                             <Skill 
-                                                title="Technologies de l'information du club"
+                                                idTitle="project.skill5"
+                                                defaultMessageTitle="Club's information technolgy"
                                                 value_num="62"
                                                 className="progress-62"/>
 
                                             <Skill 
-                                                title="Projet en Deep Learning"
+                                                idTitle="project.skill6"
+                                                defaultMessageTitle="Deep Learning project"
                                                 value_num="25"
                                                 className="progress-25"/>
                                         </div>

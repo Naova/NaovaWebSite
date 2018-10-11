@@ -48,7 +48,18 @@ export default{
         "summary.description5": "Jouer au soccer n'est pas si simple pour un robot. Les performances étant directement liées au code dictant leurs comportement, l'équipe Naova travaille d'arrache pied pour opimiser la performance de nos amis robotiques!",
 
         "presentation.sectionHeadNaoChild": "Naova : <span class=\"highlight\"><strong>définition</strong></span>",
-        "presentation.def": "Naova, c'est donc :"
+        "presentation.def": "Naova, c'est donc :",
+
+        "project.sectionHeadNaoTitle": "Gotta keep workin'",
+        "project.sectionHeadNaoChild": "Projets en <span class=\"highlight\"><strong>cours</strong></span>",
+        "project.title": "Progression",
+        "project.description": "Notre équipe se concentre actuellement sur les tâches suivantes avec beaucoup (un peu trop?) d'acharnement.",
+        "project.skill1": "Simulation",
+        "project.skill2": "Developpement de la Vision",
+        "project.skill3": "Developpement de la Communication",
+        "project.skill4": "Gestion des mouvements, Contrôle",
+        "project.skill5": "Technologies de l'information du club",
+        "project.skill6": "Projet en Deep Learning"
     },
     en:{
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
@@ -99,6 +110,17 @@ export default{
         "summary.description5": "Playing soccer isn’t that simple for a robot. The performance being directly linked to the code dictating their comportment, the team works hard to optimize the performance of our robotic friends.",
 
         "presentation.sectionHeadNaoChild": "Naova : <span class=\"highlight\"><strong>definition</strong></span>",
-        "presentation.def": "Naova, briefly :"
+        "presentation.def": "Naova, briefly :",
+
+        "project.sectionHeadNaoTitle": "Gotta keep workin'",
+        "project.sectionHeadNaoChild": "Projects in <span class=\"highlight\"><strong>progress</strong></span>",
+        "project.title": "Progression",
+        "project.description": "Our team works (too?) hard on the following projects.",
+        "project.skill1": "Simulation",
+        "project.skill2": "Vision developement",
+        "project.skill3": "Communication developement",
+        "project.skill4": "Movement management, controls",
+        "project.skill5": "Club's information technolgy",
+        "project.skill6": "Deep Learning project"
     }
 }

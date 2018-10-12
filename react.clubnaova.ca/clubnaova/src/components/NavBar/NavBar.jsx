@@ -82,7 +82,7 @@ class NavBar extends Component {
                             </a>
                         </li>
                         <li>
-                            <a href="partenaires.html" onClick={this.onChangeCollapse} className="scroll">
+                            <a href="/sponsors" onClick={this.onChangeCollapse} className="scroll">
                                 <FormattedMessage id="nav.sponsors" defaultMessage="Sponsors" />
                             </a>
                         </li>

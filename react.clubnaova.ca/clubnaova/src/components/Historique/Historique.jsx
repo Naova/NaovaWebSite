@@ -8,7 +8,7 @@ class Historique extends Component {
         return(
             <div id="tf-history">
                 <SectionHeaderNao isBigNaoFace={false}>
-                    <span className="highlight"><strong>Historique</strong></span> du club
+                    <FormattedHTMLMessage id="historique.sectionHeadNaoChild" defaultMessage='Club <span class="highlight"><strong>history</strong></span>'/>
                 </SectionHeaderNao>
                 <div className="container">
                     <div className="col-md-12">

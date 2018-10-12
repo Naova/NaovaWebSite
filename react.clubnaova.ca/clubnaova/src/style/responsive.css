@@ -1,3 +1,4 @@
+#root {overflow-x: hidden;}
 /* iPads (portrait and landscape) ----------- */
 @media (max-width: 768px) {
 	body{ overflow-x: hidden;}

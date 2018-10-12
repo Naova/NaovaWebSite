@@ -33,32 +33,32 @@ class NavBar extends Component {
                     <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul className="nav navbar-nav navbar-right">
                         <li>
-                            <a href="#tf-home" className="scroll">
+                            <a href="/#tf-home" className="scroll">
                                 <FormattedMessage id="nav.home" defaultMessage="Home" />
                             </a>
                         </li>
                         <li>
-                            <a href="#tf-presentation" className="scroll">
+                            <a href="/#tf-presentation" className="scroll">
                                 <FormattedMessage id="nav.presentation" defaultMessage="Presentation" />
                             </a>
                         </li>
                         <li>
-                            <a href="#tf-history" className="scroll">
+                            <a href="/#tf-history" className="scroll">
                                 <FormattedMessage id="nav.history" defaultMessage="History" />
                             </a>
                         </li>
                         <li>
-                            <a href="#tf-about" className="scroll">
+                            <a href="/#tf-about" className="scroll">
                                 <FormattedMessage id="nav.projects" defaultMessage="Projects" />
                             </a>
                         </li>
                         <li>
-                            <a href="#tf-works" className="scroll">
+                            <a href="/#tf-works" className="scroll">
                                 <FormattedMessage id="nav.pictures" defaultMessage="Pictures" />
                             </a>
                         </li>
                         <li>
-                            <a href="equipe.html" className="scroll">
+                            <a href="/team" className="scroll">
                                 <FormattedMessage id="nav.team" defaultMessage="Team" />
                             </a>
                         </li>
@@ -68,7 +68,7 @@ class NavBar extends Component {
                             </a>
                         </li>
                         <li>
-                            <a href="#tf-contact" className="scroll">
+                            <a href="/#tf-contact" className="scroll">
                                 <FormattedMessage id="nav.contact" defaultMessage="Contact us" />
                             </a>
                         </li> 

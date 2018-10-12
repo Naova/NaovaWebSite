@@ -59,7 +59,17 @@ export default{
         "project.skill3": "Developpement de la Communication",
         "project.skill4": "Gestion des mouvements, Contrôle",
         "project.skill5": "Technologies de l'information du club",
-        "project.skill6": "Projet en Deep Learning"
+        "project.skill6": "Projet en Deep Learning",
+
+        "team.title":"L'équipe Naova",
+        "team.description": "Les humains derières les robots",
+        "team.capitain": "Capitaine",
+        "team.assistant": "Assistant Capitaine",
+        "team.director": "Directeur",
+        "team.administration": "Administration",
+        "team.ti": "Génie Technologies de l'Information",
+        "team.log": "Génie Logiciel",
+        "team.gpa": "Génie de la Production Automatisée"
     },
     en:{
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
@@ -121,6 +131,16 @@ export default{
         "project.skill3": "Communication developement",
         "project.skill4": "Movement management, controls",
         "project.skill5": "Club's information technolgy",
-        "project.skill6": "Deep Learning project"
+        "project.skill6": "Deep Learning project",
+
+        "team.title":"Naova's team",
+        "team.description": "Humans behind bots",
+        "team.capitain": "Capitain",
+        "team.assistant": "Assistant Capitain",
+        "team.director": "Director",
+        "team.administration": "Administration",
+        "team.ti": "Information Technology Enginnering",
+        "team.log":"Software engineering",
+        "team.gpa": "Engineering of Automated Production"
     }
 }

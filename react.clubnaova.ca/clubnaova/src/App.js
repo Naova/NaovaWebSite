@@ -9,6 +9,8 @@ import {
 import { IntlProvider } from "react-intl";
 
 import Home from "./containers/Home/Home";
+import Team from "./containers/Team/Team";
+
 import messages from "./messages";
 import "./style/bootstrap.min.css";
 import "./style/font-awesome.css";
@@ -24,6 +26,7 @@ class App extends Component {
 					<Router>
 						<Switch>
 							<Route exact path="/" component={Home} />
+							<Route exact path="/team" component={Team} />
 						</Switch>
 					</Router>
 				</div>

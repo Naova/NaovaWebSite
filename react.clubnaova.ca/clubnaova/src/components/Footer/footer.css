@@ -1,0 +1,41 @@
+#tf-footer {
+    padding: 5% 0 5% 0;
+    background-color: #5a5a5a;
+    color: #ffffff;
+	position: absolute;
+	bottom: -500;
+	width: 100%;
+}
+
+ul.social li a i {
+    font-size: 35px;
+    background: transparent;
+    width: 50px;
+    height: 32px;
+    padding: 7px 0;
+    text-align: center;
+    border-radius: 50%;
+    border-top-left-radius: 0;
+    border: 1px solid transparent;
+    color: #ffffff;
+    transition: all 0.5s;
+}
+
+.list-inline.social > li > a:hover{
+    color:white;
+}
+
+.list-inline.social > li > a:hover > i.fa-facebook{
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    color:#3b5998;
+}
+
+.list-inline.social > li > a:hover > i.fa-youtube{
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    color:#cc181e;
+}
+
+.list-inline.social > li > a:hover > i.fa-instagram{
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    color:#8b33bb;
+}

@@ -1,0 +1,33 @@
+.service .media-right i.fa {
+    text-align: center;
+    font-size: 30px;
+    background-color: #04007c;
+    color: #ffffff;
+    padding: 25px 0;
+    border-radius: 50px;
+    border-top-left-radius: 0;
+    margin: 0 10px;
+    margin-right: 20px;
+    width: 82px;
+    height: 80px;
+    transition: background-color 0.5s;
+}
+
+.service .media-left i.fa {
+    text-align: center;
+    font-size: 30px;
+    background-color: #04007c;
+    color: #ffffff;
+    padding: 25px 0;
+    border-radius: 50px;
+    border-top-right-radius: 0;
+    margin: 0 10px;
+    margin-left: 20px;
+    width: 82px;
+    height: 80px;
+    transition: background-color 0.5s;
+}
+
+.summary_section {
+    padding-bottom: 40px;
+}

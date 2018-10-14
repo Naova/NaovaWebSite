@@ -1,0 +1,8 @@
+.video .overlay {
+    padding: 0;
+    padding-top: 10%;
+}
+
+.video iframe {
+    width: 90%;
+}

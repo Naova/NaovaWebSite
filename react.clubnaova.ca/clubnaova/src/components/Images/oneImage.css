@@ -1,0 +1,10 @@
+
+.gallery {
+    float: left;
+    width: 20%;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}

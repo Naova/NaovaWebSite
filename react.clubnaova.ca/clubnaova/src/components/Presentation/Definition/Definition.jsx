@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import { FormattedMessage, FormattedHTMLMessage } from "react-intl";
+import { FormattedHTMLMessage } from "react-intl";
 
 class Definition extends Component {
-
+//<center><a href="/competition.html" className="btn btn-primary"><FormattedMessage id="definition.buton" defaultMessage="Show the competition's results!" /></a></center>
     render(){
         return(
             <div className="container">
@@ -14,7 +14,6 @@ class Definition extends Component {
                     <p><FormattedHTMLMessage id="definition.def3" defaultMessage="Every team are composed of the same standard robots, there has to be a difference in the program dictating its comportment." /></p><br/>
 
                     <p><FormattedHTMLMessage id="definition.def4" defaultMessage="We are finalist of the Montréal RoboCup (Challenge Shield) during june 15 to 22, 2018 at the Palais des Congrès!" /></p>
-                    <center><a href="/competition.html" className="btn btn-primary"><FormattedMessage id="definition.buton" defaultMessage="Show the competition's results!" /></a></center>
                 </div>
              <br/>
         </div>

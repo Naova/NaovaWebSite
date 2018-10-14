@@ -7,6 +7,7 @@ export default{
         "header.title": "Club scientifique de robotique",
         "header.school": "École de Technologie Supérieure, Montréal",
 
+        "historique.sectionHeadNaoChild": "<span class=\"highlight\"><strong>Historique</strong></span> du club",
         "historique.his1": "<span class=\"highlight\"><strong>MAI 2017</strong></span> - Création du club étudiant <span class=\"highlight\"><strong>Naova</strong></span> par Jonathan Fortin, Alexandre Doyle et Thierry Pouplier",
         "historique.his2": "<span class=\"highlight\"><strong>24 JANVIER 2018</strong></span> - Qualifié pour participer à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
         "historique.his3": "<span class=\"highlight\"><strong>15 au 22 JUIN 2018</strong></span> - Participation à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
@@ -59,7 +60,29 @@ export default{
         "project.skill3": "Developpement de la Communication",
         "project.skill4": "Gestion des mouvements, Contrôle",
         "project.skill5": "Technologies de l'information du club",
-        "project.skill6": "Projet en Deep Learning"
+        "project.skill6": "Projet en Deep Learning",
+
+        "team.title":"L'équipe Naova",
+        "team.description": "Les humains derières les robots",
+        "team.capitain": "Capitaine",
+        "team.assistant": "Assistant Capitaine",
+        "team.director": "Directeur",
+        "team.administration": "Administration",
+        "team.ti": "Génie Technologies de l'Information",
+        "team.log": "Génie Logiciel",
+        "team.gpa": "Génie de la Production Automatisée",
+
+        "sponsors.title": "Partenaires",
+        "sponsors.description": "Merci à nos partenaires!",
+        "sponsors.becomeSponsors": "Devenir un partenaire!",
+        "sponsors.diamond": "Diamant",
+        "sponsors.platinum": "Platine",
+        "sponsors.gold": "Or",
+        "sponsors.silver": "Argent",
+        "sponsors.bronze": "Bronze",
+        "sponsors.sp1": "Association Étudiante de l'ETS",
+        "sponsors.sp2": "Ubisoft Montréal",
+        "sponsors.sp3": "Fond de recherche du Québec"
     },
     en:{
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
@@ -69,6 +92,7 @@ export default{
         "header.title": "Robotic scientific club",
         "header.school": "Ecole de Technologie Supérieure, Montréal",
 
+        "historique.sectionHeadNaoChild": "Club <span class=\"highlight\"><strong>history</strong></span>",
         "historique.his1": "<span class=\"highlight\"><strong>MAY 2017</strong></span> - Creation of the student club <span class=\"highlight\"><strong>Naova</strong></span> by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier",
         "historique.his2": "<span class=\"highlight\"><strong>JANUARY 24 2018</strong></span> - Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
         "historique.his3": "<span class=\"highlight\"><strong>JUNE 15-22, 2018</strong></span> - Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
@@ -121,6 +145,28 @@ export default{
         "project.skill3": "Communication developement",
         "project.skill4": "Movement management, controls",
         "project.skill5": "Club's information technolgy",
-        "project.skill6": "Deep Learning project"
+        "project.skill6": "Deep Learning project",
+
+        "team.title":"Naova's team",
+        "team.description": "Humans behind bots",
+        "team.capitain": "Capitain",
+        "team.assistant": "Assistant Capitain",
+        "team.director": "Director",
+        "team.administration": "Administration",
+        "team.ti": "Information Technology Enginnering",
+        "team.log":"Software engineering",
+        "team.gpa": "Engineering of Automated Production",
+
+        "sponsors.title": "Sponsors",
+        "sponsors.description": "Thanks for all our sponsors!",
+        "sponsors.becomeSponsors": "Become a sponsors!",
+        "sponsors.diamond": "Diamond",
+        "sponsors.platinum": "Platinum",
+        "sponsors.gold": "Gold",
+        "sponsors.silver": "Silver",
+        "sponsors.bronze": "Bronze",
+        "sponsors.sp1": "ETS's Student Association",
+        "sponsors.sp2": "Ubisoft Montréal",
+        "sponsors.sp3": "Fond de recherche du Québec"
     }
 }

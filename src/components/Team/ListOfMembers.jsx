@@ -40,12 +40,6 @@ class ListOfMembers extends Component {
 
                             <Member 
                                 imgName=""
-                                name="Benjamin Caron"
-                                idProgramme="team.log"
-                                defaultMessageProgramme="Software engineering"/>
-
-                            <Member 
-                                imgName=""
                                 name="Anthony Brochu"
                                 idProgramme="team.log"
                                 defaultMessageProgramme="Software engineering"/>
@@ -55,6 +49,18 @@ class ListOfMembers extends Component {
                                 name="Benjamin Brulard"
                                 idProgramme="team.ti"
                                 defaultMessageProgramme="Information Technology Enginnering"/>
+
+                            <Member 
+                                imgName=""
+                                name="Benjamin Caron"
+                                idProgramme="team.log"
+                                defaultMessageProgramme="Software engineering"/>
+
+                            <Member 
+                                imgName="steph"
+                                name="Stéphanie Lacerte"
+                                idProgramme="team.log"
+                                defaultMessageProgramme="Software engineering"/>
 
                             <Member 
                                 imgName=""

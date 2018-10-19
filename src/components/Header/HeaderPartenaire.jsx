@@ -3,6 +3,8 @@ import { FormattedMessage } from "react-intl";
 
 import "./headerPartenaire.css"
 
+const sponsor_pdf = require("../../doc/partenariat_2019.pdf");
+
 const naovoLogo_img = require("../../img/logo/logo_titre_degraderblanc2.png");
 
 class HeaderPartenaire extends Component {
@@ -18,7 +20,7 @@ class HeaderPartenaire extends Component {
                             <p className="lead"><FormattedMessage id="sponsors.description" defaultMessage="Thanks for all our sponsors!"/></p>
                         </div>
                         <center>
-                            <a href="../../doc/partenariat.pdf" target='_blank' type="button" className="btn btn-primary btn_become_sponsor">
+                            <a href={sponsor_pdf} target='_blank' type="button" className="btn btn-primary btn_become_sponsor">
                                 <FormattedMessage id="sponsors.becomeSponsors" defaultMessage="Become a sponsors!" />
                             </a>
                         </center>

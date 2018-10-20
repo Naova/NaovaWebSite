@@ -6,6 +6,7 @@ import "./header.css"
 const naovoLogo_img = require("../../img/logo/logo_titre_degraderblanc2.png");
 const aeetsLogo_img = require("../../img/partenaire/aeetslogo.png");
 const ubiMtlLogo_img = require("../../img/partenaire/Ubisoft_Montreal_Logo.png");
+const etsLogo_img = require("../../img/partenaire/ets.png");
 
 class Header extends Component {
 
@@ -19,8 +20,9 @@ class Header extends Component {
                             <h1><FormattedMessage id="header.title" defaultMessage="Robotic scientific club" /></h1>
                             <p className="lead"><FormattedMessage id="header.school" defaultMessage="Ecole de Technologie Supérieure, Montréal" /></p>
                             <div>
+                                <img src={etsLogo_img} className="partenaire_ets_img intro-logo" alt="École de technologie supérieure"/>
                                 <img src={aeetsLogo_img} className="partenaire_aeets_img intro-logo" alt="AEETS"/>
-                                <img src={ubiMtlLogo_img} className="partenaire_ubiMtl_img intro-logo" alt="Ubisoft Montréal"/>
+                                <img src={ubiMtlLogo_img} className="partenaire_ubiMtl_img intro-logo" alt="Ubisoft Montréal"/> 
                             </div>
                             <a href="#tf-presentation" className="scroll goto-arrow"><i className=" fa fa-arrow-down fa-3x"></i></a>
                         </div>

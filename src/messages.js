@@ -8,10 +8,14 @@ export default{
         "header.school": "École de Technologie Supérieure, Montréal",
 
         "historique.sectionHeadNaoChild": "<span class=\"highlight\"><strong>Historique</strong></span> du club",
-        "historique.his1": "<span class=\"highlight\"><strong>MAI 2017</strong></span> - Création du club étudiant <span class=\"highlight\"><strong>Naova</strong></span> par Jonathan Fortin, Alexandre Doyle et Thierry Pouplier",
-        "historique.his2": "<span class=\"highlight\"><strong>24 JANVIER 2018</strong></span> - Qualifié pour participer à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
-        "historique.his3": "<span class=\"highlight\"><strong>15 au 22 JUIN 2018</strong></span> - Participation à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
-        "historique.his4": "<span class=\"highlight\"><strong>22 JUIN 2018</strong></span> - Finaliste (Challenge Shield) de la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his1_date": "MAI 2017",
+        "historique.his1": "Création du club étudiant <span class=\"highlight\"><strong>Naova</strong></span> par Jonathan Fortin, Alexandre Doyle et Thierry Pouplier",
+        "historique.his2_date": "24 JANIVIER 2018",
+        "historique.his2": "Qualifié pour participer à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his3_date": "15 au 22 JUIN 2018",
+        "historique.his3": "Participation à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his4_date": "22 JUIN 2018",
+        "historique.his4": "Finaliste (Challenge Shield) de la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
 
         "imgages.sectionHeadNaoTitle": "Parce qu'un robot vaut mille photos",
         "images.sectionHeadNaoChild": "Notre travail en <span class=\"highlight\"><strong>image</strong></span>",
@@ -82,7 +86,8 @@ export default{
         "sponsors.bronze": "Bronze",
         "sponsors.sp1": "Association Étudiante de l'ETS",
         "sponsors.sp2": "Ubisoft Montréal",
-        "sponsors.sp3": "Fond de recherche du Québec"
+        "sponsors.sp3": "Fond de recherche du Québec",
+        "sponsors.sp4": "École de technologie supérieure"
     },
     en:{
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
@@ -93,10 +98,14 @@ export default{
         "header.school": "Ecole de Technologie Supérieure, Montréal",
 
         "historique.sectionHeadNaoChild": "Club <span class=\"highlight\"><strong>history</strong></span>",
-        "historique.his1": "<span class=\"highlight\"><strong>MAY 2017</strong></span> - Creation of the student club <span class=\"highlight\"><strong>Naova</strong></span> by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier",
-        "historique.his2": "<span class=\"highlight\"><strong>JANUARY 24 2018</strong></span> - Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
-        "historique.his3": "<span class=\"highlight\"><strong>JUNE 15-22, 2018</strong></span> - Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
-        "historique.his4": "<span class=\"highlight\"><strong>JUIN 22, 2018</strong></span> - Finalist (Challenge Shield) to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his1_date": "MAY 2017",
+        "historique.his1": "Creation of the student club <span class=\"highlight\"><strong>Naova</strong></span> by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier",
+        "historique.his2_date": "JANUARY 24 2018",
+        "historique.his2": "Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his3_date": "JUNE 15-22, 2018",
+        "historique.his3": "Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his4_date": "JUIN 22, 2018",
+        "historique.his4": "Finalist (Challenge Shield) to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
 
         "imgages.sectionHeadNaoTitle": "Because a robot is worth a thousand photos",
         "images.sectionHeadNaoChild": "Our work in <span class=\"highlight\"><strong>pictures</strong></span>",
@@ -167,6 +176,7 @@ export default{
         "sponsors.bronze": "Bronze",
         "sponsors.sp1": "ETS's Student Association",
         "sponsors.sp2": "Ubisoft Montréal",
-        "sponsors.sp3": "Fond de recherche du Québec"
+        "sponsors.sp3": "Fond de recherche du Québec",
+        "sponsors.sp4": "Ecole de technologie superieure"
     }
 }

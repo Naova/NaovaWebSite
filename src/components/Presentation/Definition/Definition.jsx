@@ -1,12 +1,14 @@
 import React, { Component } from "react";
 import { FormattedHTMLMessage } from "react-intl";
 
+import "./definition.css";
+
 class Definition extends Component {
 //<center><a href="/competition.html" className="btn btn-primary"><FormattedMessage id="definition.buton" defaultMessage="Show the competition's results!" /></a></center>
     render(){
         return(
             <div className="container">
-                <div className="col-md-12">
+                <div className="col-md-12 naova_definition">
                     <p><FormattedHTMLMessage id="definition.def1" defaultMessage="Naova is the new robotic scientific club at ETS founded by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier." /></p><br/>
                     <p><FormattedHTMLMessage id="definition.def2" defaultMessage="It has for goal to participate in robotic soccer games during the main international robotic competition: the Robocup. 
                             During the games, robot teams compete to score a maximum of goals against the opponent.

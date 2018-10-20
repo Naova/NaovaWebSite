@@ -19,7 +19,7 @@ addLocaleData(fr);
 let store = createStore(reducerApp,
 	compose(
         applyMiddleware(thunk),
-		window.devToolsExtension ? window.devToolsExtension() : f => f
+		//window.devToolsExtension ? window.devToolsExtension() : f => f
     )
 );
 

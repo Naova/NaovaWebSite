@@ -22,7 +22,7 @@ class RightSummary extends Component {
                 </div>
                 <div className="media-body">
                     <h4 className="media-heading"><a href={link}><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></a></h4>
-                    <p><FormattedMessage id={idDescription} defaultMessage={defaultMessageDescription} /></p>
+                    <p className="naova_summary_unit"><FormattedMessage id={idDescription} defaultMessage={defaultMessageDescription} /></p>
                     <p>{this.renderLink()}</p>
                 </div>
             </div>

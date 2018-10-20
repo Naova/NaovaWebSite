@@ -1,0 +1,13 @@
+@media (max-width: 768px){
+    .naova_historique {
+        text-align: center;
+    }
+
+    .naova_historique_date {
+        display: block;
+    }
+
+    .naova_historique_line {
+        display: none;
+    }
+}

@@ -17,26 +17,26 @@ class ListOfMembers extends Component {
                             <Member 
                                 imgName="jonathan"
                                 name="Jonathan Fortin"
-                                idProgramme="team.assistant"
-                                defaultMessageProgramme="Assistant Capitain"/>
+                                idProgramme="team.cocap"
+                                defaultMessageProgramme="Co-Captain"/>
 
                             <Member 
                                 imgName="thierry"
                                 name="Thierry Pouplier"
-                                idProgramme="team.director"
-                                defaultMessageProgramme="Director"/>
+                                idProgramme="team.cocap"
+                                defaultMessageProgramme="Co-Captain"/>
 
                             <Member 
                                 imgName=""
                                 name="Vincent Girardeau"
-                                idProgramme="team.director"
-                                defaultMessageProgramme="Director"/>
+                                idProgramme="team.treasurer"
+                                defaultMessageProgramme="Treasurer"/>
 
                             <Member 
-                                imgName="alex"
-                                name="Alexandre Doyle"
-                                idProgramme="team.administration"
-                                defaultMessageProgramme="Administration"/>
+                                imgName=""
+                                name="Émile Bolduc"
+                                idProgramme="team.log"
+                                defaultMessageProgramme="Software engineering"/>
 
                             <Member 
                                 imgName=""
@@ -57,8 +57,32 @@ class ListOfMembers extends Component {
                                 defaultMessageProgramme="Software engineering"/>
 
                             <Member 
+                                imgName="alex"
+                                name="Alexandre Doyle"
+                                idProgramme="team.mec"
+                                defaultMessageProgramme="Mechanical engineering"/>
+
+                            <Member 
+                                imgName=""
+                                name="Florent Duchesne"
+                                idProgramme="team.log"
+                                defaultMessageProgramme="Software engineering"/>
+
+                            <Member 
+                                imgName=""
+                                name="Berkane-Hicheme Larbi"
+                                idProgramme="team.log"
+                                defaultMessageProgramme="Software engineering"/>
+
+                            <Member 
                                 imgName="steph"
                                 name="Stéphanie Lacerte"
+                                idProgramme="team.log"
+                                defaultMessageProgramme="Software engineering"/>
+
+                            <Member 
+                                imgName=""
+                                name="Laurent Lemire"
                                 idProgramme="team.log"
                                 defaultMessageProgramme="Software engineering"/>
 
@@ -71,6 +95,12 @@ class ListOfMembers extends Component {
                             <Member 
                                 imgName="marc_antoine"
                                 name="Marc-Antoine Lussier"
+                                idProgramme="team.log"
+                                defaultMessageProgramme="Software engineering"/>
+
+                            <Member 
+                                imgName=""
+                                name="Simon Prud'Homme"
                                 idProgramme="team.log"
                                 defaultMessageProgramme="Software engineering"/>
 

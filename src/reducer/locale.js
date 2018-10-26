@@ -1,7 +1,7 @@
 import { LOCALE_SET } from "../types/locale";
 
 let lg = "en";
-if(navigator && navigator.language && (navigator.language.startsWith("fr") || navigator.userLanguage.startsWith("fr"))){
+if(navigator && ((navigator.language && navigator.language.startsWith("fr")) || (navigator.language && navigator.userLanguage.startsWith("fr")))){
     lg = "fr"
 }
 

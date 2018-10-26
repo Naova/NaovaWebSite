@@ -27,23 +27,3 @@
     -o-transition: width .6s ease;
     transition: width .6s ease;
 }
-
-.progress-bar.progress-65{
-    width: 65%
-}
-
-.progress-bar.progress-62{
-    width: 62%
-}
-
-.progress-bar.progress-60{
-    width: 60%
-}
-
-.progress-bar.progress-55{
-    width: 55%
-}
-
-.progress-bar.progress-25{
-    width: 25%
-}

@@ -1,0 +1,56 @@
+[
+    {
+        "idTitle":"project.skill1",
+        "defaultMessageTitle":"Project to estimate the state of the game",
+        "open":17,
+        "close":2
+    },
+    {
+        "idTitle":"project.skill2",
+        "defaultMessageTitle":"Strategy GUI project",
+        "open":15,
+        "close":2
+    },
+    {
+        "idTitle":"project.skill3",
+        "defaultMessageTitle":"Project for creating installation tools",
+        "open":2,
+        "close":0
+    },
+    {
+        "idTitle":"project.skill4",
+        "defaultMessageTitle":"Machine learning decision making project",
+        "open":6,
+        "close":2
+    },
+    {
+        "idTitle":"project.skill5",
+        "defaultMessageTitle":"Project for the walk improvement",
+        "open":5,
+        "close":0
+    },
+    {
+        "idTitle":"project.skill6",
+        "defaultMessageTitle":"Robot animation project",
+        "open":3,
+        "close":0
+    },
+    {
+        "idTitle":"project.skill7",
+        "defaultMessageTitle":"Project to create the generics skills",
+        "open":8,
+        "close":0
+    },
+    {
+        "idTitle":"project.skill8",
+        "defaultMessageTitle":"Project about robot communication",
+        "open":3,
+        "close":0
+    },
+    {
+        "idTitle":"project.skill9",
+        "defaultMessageTitle":"Project of head movement",
+        "open":5,
+        "close":0
+    }
+]

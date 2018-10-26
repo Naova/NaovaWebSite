@@ -6,6 +6,7 @@ import Skill from "./Skill";
 import "./project.css";
 
 const redNao_img = require("../../img/nao-solo-rouge.png");
+const project_data = require("./project.json");
 
 class Project extends Component {
 
@@ -33,41 +34,10 @@ class Project extends Component {
                                         <h4><strong><FormattedMessage id="project.title" defaultMessage="Progression" /></strong></h4>
                                         <p><FormattedMessage id="project.description" defaultMessage="Our team works (too?) hard on the following projects."/></p>
                                         <div className="skills">
-                                            <Skill
-                                                idTitle="project.skill1" 
-                                                defaultMessageTitle="Simulation"
-                                                value_num="65"
-                                                className="progress-65"/>
-                                            
-                                            <Skill
-                                                idTitle="project.skill2"
-                                                defaultMessageTitle="Vision developement"
-                                                value_num="60"
-                                                className="progress-60"/>
-                                            
-                                            <Skill
-                                                idTitle="project.skill3" 
-                                                defaultMessageTitle="Communication developement"
-                                                value_num="55"
-                                                className="progress-55"/>
-                                            
-                                            <Skill
-                                                idTitle="project.skill4"
-                                                defaultMessageTitle="Movement management, controls"
-                                                value_num="60"
-                                                className="progress-60"/>
-                                            
-                                            <Skill 
-                                                idTitle="project.skill5"
-                                                defaultMessageTitle="Club's information technolgy"
-                                                value_num="62"
-                                                className="progress-62"/>
-
-                                            <Skill 
-                                                idTitle="project.skill6"
-                                                defaultMessageTitle="Deep Learning project"
-                                                value_num="25"
-                                                className="progress-25"/>
+                                            {project_data.map((data, i) => {
+                                                let value = (data.close / (data.close + data.open)) * 100;
+                                                return <Skill key={i} idTitle={data.idTitle} defaultMessageTitle={data.defaultMessage} value_num={Math.round(value)} />
+                                            })}
                                         </div>
                                     </div>
                                 </div>

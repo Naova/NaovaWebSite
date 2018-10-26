@@ -6,7 +6,8 @@ import Skill from "./Skill";
 import "./project.css";
 
 const redNao_img = require("../../img/nao-solo-rouge.png");
-const project_data = require("./project.json");
+const project_data = require("../../json/project.json");
+
 
 class Project extends Component {
 

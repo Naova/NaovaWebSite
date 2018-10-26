@@ -1,5 +1,5 @@
 export default{
-    fr:{
+    fr: {
         "contactUs.sectionHeadNaoTitle": "Parce qu'on aime les cartes postales",
         "contactUs.sectionHeadNaoChild": "Pour nous <span class=\"highlight\"><strong>contacter</strong></span>",
         "contactUs.address": "1100 Rue Notre-Dame Ouest, Montréal, QC H3C 1K3",
@@ -93,7 +93,7 @@ export default{
         "sponsors.sp3": "Fond de recherche du Québec",
         "sponsors.sp4": "École de technologie supérieure"
     },
-    en:{
+    en: {
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
         "contactUs.sectionHeadNaoChild": "Contact <span class=\"highlight\"><strong>us</strong></span>",
         "contactUs.address": "1100 Notre-Dame Street West, Montréal, QC H3C 1K3",

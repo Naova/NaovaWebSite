@@ -1,5 +1,5 @@
 export default{
-    fr:{
+    fr: {
         "contactUs.sectionHeadNaoTitle": "Parce qu'on aime les cartes postales",
         "contactUs.sectionHeadNaoChild": "Pour nous <span class=\"highlight\"><strong>contacter</strong></span>",
         "contactUs.address": "1100 Rue Notre-Dame Ouest, Montréal, QC H3C 1K3",
@@ -72,12 +72,13 @@ export default{
         "team.title":"L'équipe Naova",
         "team.description": "Les humains derières les robots",
         "team.capitain": "Capitaine",
-        "team.assistant": "Assistant Capitaine",
-        "team.director": "Directeur",
+        "team.cocap": "Co-Capitaine",
+        "team.treasurer": "Trésorier",
         "team.administration": "Administration",
         "team.ti": "Génie Technologies de l'Information",
         "team.log": "Génie Logiciel",
         "team.gpa": "Génie de la Production Automatisée",
+        "team.mec": "Génie Mécanique",
 
         "sponsors.title": "Partenaires",
         "sponsors.description": "Merci à nos partenaires!",
@@ -92,7 +93,7 @@ export default{
         "sponsors.sp3": "Fond de recherche du Québec",
         "sponsors.sp4": "École de technologie supérieure"
     },
-    en:{
+    en: {
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
         "contactUs.sectionHeadNaoChild": "Contact <span class=\"highlight\"><strong>us</strong></span>",
         "contactUs.address": "1100 Notre-Dame Street West, Montréal, QC H3C 1K3",
@@ -165,12 +166,13 @@ export default{
         "team.title":"Naova's team",
         "team.description": "Humans behind bots",
         "team.capitain": "Capitain",
-        "team.assistant": "Assistant Capitain",
-        "team.director": "Director",
+        "team.cocap": "Co-Capitain",
+        "team.treasurer": "Treasurer",
         "team.administration": "Administration",
         "team.ti": "Information Technology Enginnering",
         "team.log":"Software engineering",
         "team.gpa": "Engineering of Automated Production",
+        "team.mec": "Mechanical engineering",
 
         "sponsors.title": "Sponsors",
         "sponsors.description": "Thanks for all our sponsors!",

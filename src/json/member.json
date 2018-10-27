@@ -1,0 +1,104 @@
+[
+    {
+        "imgName": "ariane",
+        "name": "Ariane B. Bétournay",
+        "idProgramme": "team.capitain",
+        "defaultMessageProgramme": "Capitain"
+    },
+    {
+        "imgName": "jonathan",
+        "name": "Jonathan Fortin",
+        "idProgramme": "team.cocap",
+        "defaultMessageProgramme": "Co-Captain"
+    },
+    {
+        "imgName": "thierry",
+        "name": "Thierry Pouplier",
+        "idProgramme": "team.cocap",
+        "defaultMessageProgramme": "Co-Captain"
+    },
+    {
+        "imgName": "",
+        "name": "Vincent Girardeau",
+        "idProgramme": "team.treasurer",
+        "defaultMessageProgramme": "Treasurer"
+    },
+    {
+        "imgName": "",
+        "name": "Émile Bolduc",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "",
+        "name": "Anthony Brochu",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "ben",
+        "name": "Benjamin Brulard",
+        "idProgramme": "team.ti",
+        "defaultMessageProgramme": "Information Technology Enginnering"
+    },
+    {
+        "imgName": "",
+        "name": "Benjamin Caron",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "alex",
+        "name": "Alexandre Doyle",
+        "idProgramme": "team.mec",
+        "defaultMessageProgramme": "Mechanical engineering"
+    },
+    {
+        "imgName": "",
+        "name": "Florent Duchesne",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "",
+        "name": "Berkane-Hicheme Larbi",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "",
+        "name": "Laurent Lemire",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "",
+        "name": "Etienne Lussier",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "marc_antoine",
+        "name": "Marc-Antoine Lussier",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "",
+        "name": "Simon Prud'Homme",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "humberto",
+        "name": "Humberto Ramos",
+        "idProgramme": "team.gpa",
+        "defaultMessageProgramme": "Engineering of Automated Production"
+    },
+    {
+        "imgName": "",
+        "name": "Edwin Zelaya-Diaz",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    }
+]

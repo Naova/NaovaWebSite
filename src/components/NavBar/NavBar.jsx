@@ -52,48 +52,43 @@ class NavBar extends Component {
                     <div className={navClassName} id="navbar">
                     <ul className="nav navbar-nav navbar-right">
                         <li>
-                            <a href="/#tf-home" onClick={this.onChangeCollapse} className="scroll">
-                                <FormattedMessage id="nav.home" defaultMessage="Home" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/#tf-presentation" onClick={this.onChangeCollapse} className="scroll">
-                                <FormattedMessage id="nav.presentation" defaultMessage="Presentation" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/#tf-history" onClick={this.onChangeCollapse} className="scroll">
-                                <FormattedMessage id="nav.history" defaultMessage="History" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/#tf-about" onClick={this.onChangeCollapse} className="scroll">
+                            <a href="/#project" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
                                 <FormattedMessage id="nav.projects" defaultMessage="Projects" />
                             </a>
                         </li>
                         <li>
-                            <a href="/#tf-works" onClick={this.onChangeCollapse} className="scroll">
+                            <a href="/#pictures" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
                                 <FormattedMessage id="nav.pictures" defaultMessage="Pictures" />
                             </a>
                         </li>
                         <li>
-                            <a href="/team" onClick={this.onChangeCollapse} className="scroll">
+                            <a href="/press" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
+                                <FormattedMessage id="nav.press" defaultMessage="Press" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/team" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
                                 <FormattedMessage id="nav.team" defaultMessage="Team" />
                             </a>
                         </li>
                         <li>
-                            <a href="/sponsors" onClick={this.onChangeCollapse} className="scroll">
-                                <FormattedMessage id="nav.sponsors" defaultMessage="Sponsors" />
+                            <a href="/scientific" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
+                                <FormattedMessage id="nav.scientific" defaultMessage="Scientific" />
                             </a>
                         </li>
                         <li>
-                            <a href="/#tf-contact" onClick={this.onChangeCollapse} className="scroll">
-                                <FormattedMessage id="nav.contact" defaultMessage="Contact us" />
+                            <a href="/history" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
+                                <FormattedMessage id="nav.history" defaultMessage="History" />
                             </a>
-                        </li> 
-                        <li><span className="scroll navbar_small_bar">|</span></li>
+                        </li>
                         <li>
-                            <a className="scroll" onClick={this.onChangeLangue}>
+                            <a href="/sponsors" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
+                                <FormattedMessage id="nav.sponsors" defaultMessage="Sponsors" />
+                            </a>
+                        </li>
+                        <li><span className="scroll navbar_small_bar navbar-item-naova">|</span></li>
+                        <li>
+                            <a className="scroll navbar-item-naova" onClick={this.onChangeLangue}>
                                 <FormattedMessage id="nav.langue" defaultMessage="fr" />
                             </a>
                         </li>

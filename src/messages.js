@@ -28,14 +28,13 @@ export default{
         "definition.def4": "Nous sommes finaliste de la RoboCup de Montréal (Challenge Shield) qui avait lieu du 15 au 22 juin 2018 au Palais des Congrès!",
         "definition.buton": "Voir les résultats de la compétition!",
 
-        "nav.home": "Accueil",
-        "nav.presentation": "Présentation",
         "nav.history": "Historique",
         "nav.projects": "Projets",
         "nav.pictures": "Photos",
+        "nav.press": "Presse",
+        "nav.scientific": "Scientifique",
         "nav.team": "Équipe",
         "nav.sponsors": "Partenaires",
-        "nav.contact": "Nous rejoindre",
         "nav.langue": "en",
 
         "summary.title1": "UN BUT CLAIR",
@@ -91,7 +90,21 @@ export default{
         "sponsors.sp1": "Association Étudiante de l'ETS",
         "sponsors.sp2": "Ubisoft Montréal",
         "sponsors.sp3": "Fond de recherche du Québec",
-        "sponsors.sp4": "École de technologie supérieure"
+        "sponsors.sp4": "École de technologie supérieure",
+
+        "press.title": "La presse de Naova",
+        "press.btn": "En savoir plus",
+        "press.date1": "23 août 2017",
+        "press.date2": "30 juin 2017",
+        "press.date3": "4 mai 2017",
+        "press.date4": "9 mai 2017",
+        "press.date5": "28 janvier 2018",
+        "press.date6": "9 mai 2018",
+        "press.date7": "10 juin 2018",
+        "press.date8": "18 juin 2018",
+        "press.date9": "11 juillet 2018",
+        "press.date10": "13 juillet 2018",
+        "press.date11": "13 octobre 2018"
     },
     en: {
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
@@ -104,7 +117,7 @@ export default{
         "historique.sectionHeadNaoChild": "Club <span class=\"highlight\"><strong>history</strong></span>",
         "historique.his1_date": "MAY 2017",
         "historique.his1": "Creation of the student club <span class=\"highlight\"><strong>Naova</strong></span> by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier",
-        "historique.his2_date": "JANUARY 24 2018",
+        "historique.his2_date": "JANUARY 24, 2018",
         "historique.his2": "Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
         "historique.his3_date": "JUNE 15-22, 2018",
         "historique.his3": "Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
@@ -122,14 +135,13 @@ export default{
         "definition.def4": "We are finalist of the Montréal RoboCup (Challenge Shield) during june 15 to 22, 2018 at the Palais des Congrès!",
         "definition.buton": "Show the competition's results!",
 
-        "nav.home": "Home",
-        "nav.presentation": "Presentation",
         "nav.history": "History",
         "nav.projects": "Projects",
         "nav.pictures": "Pictures",
+        "nav.press": "Press",
+        "nav.scientific": "Scientific",
         "nav.tem": "Team",
         "nav.sponsors": "Sponsors",
-        "nav.contact": "Contact us",
         "nav.langue": "fr",
 
         "summary.title1": "A CLEAR GOAL",
@@ -185,6 +197,20 @@ export default{
         "sponsors.sp1": "ETS's Student Association",
         "sponsors.sp2": "Ubisoft Montréal",
         "sponsors.sp3": "Fond de recherche du Québec",
-        "sponsors.sp4": "Ecole de technologie superieure"
+        "sponsors.sp4": "Ecole de technologie superieure",
+
+        "press.title": "Naova's press",
+        "press.btn": "Show more",
+        "press.date1": "August 23, 2017",
+        "press.date2": "June 30, 2017",
+        "press.date3": "May 4, 2017",
+        "press.date4": "May 9, 2017",
+        "press.date5": "January 28, 2018",
+        "press.date6": "May 9, 2018",
+        "press.date7": "June 10, 2018",
+        "press.date8": "June 18, 2018",
+        "press.date9": "July 11, 2018",
+        "press.date10": "July 13, 2018",
+        "press.date11": "October 13, 2018"
     }
 }

@@ -9,7 +9,7 @@ class Images extends Component {
 
     render(){
         return(
-            <div id="tf-works">
+            <div id="pictures">
                 <SectionHeaderNao isBigNaoFace={false} idSmallTitle="imgages.sectionHeadNaoTitle" defaultMessageSmallTitle="Because a robot is worth a thousand photos">
                     <FormattedHTMLMessage id="images.sectionHeadNaoChild" defaultMessage='Our work in <span class="highlight"><strong>pictures</strong></span>' />
                 </SectionHeaderNao>

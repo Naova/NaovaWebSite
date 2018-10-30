@@ -11,6 +11,7 @@ import { IntlProvider } from "react-intl";
 import Home from "./containers/Home/Home";
 import Team from "./containers/Team/Team";
 import Sponsors from "./containers/Sponsors/Sponsors";
+import Press from "./containers/Press/Press";
 
 import messages from "./messages";
 import "./style/bootstrap.min.css";
@@ -26,9 +27,11 @@ class App extends Component {
 				<div>
 					<Router>
 						<Switch>
-							<Route exact path="/" component={Home} />
 							<Route exact path="/team" component={Team} />
 							<Route exact path="/sponsors"component={Sponsors} />
+							<Route exact path="/press"component={Press} />
+							<Route path="/" component={Home} />
+							<Route component={Home} />
 						</Switch>
 					</Router>
 				</div>

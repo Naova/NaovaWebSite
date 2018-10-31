@@ -4,7 +4,7 @@ import HeaderPress from "../../components/Header/HeaderPress";
 import ListOfPress from "../../components/Press/ListOfPress";
 import Footer from "../../components/Footer/Footer";
 
-class Home extends Component {
+class Press extends Component {
     render() {
         return (
             <div className="App">
@@ -17,4 +17,4 @@ class Home extends Component {
     }
 }
 
-export default Home;
+export default Press;

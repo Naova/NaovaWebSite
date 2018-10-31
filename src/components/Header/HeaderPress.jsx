@@ -5,7 +5,7 @@ import "./headerPress.css"
 
 const naovoLogo_img = require("../../img/logo/logo_titre_degraderblanc2.png");
 
-class Header extends Component {
+class HeaderPress extends Component {
 
     render(){
         return(
@@ -23,4 +23,4 @@ class Header extends Component {
     }
 }
 
-export default Header;
+export default HeaderPress;

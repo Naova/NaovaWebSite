@@ -104,7 +104,10 @@ export default{
         "press.date8": "18 juin 2018",
         "press.date9": "11 juillet 2018",
         "press.date10": "13 juillet 2018",
-        "press.date11": "13 octobre 2018"
+        "press.date11": "13 octobre 2018",
+
+        "scientific.title": "Les articles scientifiques de Naova",
+        "sci.date1": "Décembre 2018"
     },
     en: {
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
@@ -211,6 +214,9 @@ export default{
         "press.date8": "June 18, 2018",
         "press.date9": "July 11, 2018",
         "press.date10": "July 13, 2018",
-        "press.date11": "October 13, 2018"
+        "press.date11": "October 13, 2018",
+
+        "scientific.title": "Naova's scientific articles",
+        "sci.date1": "December 2018"
     }
 }

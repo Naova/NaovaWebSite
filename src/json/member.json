@@ -11,14 +11,16 @@
         "img2Name": "jonathan2",
         "name": "Jonathan Fortin",
         "idProgramme": "team.cocap",
-        "defaultMessageProgramme": "Co-Captain"
+        "defaultMessageProgramme": "Co-Captain",
+        "isFounder": true
     },
     {
         "imgName": "thierry",
         "img2Name": "thierry2",
         "name": "Thierry Pouplier",
         "idProgramme": "team.cocap",
-        "defaultMessageProgramme": "Co-Captain"
+        "defaultMessageProgramme": "Co-Captain",
+        "isFounder": true
     },
     {
         "imgName": "",
@@ -55,7 +57,8 @@
         "img2Name": "alex2",
         "name": "Alexandre Doyle",
         "idProgramme": "team.mec",
-        "defaultMessageProgramme": "Mechanical engineering"
+        "defaultMessageProgramme": "Mechanical engineering",
+        "isFounder": true
     },
     {
         "imgName": "florent",

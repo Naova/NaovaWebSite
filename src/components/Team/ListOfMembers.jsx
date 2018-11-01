@@ -11,7 +11,7 @@ class ListOfMembers extends Component {
                     <div className="container">
                         <div>
                             {member_data.map((m, i) => {
-                                return <Member key={i} imgName={m.imgName} img2Name={m.img2Name} name={m.name} idProgramme={m.idProgramme} defaultMessageProgramme={m.defaultMessageProgramme} />
+                                return <Member key={i} imgName={m.imgName} img2Name={m.img2Name} name={m.name} idProgramme={m.idProgramme} isFounder={m.isFounder} defaultMessageProgramme={m.defaultMessageProgramme} />
                             })}
                         </div>
                     </div>

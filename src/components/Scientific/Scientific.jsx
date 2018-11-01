@@ -13,7 +13,7 @@ class Scientific extends Component {
                     <span>[{lang}] - {title}</span>               
                 </SectionHeaderNao>
                 <div className="naova-scientific-resume">
-                    <a href={require(`../../doc/scientific/${link}`)} target='_blank' type="button" className="btn btn-default">
+                    <a href={require(`../../doc/scientific/${link}`)} target="_blank" type="button" className="btn btn-default">
                         <FormattedMessage id="press.btn" defaultMessage="Show more" />
                     </a>
                 </div>

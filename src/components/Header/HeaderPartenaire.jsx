@@ -20,7 +20,7 @@ class HeaderPartenaire extends Component {
                             <p className="lead"><FormattedMessage id="sponsors.description" defaultMessage="Thanks for all our sponsors!"/></p>
                         </div>
                         <center>
-                            <a href={sponsor_pdf} target='_blank' type="button" className="btn btn-primary btn_become_sponsor">
+                            <a href={sponsor_pdf} target="_blank" type="button" className="btn btn-primary btn_become_sponsor">
                                 <FormattedMessage id="sponsors.becomeSponsors" defaultMessage="Become a sponsors!" />
                             </a>
                         </center>

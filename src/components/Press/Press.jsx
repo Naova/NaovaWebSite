@@ -16,7 +16,7 @@ class Press extends Component {
                 </SectionHeaderNao>
                 <div className="naova-press-resume">
                     <p>[{lang} - {type}] - {resume}</p>
-                    <a href={link} target='_blank' type="button" className="btn btn-default">
+                    <a href={link} target="_blank" type="button" className="btn btn-default">
                         <FormattedMessage id="press.btn" defaultMessage="Show more" />
                     </a>
                 </div>

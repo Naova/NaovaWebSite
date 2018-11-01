@@ -1,0 +1,21 @@
+.naova_press_section {
+    padding-bottom: 20px;
+}
+
+.naova-press-resume{
+    text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+}
+
+.naova-press-resume .btn-default {
+    color: white;
+    background-color: #e00b4d;
+    border-color: black;
+} 
+
+.naova-press-resume .btn-default:hover {
+    color: black;
+    background-color: white;
+    border-color: black;
+} 

@@ -36,3 +36,11 @@
 .navbar.navbar-fixed-top .navbar-collapse.not_collapse{
     text-align: left;
 }
+
+.nav>li>a.navbar-item-naova{
+    padding: 15px 10px;
+}
+
+.navbar-item-naova {
+    cursor: pointer;
+}

@@ -50,7 +50,7 @@ class ContactUs extends Component {
                             <div className="row">
                                 <div className="col-md-4">
                                     <div className="contact-detail">
-                                        <a href="https://goo.gl/maps/3hMjSTfhGeo">
+                                        <a href="https://goo.gl/maps/3hMjSTfhGeo" target="_blank" rel="noopener noreferrer">
                                             <i className="fa fa-map-marker"></i>
                                             <h4><FormattedMessage id="contactUs.address" defaultMessage="1100 Notre-Dame Street West, Montréal, QC H3C 1K3" /></h4>
                                         </a>
@@ -64,7 +64,7 @@ class ContactUs extends Component {
                                 </div>
                                 <div className="col-md-4">
                                     <div className="contact-detail">
-                                        <a href="https://www.facebook.com/naorobotique/?ref=br_rs">
+                                        <a href="https://www.facebook.com/naorobotique/?ref=br_rs" target="_blank" rel="noopener noreferrer">
                                             <i className="fa fa-facebook"></i>
                                             <h4>Naova</h4>
                                         </a>

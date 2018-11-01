@@ -1,7 +1,7 @@
 .service .media-right i.fa {
     text-align: center;
     font-size: 30px;
-    background-color: #04007c;
+    background-color: #e00b4d;;
     color: #ffffff;
     padding: 25px 0;
     border-radius: 50px;
@@ -13,10 +13,14 @@
     transition: background-color 0.5s;
 }
 
+.service .media-right i.fa:hover {
+    background-color: #bf003b;;
+}
+
 .service .media-left i.fa {
     text-align: center;
     font-size: 30px;
-    background-color: #04007c;
+    background-color: #e00b4d;;
     color: #ffffff;
     padding: 25px 0;
     border-radius: 50px;
@@ -26,6 +30,28 @@
     width: 82px;
     height: 80px;
     transition: background-color 0.5s;
+}
+
+.service .media-left i.fa:hover {
+    background-color: #bf003b;;
+}
+
+.media-heading {
+    color: #e00b4d;
+}
+
+.media-heading a{
+    color: #e00b4d;
+}
+
+.media-heading:hover {
+    text-decoration: none;
+    color: #bf003b;
+}
+
+.media-heading a:hover {
+    text-decoration: none;
+    color: #bf003b;
 }
 
 .summary_section {

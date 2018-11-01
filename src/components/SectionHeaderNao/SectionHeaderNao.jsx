@@ -10,8 +10,10 @@ const naoFaceHalf_img = require("../../img/logo/naofacehalf.png");
 class SectionHeaderNao extends Component {
 
     renderSmalTitle() {
-        const { idSmallTitle, defaultMessageSmallTitle } = this.props;
-        if(idSmallTitle && defaultMessageSmallTitle){
+        const { idSmallTitle, defaultMessageSmallTitle, title } = this.props;
+        if(idSmallTitle && defaultMessageSmallTitle && title){
+            return <span><FormattedMessage id={idSmallTitle} defaultMessage={defaultMessageSmallTitle} /> {title}</span>;
+        }else if(idSmallTitle && defaultMessageSmallTitle){
             return <FormattedMessage id={idSmallTitle} defaultMessage={defaultMessageSmallTitle} />
         }else {
             return null;
@@ -39,7 +41,8 @@ class SectionHeaderNao extends Component {
 SectionHeaderNao.propTypes = {
     isBigNaoFace: PropTypes.bool,
     idSmallTitle: PropTypes.string,
-    defaultMessageSmallTitle: PropTypes.string
+    defaultMessageSmallTitle: PropTypes.string,
+    title: PropTypes.string
 }
 
 export default SectionHeaderNao;

@@ -13,7 +13,7 @@ class Project extends Component {
 
     render(){
         return(
-            <div id="tf-about">
+            <div id="project">
                 <SectionHeaderNao isBigNaoFace={false} idSmallTitle="project.sectionHeadNaoTitle" defaultMessageSmallTitle="Gotta keep workin'">
                     <FormattedHTMLMessage id="project.sectionHeadNaoChild" defaultMessage='Projects in <span class="highlight"><strong>progress</strong></span>'/>                    
                 </SectionHeaderNao>

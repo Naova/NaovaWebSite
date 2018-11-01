@@ -7,15 +7,15 @@ export default{
         "header.title": "Club scientifique de robotique",
         "header.school": "École de Technologie Supérieure, Montréal",
 
-        "historique.sectionHeadNaoChild": "<span class=\"highlight\"><strong>Historique</strong></span> du club",
+        "historique.title": "Historique du club",
         "historique.his1_date": "MAI 2017",
-        "historique.his1": "Création du club étudiant <span class=\"highlight\"><strong>Naova</strong></span> par Jonathan Fortin, Alexandre Doyle et Thierry Pouplier",
+        "historique.his1": "<h4>Création du club étudiant <span class=\"highlight\"><strong>Naova</strong></span> par Jonathan Fortin, Alexandre Doyle et Thierry Pouplier</h4>",
         "historique.his2_date": "24 JANIVIER 2018",
-        "historique.his2": "Qualifié pour participer à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his2": "<h4>Qualifié pour participer à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
         "historique.his3_date": "15 au 22 JUIN 2018",
-        "historique.his3": "Participation à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his3": "<h4>Participation à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4> <div><p><u>JOUR 4 - JEUDI, 21 JUIN 2018</u></p><ul><li>Naova(1) vs. NTURoboPAL(2) - Challenge Shield Finals</li></ul><p><u>JOUR 3 - MERCREDI, 20 JUIN 2018</u></p><ul><li>UPennalizers(1) vs. Naova(3) - Challenge Shield Semi Finals</li><li>NTU RoboPAL(4) vs. Naova(1)</li></ul><p><u>JOUR 2 - MARDI, 19 JUIN 2018</u></p><ul><li>Naova(2) vs. Dutch Nao Team(0)</li><li>Naova(0) vs. Unbeatables(0)</li><li>UT Austin Villa(6) vs. Naova(0)</li></ul><p><u>JOUR 1 - LUNDI, 18 JUIN 2018</u></p><ul><li>Aztlan(0) vs. Naova(1)</li><li>Dutch Nao Team(0) vs. Naova(0)</li></ul><p><u>JOUR 0 - DIMANCHE, 17 JUIN 2018</u></p><ul><li>Naova(0) vs. Aztlan(2)</li></ul></div>",
         "historique.his4_date": "22 JUIN 2018",
-        "historique.his4": "Finaliste (Challenge Shield) de la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his4": "<h4>Finaliste (Challenge Shield) de la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
 
         "imgages.sectionHeadNaoTitle": "Parce qu'un robot vaut mille photos",
         "images.sectionHeadNaoChild": "Notre travail en <span class=\"highlight\"><strong>image</strong></span>",
@@ -28,14 +28,13 @@ export default{
         "definition.def4": "Nous sommes finaliste de la RoboCup de Montréal (Challenge Shield) qui avait lieu du 15 au 22 juin 2018 au Palais des Congrès!",
         "definition.buton": "Voir les résultats de la compétition!",
 
-        "nav.home": "Accueil",
-        "nav.presentation": "Présentation",
         "nav.history": "Historique",
         "nav.projects": "Projets",
         "nav.pictures": "Photos",
+        "nav.press": "Presse",
+        "nav.scientific": "Scientifique",
         "nav.team": "Équipe",
         "nav.sponsors": "Partenaires",
-        "nav.contact": "Nous rejoindre",
         "nav.langue": "en",
 
         "summary.title1": "UN BUT CLAIR",
@@ -91,7 +90,24 @@ export default{
         "sponsors.sp1": "Association Étudiante de l'ETS",
         "sponsors.sp2": "Ubisoft Montréal",
         "sponsors.sp3": "Fond de recherche du Québec",
-        "sponsors.sp4": "École de technologie supérieure"
+        "sponsors.sp4": "École de technologie supérieure",
+
+        "press.title": "La presse de Naova",
+        "press.btn": "En savoir plus",
+        "press.date1": "23 août 2017",
+        "press.date2": "30 juin 2017",
+        "press.date3": "4 mai 2017",
+        "press.date4": "9 mai 2017",
+        "press.date5": "28 janvier 2018",
+        "press.date6": "9 mai 2018",
+        "press.date7": "10 juin 2018",
+        "press.date8": "18 juin 2018",
+        "press.date9": "11 juillet 2018",
+        "press.date10": "13 juillet 2018",
+        "press.date11": "13 octobre 2018",
+
+        "scientific.title": "Les articles scientifiques de Naova",
+        "sci.date1": "Décembre 2018"
     },
     en: {
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
@@ -101,15 +117,15 @@ export default{
         "header.title": "Robotic scientific club",
         "header.school": "Ecole de Technologie Supérieure, Montréal",
 
-        "historique.sectionHeadNaoChild": "Club <span class=\"highlight\"><strong>history</strong></span>",
+        "historique.title": "Club history",
         "historique.his1_date": "MAY 2017",
-        "historique.his1": "Creation of the student club <span class=\"highlight\"><strong>Naova</strong></span> by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier",
-        "historique.his2_date": "JANUARY 24 2018",
-        "historique.his2": "Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his1": "<h4>Creation of the student club <span class=\"highlight\"><strong>Naova</strong></span> by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier</h4>",
+        "historique.his2_date": "JANUARY 24, 2018",
+        "historique.his2": "<h4>Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
         "historique.his3_date": "JUNE 15-22, 2018",
-        "historique.his3": "Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his3": "<h4>Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4><div><p><u>DAY 4 - THURSDAY, JUNE, 21 2018</u></p><ul><li>Naova(1) vs. NTURoboPAL(2) - Challenge Shield Finals</li></ul><p><u>DAY 3 - WEDNESDAY, JUNE, 20 2018</u></p><ul><li>UPennalizers(1) vs. Naova(3) - Challenge Shield Semi Finals</li><li>NTU RoboPAL(4) vs. Naova(1)</li></ul><p><u>DAY 2 - TUESDAY, JUNE, 19 2018</u></p><ul><li>Naova(2) vs. Dutch Nao Team(0)</li><li>Naova(0) vs. Unbeatables(0)</li><li>UT Austin Villa(6) vs. Naova(0)</li></ul><p><u>DAY 1 - MONDAY, JUNE, 18 2018</u></p><ul><li>Aztlan(0) vs. Naova(1)</li><li>Dutch Nao Team(0) vs. Naova(0)</li></ul><p><u>DAY 0 - SUNDAY, JUNE, 17 2018</u></p><ul><li>Naova(0) vs. Aztlan(2)</li></ul></div>",
         "historique.his4_date": "JUIN 22, 2018",
-        "historique.his4": "Finalist (Challenge Shield) to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)",
+        "historique.his4": "<h4>Finalist (Challenge Shield) to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
 
         "imgages.sectionHeadNaoTitle": "Because a robot is worth a thousand photos",
         "images.sectionHeadNaoChild": "Our work in <span class=\"highlight\"><strong>pictures</strong></span>",
@@ -122,14 +138,13 @@ export default{
         "definition.def4": "We are finalist of the Montréal RoboCup (Challenge Shield) during june 15 to 22, 2018 at the Palais des Congrès!",
         "definition.buton": "Show the competition's results!",
 
-        "nav.home": "Home",
-        "nav.presentation": "Presentation",
         "nav.history": "History",
         "nav.projects": "Projects",
         "nav.pictures": "Pictures",
+        "nav.press": "Press",
+        "nav.scientific": "Scientific",
         "nav.tem": "Team",
         "nav.sponsors": "Sponsors",
-        "nav.contact": "Contact us",
         "nav.langue": "fr",
 
         "summary.title1": "A CLEAR GOAL",
@@ -185,6 +200,23 @@ export default{
         "sponsors.sp1": "ETS's Student Association",
         "sponsors.sp2": "Ubisoft Montréal",
         "sponsors.sp3": "Fond de recherche du Québec",
-        "sponsors.sp4": "Ecole de technologie superieure"
+        "sponsors.sp4": "Ecole de technologie superieure",
+
+        "press.title": "Naova's press",
+        "press.btn": "Show more",
+        "press.date1": "August 23, 2017",
+        "press.date2": "June 30, 2017",
+        "press.date3": "May 4, 2017",
+        "press.date4": "May 9, 2017",
+        "press.date5": "January 28, 2018",
+        "press.date6": "May 9, 2018",
+        "press.date7": "June 10, 2018",
+        "press.date8": "June 18, 2018",
+        "press.date9": "July 11, 2018",
+        "press.date10": "July 13, 2018",
+        "press.date11": "October 13, 2018",
+
+        "scientific.title": "Naova's scientific articles",
+        "sci.date1": "December 2018"
     }
 }

@@ -14,7 +14,7 @@
 .contact-detail i.fa {
     text-align: center;
     font-size: 30px;
-    background-color: #04007c;
+    background-color: #e00b4d;
     color: #ffffff;
     padding: 25px 0;
     border-radius: 50px;
@@ -26,7 +26,7 @@
     transition: background-color 0.5s;
 }
 
-.contact-detail:hover i.fa { background-color: #333333 }
+.contact-detail:hover i.fa { background-color: #bf003b }
 
 .contact-detail a {
     color: inherit;

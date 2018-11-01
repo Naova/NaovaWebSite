@@ -52,6 +52,7 @@
     },
     {
         "imgName": "alex",
+        "img2Name": "alex2",
         "name": "Alexandre Doyle",
         "idProgramme": "team.mec",
         "defaultMessageProgramme": "Mechanical engineering"

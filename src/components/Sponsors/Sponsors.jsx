@@ -13,16 +13,15 @@ class Sponsors extends Component {
 
         return (
             <div className={classNameCol}>
-                <div className="team-member">
-                    <div className="sponsors team-img">
-                        <center><img src={require(`../../img/partenaire/${img}`)} alt="sponsor"/></center>
-                    </div>
-                    <div className="team-hover">
-                        <div className="desk">
-                            <h4><a href={link}><br/><br/><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></a></h4>
-                            <p></p>
+                <div className="one-sponsor">
+                    <a href={link}>
+                        <div className="sponsors team-img">
+                            <center><img src={require(`../../img/partenaire/${img}`)} alt="sponsor"/></center>
+                            <div className="sponsors-title">
+                                <h5><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></h5>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
             </div>
         );

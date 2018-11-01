@@ -23,4 +23,13 @@
 
 .btn.btn_become_sponsor{
     font-size: 22px;
+    color: #fff;
+    background-color: #e00b4d;
+    border-color: black;
+} 
+
+.btn.btn_become_sponsor:hover{
+    color: #fff;
+    background-color: #bf003b;
+    border-color: black;
 } 

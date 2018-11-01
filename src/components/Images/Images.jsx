@@ -15,19 +15,19 @@ class Images extends Component {
                 </SectionHeaderNao>
                 <div className="images">
                     <center>
-                        <OneImage img="03.jpg"/>
-                        <OneImage img="02.jpg"/>
-                        <OneImage img="04.jpg"/>
-                        <OneImage img="05.jpg"/>
-                        <OneImage img="06.jpg"/>
+                        <OneImage img="1.png"/>
+                        <OneImage img="2.png"/>
+                        <OneImage img="3.png"/>
+                        <OneImage img="4.png"/>
+                        <OneImage img="5.png"/>
                     </center>
                     <br/>
                     <center>
-                        <OneImage img="07.jpg"/>
-                        <OneImage img="08.jpg"/>
-                        <OneImage img="09.jpg"/>
-                        <OneImage img="10.jpg"/>
-                        <OneImage img="11.jpg"/>
+                        <OneImage img="6.png"/>
+                        <OneImage img="7.png"/>
+                        <OneImage img="8.png"/>
+                        <OneImage img="9.png"/>
+                        <OneImage img="10.png"/>
                     </center>
                 </div>
             </div>

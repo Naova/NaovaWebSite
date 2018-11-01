@@ -26,6 +26,13 @@ class Member extends Component {
         }
     }
 
+    renderFounder() {
+        const { isFounder } = this.props;
+        if(isFounder) {
+            return <span><br/><span><FormattedMessage id="team.founder" defaultMessage="Founder"/></span></span>;
+        }
+    }
+
     render() {
 
         const {name, idProgramme, defaultMessageProgramme} = this.props;
@@ -39,12 +46,12 @@ class Member extends Component {
                         <div className="desk">
                             {this.renderImage2Member()}
                         </div>
-
                     </div>
                 </div>
                 <div className="team-title">
                     <h5>{name}</h5>
                     <span><FormattedMessage id={idProgramme} defaultMessage={defaultMessageProgramme}/></span>
+                    {this.renderFounder()}
                 </div>
             </div>
         );
@@ -56,7 +63,8 @@ Member.propTypes = {
     img2Name: PropTypes.string,
     name: PropTypes.string,
     idProgramme: PropTypes.string,
-    defaultMessageProgramme: PropTypes.string
+    defaultMessageProgramme: PropTypes.string,
+    isFounder: PropTypes.bool
 }
 
 export default Member;

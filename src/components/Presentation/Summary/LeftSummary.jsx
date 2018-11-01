@@ -18,7 +18,7 @@ class LeftSummary extends Component {
         return(
             <div className="media service">
                 <div className="media-body">
-                    <a href={link}><h4 className="media-heading"><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></h4></a>
+                    <h4 className="media-heading"><a href={link}><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></a></h4>
                     <p className="naova_summary_unit"><FormattedMessage id={idDescription} defaultMessage={defaultMessageDescription} /></p>
                     <p>{this.renderLink()}</p>
                 </div>

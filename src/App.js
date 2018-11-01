@@ -13,6 +13,7 @@ import Team from "./containers/Team/Team";
 import Sponsors from "./containers/Sponsors/Sponsors";
 import Press from "./containers/Press/Press";
 import Scientific from "./containers/Scientific/Scientific";
+import Historique from "./containers/Historique/Historique";
 
 import messages from "./messages";
 import "./style/bootstrap.min.css";
@@ -32,6 +33,7 @@ class App extends Component {
 							<Route exact path="/sponsors"component={Sponsors} />
 							<Route exact path="/press"component={Press} />
 							<Route exact path="/scientific"component={Scientific} />
+							<Route exact path="/history"component={Historique} />
 							<Route path="/" component={Home} />
 							<Route component={Home} />
 						</Switch>

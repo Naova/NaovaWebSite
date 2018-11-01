@@ -3,7 +3,6 @@ import NavBar from "../../components/NavBar/NavBar";
 import Header from "../../components/Header/Header";
 import Presentation from "../../components/Presentation/Presentation";
 import Video from "../../components/Video/Video";
-import Historique from "../../components/Historique/Historique";
 import Projet from "../../components/Project/Project";
 import Images from "../../components/Images/Images";
 import ContactUs from "../../components/ContactUs/ContactUs";
@@ -17,7 +16,6 @@ class Home extends Component {
                 <Header />
                 <Presentation />
                 <Video />
-                <Historique />
                 <Projet />
                 <Images />
                 <ContactUs />

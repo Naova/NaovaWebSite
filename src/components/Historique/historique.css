@@ -1,4 +1,4 @@
-@media (max-width: 768px){
+/*@media (max-width: 768px){
     .naova_historique {
         text-align: center;
     }
@@ -6,8 +6,21 @@
     .naova_historique_date {
         display: block;
     }
+}*/
 
-    .naova_historique_line {
-        display: none;
-    }
+.naova_nao_img {
+    height: 35px;
+    float: left;
+    margin-left: -18px;
+}
+
+.naova_historique {
+    text-align: left;
+    padding-left: 50px;
+}
+
+.naova_content_historique {
+    text-align: left;
+    border-left: 4px solid #e00b4d;
+    padding-left: 10px;
 }

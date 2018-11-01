@@ -1,0 +1,26 @@
+[
+    {
+        "idDate": "historique.his4_date",
+        "defaultMessageDate": "JUIN 22, 2018",
+        "idContent": "historique.his4",
+        "defaultMessageContent": "<h4>Finalist (Challenge Shield) to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>"
+    },
+    {
+        "idDate": "historique.his3_date",
+        "defaultMessageDate": "JUNE 15-22, 2018",
+        "idContent": "historique.his3",
+        "defaultMessageContent": "<h4>Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>"
+    },
+    {
+        "idDate": "historique.his2_date",
+        "defaultMessageDate": "JANUARY 24 2018",
+        "idContent": "historique.his2",
+        "defaultMessageContent": "<h4>Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>"
+    },
+    {
+        "idDate": "historique.his1_date",
+        "defaultMessageDate": "MAY 2017",
+        "idContent": "historique.his1",
+        "defaultMessageContent": "<h4>Creation of the student club <span class=\"highlight\"><strong>Naova</strong></span> by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier</h4>"
+    }
+]

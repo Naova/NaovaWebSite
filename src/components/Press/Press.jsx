@@ -3,8 +3,6 @@ import PropTypes from "prop-types";
 import { FormattedMessage} from "react-intl";
 import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
 
-import "./press.css";
-
 class Press extends Component {
 
     render(){

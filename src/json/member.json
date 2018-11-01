@@ -1,18 +1,21 @@
 [
     {
         "imgName": "ariane",
+        "img2Name": "ariane2",
         "name": "Ariane B. Bétournay",
         "idProgramme": "team.capitain",
         "defaultMessageProgramme": "Capitain"
     },
     {
         "imgName": "jonathan",
+        "img2Name": "jonathan2",
         "name": "Jonathan Fortin",
         "idProgramme": "team.cocap",
         "defaultMessageProgramme": "Co-Captain"
     },
     {
         "imgName": "thierry",
+        "img2Name": "thierry2",
         "name": "Thierry Pouplier",
         "idProgramme": "team.cocap",
         "defaultMessageProgramme": "Co-Captain"
@@ -24,13 +27,13 @@
         "defaultMessageProgramme": "Treasurer"
     },
     {
-        "imgName": "",
+        "imgName": "emile",
         "name": "Émile Bolduc",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "",
+        "imgName": "antho",
         "name": "Anthony Brochu",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
@@ -42,7 +45,7 @@
         "defaultMessageProgramme": "Information Technology Enginnering"
     },
     {
-        "imgName": "",
+        "imgName": "ben_c",
         "name": "Benjamin Caron",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
@@ -54,37 +57,39 @@
         "defaultMessageProgramme": "Mechanical engineering"
     },
     {
-        "imgName": "",
+        "imgName": "florent",
         "name": "Florent Duchesne",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "",
+        "imgName": "berkane",
         "name": "Berkane-Hicheme Larbi",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "",
+        "imgName": "laurent",
         "name": "Laurent Lemire",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "",
+        "imgName": "etienne",
+        "img2Name": "etienne2",
         "name": "Etienne Lussier",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
         "imgName": "marc_antoine",
+        "img2Name": "marc_antoine2",
         "name": "Marc-Antoine Lussier",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "",
+        "imgName": "simon",
         "name": "Simon Prud'Homme",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
@@ -96,7 +101,8 @@
         "defaultMessageProgramme": "Engineering of Automated Production"
     },
     {
-        "imgName": "",
+        "imgName": "edwin",
+        "img2Name": "edwin2",
         "name": "Edwin Zelaya-Diaz",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"

@@ -13,7 +13,7 @@ export default{
         "historique.his2_date": "24 JANIVIER 2018",
         "historique.his2": "<h4>Qualifié pour participer à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
         "historique.his3_date": "15 au 22 JUIN 2018",
-        "historique.his3": "<h4>Participation à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
+        "historique.his3": "<h4>Participation à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4> <div><p><u>JOUR 4 - JEUDI, 21 JUIN 2018</u></p><ul><li>Naova(1) vs. NTURoboPAL(2) - Challenge Shield Finals</li></ul><p><u>JOUR 3 - MERCREDI, 20 JUIN 2018</u></p><ul><li>UPennalizers(1) vs. Naova(3) - Challenge Shield Semi Finals</li><li>NTU RoboPAL(4) vs. Naova(1)</li></ul><p><u>JOUR 2 - MARDI, 19 JUIN 2018</u></p><ul><li>Naova(2) vs. Dutch Nao Team(0)</li><li>Naova(0) vs. Unbeatables(0)</li><li>UT Austin Villa(6) vs. Naova(0)</li></ul><p><u>JOUR 1 - LUNDI, 18 JUIN 2018</u></p><ul><li>Aztlan(0) vs. Naova(1)</li><li>Dutch Nao Team(0) vs. Naova(0)</li></ul><p><u>JOUR 0 - DIMANCHE, 17 JUIN 2018</u></p><ul><li>Naova(0) vs. Aztlan(2)</li></ul></div>",
         "historique.his4_date": "22 JUIN 2018",
         "historique.his4": "<h4>Finaliste (Challenge Shield) de la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
 
@@ -123,7 +123,7 @@ export default{
         "historique.his2_date": "JANUARY 24, 2018",
         "historique.his2": "<h4>Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
         "historique.his3_date": "JUNE 15-22, 2018",
-        "historique.his3": "<h4>Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
+        "historique.his3": "<h4>Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4><div><p><u>DAY 4 - THURSDAY, JUNE, 21 2018</u></p><ul><li>Naova(1) vs. NTURoboPAL(2) - Challenge Shield Finals</li></ul><p><u>DAY 3 - WEDNESDAY, JUNE, 20 2018</u></p><ul><li>UPennalizers(1) vs. Naova(3) - Challenge Shield Semi Finals</li><li>NTU RoboPAL(4) vs. Naova(1)</li></ul><p><u>DAY 2 - TUESDAY, JUNE, 19 2018</u></p><ul><li>Naova(2) vs. Dutch Nao Team(0)</li><li>Naova(0) vs. Unbeatables(0)</li><li>UT Austin Villa(6) vs. Naova(0)</li></ul><p><u>DAY 1 - MONDAY, JUNE, 18 2018</u></p><ul><li>Aztlan(0) vs. Naova(1)</li><li>Dutch Nao Team(0) vs. Naova(0)</li></ul><p><u>DAY 0 - SUNDAY, JUNE, 17 2018</u></p><ul><li>Naova(0) vs. Aztlan(2)</li></ul></div>",
         "historique.his4_date": "JUIN 22, 2018",
         "historique.his4": "<h4>Finalist (Challenge Shield) to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
 

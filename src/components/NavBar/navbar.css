@@ -40,3 +40,7 @@
 .nav>li>a.navbar-item-naova{
     padding: 15px 10px;
 }
+
+.navbar-item-naova {
+    cursor: pointer;
+}

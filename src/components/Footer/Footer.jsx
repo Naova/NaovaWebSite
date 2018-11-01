@@ -8,7 +8,7 @@ class ContactUs extends Component {
         return(
             <div id="tf-footer">
                 <div className="container">
-                    <p className="pull-left">© 2017 Naova<br/>Design basé sur ethanol</p>
+                    <p className="pull-left">© 2018 Naova<br/>Design basé sur ethanol</p>
                     <ul className="list-inline social pull-right">
                         <li><a href="https://www.facebook.com/naorobotique/?ref=br_rs" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a></li>
                         <li><a href="https://www.youtube.com/channel/UCq-fKihCxhfaHoomeB9B6Yg" target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube"></i></a></li>

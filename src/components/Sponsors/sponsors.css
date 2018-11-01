@@ -2,3 +2,26 @@
     max-height: 200px;
     max-width: 300px;
 }
+
+.sponsors-title {
+    position: static;
+    padding: 20px 0;
+    display: inline-block;
+    letter-spacing: 2px;
+    width: 100%;
+    height: 105px;
+}
+.sponsors-title h5 {
+    color: black;
+    text-align: center;
+    margin-bottom: 0px;
+    display: block;
+    text-transform: uppercase;
+}
+
+.one-sponsor:hover {
+    background-color: rgba(255, 255, 255, 0.20);
+    opacity: 0.40;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}

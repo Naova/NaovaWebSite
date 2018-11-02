@@ -100,6 +100,7 @@
     },
     {
         "imgName": "humberto",
+        "img2Name": "humberto2",
         "name": "Humberto Ramos",
         "idProgramme": "team.gpa",
         "defaultMessageProgramme": "Engineering of Automated Production"

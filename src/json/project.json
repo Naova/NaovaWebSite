@@ -8,13 +8,13 @@
     {
         "idTitle":"project.skill2",
         "defaultMessageTitle":"Strategy GUI project",
-        "open":15,
+        "open":16,
         "close":2
     },
     {
         "idTitle":"project.skill3",
         "defaultMessageTitle":"Project for creating installation tools",
-        "open":2,
+        "open":3,
         "close":0
     },
     {
@@ -32,7 +32,7 @@
     {
         "idTitle":"project.skill6",
         "defaultMessageTitle":"Robot animation project",
-        "open":3,
+        "open":4,
         "close":0
     },
     {
@@ -50,7 +50,7 @@
     {
         "idTitle":"project.skill9",
         "defaultMessageTitle":"Project of head movement",
-        "open":5,
-        "close":0
+        "open":4,
+        "close":1
     }
 ]

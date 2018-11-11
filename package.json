@@ -2,7 +2,7 @@
   "name": "clubnaova",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://react.clubnaova.ca/",
+  "homepage": "https://www.clubnaova.ca/",
   "dependencies": {
     "classnames": "^2.2.6",
     "prop-types": "^15.6.2",

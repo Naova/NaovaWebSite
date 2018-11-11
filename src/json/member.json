@@ -23,7 +23,7 @@
         "isFounder": true
     },
     {
-        "imgName": "",
+        "imgName": "vincent",
         "name": "Vincent Girardeau",
         "idProgramme": "team.treasurer",
         "defaultMessageProgramme": "Treasurer"

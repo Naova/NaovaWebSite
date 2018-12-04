@@ -7,7 +7,7 @@ class Video extends Component {
         return(
             <div className="video">
                 <center>
-                    <iframe title="video" width="768" height="432" src="https://www.youtube.com/embed/p3lN7S9PIE0" frameBorder="0" allowFullScreen></iframe>
+                    <iframe title="video" width="768" height="432" src="https://www.youtube.com/embed/_whKvIQkM6U" frameBorder="0" allowFullScreen></iframe>
                 </center>
             </div>
         );

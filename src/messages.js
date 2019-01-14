@@ -106,6 +106,8 @@ export default{
         "press.date9": "11 juillet 2018",
         "press.date10": "13 juillet 2018",
         "press.date11": "13 octobre 2018",
+        "press.date12": "15 novembre 2018",
+        "press.date13": "Automne 2018",
 
         "scientific.title": "Les articles scientifiques de Naova",
         "sci.date1": "Décembre 2018"
@@ -217,6 +219,8 @@ export default{
         "press.date9": "July 11, 2018",
         "press.date10": "July 13, 2018",
         "press.date11": "October 13, 2018",
+        "press.date12": "November 15, 2018",
+        "press.date13": "Fall 2018",
 
         "scientific.title": "Naova's scientific articles",
         "sci.date1": "December 2018"

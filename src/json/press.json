@@ -1,5 +1,25 @@
 [
     {
+        "title": "ROBOCUPSOCCER",
+        "lang": "FR",
+        "resume": "L’équipe de l’ÉTS [Naova] a terminé sur la 2e marche du podium de la division Challenger de la Standard Platform League (SPL) de la RoboCupSoccer tenue dans le cadre du tournoi international de robotique RoboCup l’été dernier à Montréal. Ce tournoi réunit 4000 participants de 35 pays et 5000 robots autonomes.",
+        "idDate": "press.date13",
+        "defaultMessageDate": "Fall 2018",
+        "type": "Magazine",
+        "link": "https://www.etsmtl.ca/docs/ETS/A-propos/Publications/Documents/ETS-360",
+        "source": "L'ÉTS@360° - Volume 14, numéro 2 - Automne 2018 - page 23 "
+    },
+    {
+        "title": "Video - ROBOCUP 2018 | MONTRÉAL",
+        "lang": "EN",
+        "resume": "Interview with the Naova co-capitain (Jonathan Fortin) and the capitain (Ariane B. Bétournay) to summarize the RoboCup 2018 at Montréal",
+        "idDate": "press.date12",
+        "defaultMessageDate": "November 15, 2018",
+        "type": "Video",
+        "link": "https://www.youtube.com/watch?v=_whKvIQkM6U",
+        "source": "SoftBank Robotics Europe"
+    },
+    {
         "title": "Participation au #technofeminin",
         "lang": "FR",
         "resume": "Naova était présent au #technofeminin",

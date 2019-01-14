@@ -24,6 +24,7 @@
     },
     {
         "imgName": "vincent",
+        "img2Name": "vincent2",
         "name": "Vincent Girardeau",
         "idProgramme": "team.treasurer",
         "defaultMessageProgramme": "Treasurer"

@@ -1,11 +1,5 @@
 [
     {
-        "idTitle":"project.skill1",
-        "defaultMessageTitle":"Project to estimate the state of the game",
-        "open":17,
-        "close":2
-    },
-    {
         "idTitle":"project.skill2",
         "defaultMessageTitle":"Strategy GUI project",
         "open":16,
@@ -20,8 +14,8 @@
     {
         "idTitle":"project.skill4",
         "defaultMessageTitle":"Machine learning decision making project",
-        "open":6,
-        "close":2
+        "open":9,
+        "close":6
     },
     {
         "idTitle":"project.skill5",
@@ -38,8 +32,8 @@
     {
         "idTitle":"project.skill7",
         "defaultMessageTitle":"Project to create the generics skills",
-        "open":8,
-        "close":0
+        "open":12,
+        "close":7
     },
     {
         "idTitle":"project.skill8",
@@ -50,7 +44,7 @@
     {
         "idTitle":"project.skill9",
         "defaultMessageTitle":"Project of head movement",
-        "open":4,
-        "close":1
+        "open":2,
+        "close":3
     }
 ]

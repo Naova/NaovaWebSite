@@ -1,16 +1,16 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import { FormattedMessage} from "react-intl";
+import { FormattedMessage } from "react-intl";
 import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
 
 class Press extends Component {
 
-    render(){
-        const {title, lang, type, idDate, defaultMessageDate, resume, link, source} = this.props;
-        return(
+    render() {
+        const { title, lang, type, idDate, defaultMessageDate, resume, link, source } = this.props;
+        return (
             <div id="press">
-                <SectionHeaderNao isBigNaoFace={false} idSmallTitle={idDate} defaultMessageSmallTitle={defaultMessageDate} title={" - source : "+source}>
-                    <span>{title}</span>                  
+                <SectionHeaderNao isBigNaoFace={false} idSmallTitle={idDate} defaultMessageSmallTitle={defaultMessageDate} title={" - source : " + source}>
+                    <span>{title}</span>
                 </SectionHeaderNao>
                 <div className="naova-press-resume">
                     <p>[{lang} - {type}] - {resume}</p>

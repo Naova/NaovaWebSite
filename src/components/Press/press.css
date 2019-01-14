@@ -2,10 +2,16 @@
     padding-bottom: 20px;
 }
 
+@supports (text-align-last: center) {
+    .naova-press-resume{
+        text-align: justify;
+        -moz-text-align-last: center;
+        text-align-last: center;
+    }
+}
+
 .naova-press-resume{
-    text-align: justify;
-    -moz-text-align-last: center;
-    text-align-last: center;
+    text-align: center;
 }
 
 .naova-press-resume .btn-default {

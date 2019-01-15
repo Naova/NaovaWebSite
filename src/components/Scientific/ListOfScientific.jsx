@@ -13,7 +13,7 @@ class ListOfScientific extends Component {
                     <div className="container naova_scientific_section">
                         <div>
                             {scientific_data.map((s, i) => {
-                                return <Scientific key={i} title={s.title} lang={s.lang} idDate={s.idDate} defaultMessageDate={s.defaultMessageDate} link={s.link} source={s.source}/>
+                                return <Scientific key={i} title={s.title} lang={s.lang} idDate={s.idDate} defaultMessageDate={s.defaultMessageDate} link={s.link} source={s.source} github={s.github}/>
                             })}
                         </div>
                     </div>

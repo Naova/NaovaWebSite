@@ -110,7 +110,10 @@ export default{
         "press.date13": "Automne 2018",
 
         "scientific.title": "Les articles scientifiques de Naova",
-        "sci.date1": "Décembre 2018"
+        "scientific.btn": "Lire le document",
+        "scientific.github": "Lien GitHub",
+        "sci.date1": "Décembre 2018",
+        "sci.date2": "Janvier 2019"
     },
     en: {
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
@@ -223,6 +226,9 @@ export default{
         "press.date13": "Fall 2018",
 
         "scientific.title": "Naova's scientific articles",
-        "sci.date1": "December 2018"
+        "scientific.btn": "Read document",
+        "scientific.github": "GitHub link",
+        "sci.date1": "December, 2018",
+        "sci.date2": "January, 2019"
     }
 }

@@ -1,9 +1,18 @@
 [
     {
+        "title": "Team Description Paper (TDP) 2019 - RoboCup Standard Platform League",
+        "lang": "EN",
+        "idDate": "sci.date2",
+        "defaultMessageDate": "January, 2018",
+        "link": "TDP-2019.pdf",
+        "source": "Team Naova - Jonathan Fortin, Thierry Pouplier, Vincent Girardeau, Ariane Beaudry-Betournay & Antony Brochu",
+        "github": "https://github.com/Naova/NaovaRelease"
+    },
+    {
         "title": "Team Description Paper (TDP) 2018 - RoboCup Standard Platform League",
         "lang": "EN",
         "idDate": "sci.date1",
-        "defaultMessageDate": "December 2018",
+        "defaultMessageDate": "December, 2018",
         "link": "TDP-2018.pdf",
         "source": "Team Naova - Jonathan Fortin, Thierry Pouplier & Humberto Ramos"
     }

@@ -1,14 +1,6 @@
-.team-member, .team-member .team-img {
-    position: relative;
-    clip-path: ellipse(35% 38% at 50% 57%);
-}
-.team-member {
-    overflow: hidden;
-}
-
 .team-hover {
     position: absolute;
-    top: 28px;
+    top: 0;
     left: 0;
     bottom: 0;
     right: 0;
@@ -18,12 +10,14 @@
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
 }
+
 .team-member:hover .team-hover .desk {
-    top: 47%;
+    top: 45%;
 }
-.team-member:hover .team-hover, .team-member:hover .team-hover .desk, .team-member:hover .team-hover .s-link {
+.team-member:hover .team-hover, .team-member:hover .team-hover .desk {
     opacity: 1;
-}
+} 
+
 .team-hover .desk {
     position: absolute;
     top: 0%;
@@ -35,37 +29,6 @@
     -webkit-transition: all 0.3s 0.2s;
     transition: all 0.3s 0.2s;
 }
-.desk, .desk h4, .team-hover .s-link a {
-    text-align: center;
-    color: #222;
-}
-.img-membre-profil{
-  padding-top: 32px;
-}
-.team-member:hover .team-hover .s-link {
-    bottom: 10%;
-}
-.team-member:hover .team-hover, .team-member:hover .team-hover .desk, .team-member:hover .team-hover .s-link {
-    opacity: 1;
-}
-.team-hover .s-link {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    opacity: 0;
-    text-align: center;
-    -webkit-transform: translateY(45%);
-    -ms-transform: translateY(45%);
-    transform: translateY(45%);
-    -webkit-transition: all 0.3s 0.2s;
-    transition: all 0.3s 0.2s;
-    font-size: 35px;
-}
-.desk, .desk h4, .team-hover .s-link a {
-    text-align: center;
-    color: #222;
-}
-
 .team-title {
     position: static;
     display: inline-block;
@@ -85,20 +48,14 @@
     letter-spacing: 1px;
 }
 
-.team-member .s-link a {
-    margin: 0 10px;
-    color: #333;
-    font-size: 16px;
+.card-team-member {
+    padding: 10px;
 }
 
-/* Fix la photo de Ben */
-@media (min-width: 768px){
-    .col-sm-4 {
-        height: 240px;
-    }
+.team-title .team-student span {
+    font-size: 8px;
 }
-@media (min-width: 992px){
-    .col-md-4 {
-        height: 325px;
-    }
+
+.team-member {
+    height: 233px;
 }

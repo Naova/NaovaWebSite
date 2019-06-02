@@ -24,6 +24,7 @@ class Header extends Component {
                                 <img src={etsLogo_img} className="partenaire_ets_img intro-logo" alt="École de technologie supérieure"/>
                                 <img src={aeetsLogo_img} className="partenaire_aeets_img intro-logo" alt="AEETS"/>
                                 <img src={ubiMtlLogo_img} className="partenaire_ubiMtl_img intro-logo" alt="Ubisoft Montréal"/> 
+                                <img src={equisoft_img} className="partenaire_equisoft_img intro-logo" alt="Équisoft" />
                             </div>
                             <a href="#tf-presentation" className="scroll goto-arrow"><i className=" fa fa-arrow-down fa-3x"></i></a>
                         </div>

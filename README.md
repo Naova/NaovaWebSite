@@ -201,6 +201,7 @@ Les champs qui commence par * ne sont pas obligatoire
 Les champs qui commence par * ne sont pas obligatoire
 
 # Déploiement
+## Jusqu'au 19 juin :
 * [Funio - CPanel](https://funio.com/fr/)
 * Information de connexion voir email : New Customer Hub Password ;)
 
@@ -219,3 +220,10 @@ Les champs qui commence par * ne sont pas obligatoire
 13. À droite sélectionner tous les fichiers (static, asset-manifest.json, index.html, naofacehalf.png et service-worker.js)
 14. Clic droit sur la sélection et faire "Envoyer"
 15. Il se peut qu'il ait des pop-up pour dire que le fichier existe, on remplace tout!
+
+## Netlify :
+1. Lorsqu'une merge request est créée, un lien de preview est envoyé
+2. Vérifie que ton changement ne brise rien
+3. Quand tu merge dans master, le site se déploy automatiquement.
+4. Un message est envoyé pour avertir que le déployement à réussi
+5. Voilà !

@@ -96,6 +96,7 @@ export default{
         "sponsors.sp2": "Ubisoft Montréal",
         "sponsors.sp3": "Fond de recherche du Québec",
         "sponsors.sp4": "École de technologie supérieure",
+        "sponsors.sp5": "Équisoft",
 
         "press.title": "La presse de Naova",
         "press.btn": "En savoir plus",
@@ -217,6 +218,7 @@ export default{
         "sponsors.sp2": "Ubisoft Montréal",
         "sponsors.sp3": "Fond de recherche du Québec",
         "sponsors.sp4": "Ecole de technologie superieure",
+        "sponsors.sp5": "Equisoft",
 
         "press.title": "Naova's press",
         "press.btn": "Show more",

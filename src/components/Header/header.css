@@ -46,14 +46,10 @@ a.goto-arrow:hover {
 	transform: translateY(20px);
 }
 
-.partenaire_aeets_img {
-    margin: 10px; 
-    padding: 10px;
+.partenaire_ubiMtl_img { 
+    background: rgba(255, 255, 255, 0.50);
 }
 
-.partenaire_ubiMtl_img {
-    height: 200px; 
-    margin: 10px; 
-    padding: 10px; 
+.partenaire_equisoft_img{
     background: rgba(255, 255, 255, 0.50);
 }

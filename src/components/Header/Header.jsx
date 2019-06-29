@@ -20,7 +20,7 @@ class Header extends Component {
                             <center><img src={naovoLogo_img} className="intro-logo img-responsive" alt="Naova Logo"/></center>
                             <h1><FormattedMessage id="header.title" defaultMessage="Robotic scientific club" /></h1>
                             <p className="lead"><FormattedMessage id="header.school" defaultMessage="Ecole de Technologie Supérieure, Montréal" /></p>
-                            <div>
+                            <div className="col-md-12">
                                 <img src={etsLogo_img} className="col-md-3 partenaire_ets_img intro-logo" alt="École de technologie supérieure"/>
                                 <img src={equisoft_img} className="col-md-3 partenaire_equisoft_img intro-logo" alt="Équisoft" />
                                 <img src={aeetsLogo_img} className="col-md-3 intro-logo" alt="AEETS"/>

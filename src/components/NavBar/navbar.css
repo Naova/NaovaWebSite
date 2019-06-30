@@ -44,3 +44,9 @@
 .navbar-item-naova {
     cursor: pointer;
 }
+
+@media (min-width:992px){
+    .navbar-brand{
+        margin-left: -50px;
+    }
+}

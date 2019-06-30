@@ -29,6 +29,7 @@ export default{
         "definition.buton": "Voir les résultats de la compétition!",
 
         "nav.history": "Historique",
+        "nav.direct":"En Direct",
         "nav.projects": "Projets",
         "nav.pictures": "Photos",
         "nav.press": "Presse",
@@ -151,6 +152,7 @@ export default{
         "definition.buton": "Show the competition's results!",
 
         "nav.history": "History",
+        "nav.direct":"Live",
         "nav.projects": "Projects",
         "nav.pictures": "Pictures",
         "nav.press": "Press",

@@ -53,7 +53,9 @@ class NavBar extends Component {
                     <ul className="nav navbar-nav navbar-right">
                         <li>
                             <button type="button" className="btn button-live">
-                                 <FormattedMessage id="nav.direct" defaultMessage="En Direct" />
+                                <a className="button-live" href="https://australie.clubnaova.ca/">
+                                    <FormattedMessage id="nav.direct" defaultMessage="En Direct" />
+                                </a>
                             </button>
                         </li>
                         <li>

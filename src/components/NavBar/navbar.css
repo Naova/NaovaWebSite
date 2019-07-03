@@ -45,8 +45,14 @@
     cursor: pointer;
 }
 
+.button-live{
+    color:white;
+    background-color: red;
+    margin: 10px;
+}
+
 @media (min-width:992px){
     .navbar-brand{
-        margin-left: -50px;
+        margin: 0 -30px;
     }
 }

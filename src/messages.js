@@ -29,7 +29,6 @@ export default{
         "definition.buton": "Voir les résultats de la compétition!",
 
         "nav.history": "Historique",
-        "nav.direct":"En Direct",
         "nav.projects": "Projets",
         "nav.pictures": "Photos",
         "nav.press": "Presse",
@@ -84,6 +83,7 @@ export default{
         "team.ele": "Génie Électrique",
         "team.master_mec": "Maîtrise en génie Mécanique",
         "team.master_ele": "Maîtrise en génie Électrique",
+        "team.master_log": "Maîtrise en génie Logiciel",
 
         "sponsors.title": "Partenaires",
         "sponsors.description": "Merci à nos partenaires!",
@@ -152,7 +152,6 @@ export default{
         "definition.buton": "Show the competition's results!",
 
         "nav.history": "History",
-        "nav.direct":"Live",
         "nav.projects": "Projects",
         "nav.pictures": "Pictures",
         "nav.press": "Press",
@@ -207,6 +206,7 @@ export default{
         "team.ele": "Electrical engineering",
         "team.master_mec": "Master in Mechanical engineering",
         "team.master_ele": "Master in Electrical engineering",
+        "team.master_log": "Master in Software enginnering",
 
         "sponsors.title": "Sponsors",
         "sponsors.description": "Thanks for all our sponsors!",

@@ -52,13 +52,6 @@ class NavBar extends Component {
                     <div className={navClassName} id="navbar">
                     <ul className="nav navbar-nav navbar-right">
                         <li>
-                            <button type="button" className="btn button-live">
-                                <a className="button-live" href="https://australie.clubnaova.ca/">
-                                    <FormattedMessage id="nav.direct" defaultMessage="En Direct" />
-                                </a>
-                            </button>
-                        </li>
-                        <li>
                             <a href="/#project" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
                                 <FormattedMessage id="nav.projects" defaultMessage="Projects" />
                             </a>

@@ -1,34 +1,5 @@
 [
     {
-        "imgName": "ariane",
-        "img2Name": "ariane2",
-        "name": "Ariane B. Bétournay",
-        "idTitre": "team.capitain",
-        "defaultMessageTitre": "Capitain",
-        "idProgramme": "team.ti",
-        "defaultMessageProgramme": "Information Technology Enginnering"
-    },
-    {
-        "imgName": "jonathan",
-        "img2Name": "jonathan2",
-        "name": "Jonathan Fortin",
-        "idTitre": "team.cocap",
-        "defaultMessageTitre": "Co-Captain",
-        "idProgramme": "team.master_ele",
-        "defaultMessageProgramme": "Master in Electrical engineering",
-        "isFounder": true
-    },
-    {
-        "imgName": "thierry",
-        "img2Name": "thierry2",
-        "name": "Thierry Pouplier",
-        "idTitre": "team.cocap",
-        "defaultMessageTitre": "Co-Captain",
-        "idProgramme": "team.ele",
-        "defaultMessageProgramme": "Electrical engineering",
-        "isFounder": true
-    },
-    {
         "imgName": "vincent",
         "img2Name": "vincent2",
         "name": "Vincent Girardeau",
@@ -38,14 +9,35 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
+        "imgName": "jonathan",
+        "img2Name": "jonathan2",
+        "name": "Jonathan Fortin",
+        "idProgramme": "team.master_ele",
+        "defaultMessageProgramme": "Master in Electrical engineering",
+        "isFounder": true
+    },
+    {
+        "imgName": "ariane",
+        "img2Name": "ariane2",
+        "name": "Ariane B. Bétournay",
+        "idTitre": "team.cocap",
+        "defaultMessageTitre": "Co-Captain",
+        "idProgramme": "team.ti",
+        "defaultMessageProgramme": "Information Technology Enginnering"
+    },
+    {
         "imgName": "antho",
         "name": "Anthony Brochu",
+        "idTitre": "team.cocap",
+        "defaultMessageTitre": "Co-Captain",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
         "imgName": "ben_c",
         "name": "Benjamin Caron",
+        "idTitre": "team.treasurer",
+        "defaultMessageTitre": "Treasurer",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
@@ -61,9 +53,9 @@
         "defaultMessageProgramme": "Electrical engineering"
     },
     {
-        "name": "Pierre Jacquier",
-        "idProgramme": "team.master_mec",
-        "defaultMessageProgramme": "Master in Mechanical engineering"
+        "name": "Humberto",
+        "idProgramme": "team.ele",
+        "defaultMessageProgramme": "Electrical engineering"
     },
     {
         "imgName": "berkane",
@@ -79,16 +71,19 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "marc_antoine",
-        "img2Name": "marc_antoine2",
-        "name": "Marc-Antoine Lussier",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
         "imgName": "simon",
         "name": "Simon Prud'Homme",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Mathias Bossaert",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Guillaume Poirrier",
+        "idProgramme": "team.master.log",
+        "defaultMessageProgramme": "Master in Software engineering"
     }
 ]

@@ -1,5 +1,11 @@
 [
     {
+        "idDate": "historique.his5_date",
+        "defaultMessageDate": "2 JUILLET 2019",
+        "idContent": "historique.his5",
+        "defaultMessageContent": "<h4>Challenger shield 5e exeaquo and in global 17e exeaquo sur 24 to in the <span class=\"highlight\"><strong>RoboCup Sydney 2019</strong></span> (RoboCupSoccer - Standard Platform)</h4>"
+    },
+    {
         "idDate": "historique.his4_date",
         "defaultMessageDate": "JUIN 22, 2018",
         "idContent": "historique.his4",

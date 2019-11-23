@@ -15,6 +15,7 @@
     border-bottom: 2px solid transparent;
     text-transform: uppercase;
     transition: all 0.5s;
+    text-decoration: none;
 }
 .navbar-default .navbar-nav > li > a.active,
 .navbar-default .navbar-nav > li > a:hover,
@@ -43,6 +44,8 @@
 
 .navbar-item-naova {
     cursor: pointer;
+    color:black;
+    text-decoration: none;
 }
 
 .button-live{

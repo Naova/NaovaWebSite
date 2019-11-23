@@ -12,12 +12,14 @@ class Diamant extends Component {
                 </SectionHeaderNao>
 
                 <div className="container">
-                    <Sponsors 
-                        img="ets.png"
-                        link="https://www.etsmtl.ca/"
-                        colNum="12"
-                        idTitle="sponsors.sp4"
-                        defaultMessageTitle="École de technologie supérieure"/>
+                    <div className="row align-items-center">
+                        <Sponsors 
+                            img="ets.png"
+                            link="https://www.etsmtl.ca/"
+                            colNum="12"
+                            idTitle="sponsors.sp4"
+                            defaultMessageTitle="École de technologie supérieure"/>
+                   </div> 
                 </div>
             </div>
         );

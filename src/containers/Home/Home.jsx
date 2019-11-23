@@ -16,7 +16,7 @@ class Home extends Component {
                 <Header />
                 <Presentation />
                 <Video />
-                <Projet />
+                {/* <Projet /> */}
                 <Images />
                 <ContactUs />
                 <Footer />

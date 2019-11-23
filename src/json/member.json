@@ -3,8 +3,8 @@
         "imgName": "vincent",
         "img2Name": "vincent2",
         "name": "Vincent Girardeau",
-        "idTitre": "team.treasurer",
-        "defaultMessageTitre": "Treasurer",
+        "idTitre": "team.capitain",
+        "defaultMessageTitre": "Capitaine",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
@@ -77,13 +77,39 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "name": "Mathias Bossaert",
+        "name": "Mathias Bossaerts",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
         "name": "Guillaume Poirrier",
-        "idProgramme": "team.master.log",
+        "idProgramme": "team.master_log",
         "defaultMessageProgramme": "Master in Software engineering"
+    },
+    {
+        "name": "Rounder Laguerre",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Ana Catarina Castro Da Silva",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Arthur Weber",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Frédéric Labelle",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Naomi Catwell",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
     }
+    
 ]

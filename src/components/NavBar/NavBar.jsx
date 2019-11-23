@@ -37,11 +37,11 @@ class NavBar extends Component {
         let navClassName = classNames("navbar-collapse", {"collapse": !this.state.isCollapseNotActive}, {"not_collapse": this.state.isCollapseNotActive})
 
         return(
-                <nav id="nav_bar" className="navbar navbar-default navbar-fixed-top navbar-expand-lg bg-light">
+                <nav id="nav_bar" className="navbar navbar-light navbar-fixed-top navbar-expand-lg bg-light">
                 <div className="container">
                     <div className="navbar-header">
                     <a className="navbar-brand" href="/"><img src={logo_img} alt="Logo du Club Naova"/></a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     </div>
@@ -83,7 +83,7 @@ class NavBar extends Component {
                                 <FormattedMessage id="nav.sponsors" defaultMessage="Sponsors" />
                             </a>
                         </li>
-                        <li className="nav-item"><span className="scroll navbar_small_bar navbar-item-naova">|</span></li>
+                        <li className="nav-item"><span className="scroll navbar-item-naova">|</span></li>
                         <li className="nav-item">
                             <a className="scroll navbar-item-naova" onClick={this.onChangeLangue}>
                                 <FormattedMessage id="nav.langue" defaultMessage="fr" />

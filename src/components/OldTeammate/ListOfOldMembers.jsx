@@ -1,13 +1,12 @@
 import React, { Component } from "react";
-import Member from "./Member";
+import Member from "../Team/Member";
 import { FormattedMessage } from "react-intl";
-import "./member.css";
+import "../Team/member.css";
 
-const member_data = require("../../json/member.json");
+const member_data = require("../../json/memberOld.json");
 const naoFaceHalf_img = require("../../img/logo/naofacehalf.png");
 
-
-class ListOfMembers extends Component {
+class ListOfOldMembers extends Component {
     render() {
         return (
             <div>
@@ -18,7 +17,7 @@ class ListOfMembers extends Component {
                                 <img src={naoFaceHalf_img} alt="Nao Face Logo"/>
                             </span>
                         </div>
-                        <h1 className="align-center"><FormattedMessage id="membreTitre" defaultMessage="Current Member" /></h1>
+                        <h1 className="align-center"><FormattedMessage id="oldMembreTitre" defaultMessage="Old Member" /></h1>
                         <div className="row">
                             {member_data.map((m, i) => {
                                 return <Member key={i} imgName={m.imgName} img2Name={m.img2Name} name={m.name} idProgramme={m.idProgramme} isFounder={m.isFounder} defaultMessageProgramme={m.defaultMessageProgramme} idTitre={m.idTitre} defaultMessageTitre={m.defaultMessageTitre} />
@@ -31,4 +30,4 @@ class ListOfMembers extends Component {
     }
 }
 
-export default ListOfMembers;
+export default ListOfOldMembers;

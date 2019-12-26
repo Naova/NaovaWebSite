@@ -11,6 +11,17 @@
     transition: all 0.3s;
 }
 
+.fancy {
+    line-height: 0.5;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.team-img{
+    margin: 10px;
+}
+
 .team-member:hover .team-hover .desk {
     top: 45%;
 }

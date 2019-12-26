@@ -1,5 +1,7 @@
 export default{
     fr: {
+        "oldMembreTitre": "Ancien Membre",
+        "membreTitre":"Membre Actif",
         "contactUs.sectionHeadNaoTitle": "Parce qu'on aime les cartes postales",
         "contactUs.sectionHeadNaoChild": "Pour nous <span class=\"highlight\"><strong>contacter</strong></span>",
         "contactUs.address": "1100 Rue Notre-Dame Ouest, Montréal, QC H3C 1K3",
@@ -125,6 +127,8 @@ export default{
         "sci.date2": "Janvier 2019"
     },
     en: {
+        "oldMembreTitre":"Old Member",
+        "membreTitre":"Current Member",
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
         "contactUs.sectionHeadNaoChild": "Contact <span class=\"highlight\"><strong>us</strong></span>",
         "contactUs.address": "1100 Notre-Dame Street West, Montréal, QC H3C 1K3",

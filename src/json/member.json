@@ -58,7 +58,7 @@
         "defaultMessageProgramme": "Electrical engineering"
     },
     {
-        "imgName": "berkane",
+        "imgName": "hicheme",
         "name": "Berkane-Hicheme Larbi",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
@@ -67,12 +67,6 @@
         "imgName": "etienne",
         "img2Name": "etienne2",
         "name": "Etienne Lussier",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "simon",
-        "name": "Simon Prud'Homme",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },

@@ -1,0 +1,42 @@
+[
+    {
+        "imgName": "jonathan",
+        "img2Name": "jonathan2",
+        "name": "Jonathan Fortin",
+        "idProgramme": "team.master_ele",
+        "defaultMessageProgramme": "Master in Electrical engineering",
+        "isFounder": true
+    },
+    {
+        "name": "Alexandre Doyle",
+        "idProgramme": "team.mec",
+        "defaultMessageProgramme": "Mechanical engineering",
+        "isFounder":true
+    },
+    {
+        "imgName": "thierry",
+        "img2Name": "thierry2",
+        "name": "Thierry Pouplier",
+        "idProgramme": "team.mec",
+        "defaultMessageProgramme": "Mechanical engineering",
+        "isFounder":true
+    },
+    {
+        "imgName": "marc_antoine",
+        "img2Name": "marc_antoine2",
+        "name": "Marc-Antoine Lussier",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Humberto",
+        "idProgramme": "team.ele",
+        "defaultMessageProgramme": "Electrical engineering"
+    },
+    {
+        "imgName": "simon",
+        "name": "Simon Prud'Homme",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    } 
+]

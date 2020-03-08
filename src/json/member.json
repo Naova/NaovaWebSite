@@ -48,6 +48,8 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
+        "imgName": "carlos",
+        "img2Name": "carlos2",
         "name": "Carlos Fallaque",
         "idProgramme": "team.ele",
         "defaultMessageProgramme": "Electrical engineering"
@@ -71,6 +73,8 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
+        "imgName": "mathias",
+        "img2Name": "mathias2",
         "name": "Mathias Bossaerts",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
@@ -91,6 +95,8 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
+        "imgName": "arthur",
+        "img2Name": "arthur2",
         "name": "Arthur Weber",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"

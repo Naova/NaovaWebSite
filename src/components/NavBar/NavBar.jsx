@@ -34,7 +34,7 @@ class NavBar extends Component {
     }
 
     render(){
-        let navClassName = classNames("navbar-collapse", {"collapse": !this.state.isCollapseNotActive}, {"not_collapse": this.state.isCollapseNotActive})
+        // let navClassName = classNames("navbar-collapse", {"collapse": !this.state.isCollapseNotActive}, {"not_collapse": this.state.isCollapseNotActive})
 
         return(
                 <nav id="nav_bar" className="navbar navbar-light navbar-fixed-top navbar-expand-lg bg-light">

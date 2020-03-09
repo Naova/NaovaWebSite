@@ -12,12 +12,14 @@ class Platine extends Component {
                 </SectionHeaderNao>
 
                 <div className="container">
-                    <Sponsors 
-                        img="EQUISOFT_RGB_FR.png"
-                        link="https://www.equisoft.com/"
-                        colNum="12"
-                        idTitle="sponsors.sp5"
-                        defaultMessageTitle="Équisoft"/>
+                    <div className="row align-items-center">
+                        <Sponsors
+                            img="EQUISOFT_RGB_FR.png"
+                            link="https://www.equisoft.com/"
+                            colNum="12"
+                            idTitle="sponsors.sp5"
+                            defaultMessageTitle="Équisoft"/>
+                    </div>  
                 </div>
 
             </div>

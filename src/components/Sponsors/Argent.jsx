@@ -12,12 +12,14 @@ class Argent extends Component {
                 </SectionHeaderNao>
 
                 <div className="container">
-                    <Sponsors 
-                        img="fdrdqlogo.png"
-                        link="http://www.frqnt.gouv.qc.ca/accueil"
-                        colNum="12"
-                        idTitle="sponsors.sp3"
-                        defaultMessageTitle="Fond de recherche du Québec"/>
+                    <div className="row align-items-center">
+                        <Sponsors 
+                            img="fdrdqlogo.png"
+                            link="http://www.frqnt.gouv.qc.ca/accueil"
+                            colNum="12"
+                            idTitle="sponsors.sp3"
+                            defaultMessageTitle="Fond de recherche du Québec"/>
+                    </div>
                 </div>
             </div>
         );

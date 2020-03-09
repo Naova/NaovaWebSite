@@ -8,7 +8,7 @@ class Definition extends Component {
     render(){
         return(
             <div className="container">
-                <div className="col-md-12 naova_definition">
+                <div className="col-md-12 naova_definition justify-content-center">
                     <p><FormattedHTMLMessage id="definition.def1" defaultMessage="Naova is the new robotic scientific club at ETS founded by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier." /></p><br/>
                     <p><FormattedHTMLMessage id="definition.def2" defaultMessage="It has for goal to participate in robotic soccer games during the main international robotic competition: the Robocup. 
                             During the games, robot teams compete to score a maximum of goals against the opponent.

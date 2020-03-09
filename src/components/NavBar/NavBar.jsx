@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import PropTypes from "prop-types";
-import classNames from "classnames";
 import { FormattedMessage } from "react-intl";
 import { setLocale } from "../../actions/locale";
 import { getLang } from "../../selector/locale";

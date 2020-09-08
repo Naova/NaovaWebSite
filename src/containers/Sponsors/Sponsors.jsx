@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import NavBar from "../../components/NavBar/NavBar";
-import HeaderPartenaire from "../../components/Header/HeaderPartenaire";
+import HeaderSponsor from "../../components/Header/HeaderSponsor";
 import Diamant from "../../components/Sponsors/Diamant";
 import Platine from "../../components/Sponsors/Platine";
 import Or from "../../components/Sponsors/Or";
@@ -13,7 +13,7 @@ class Sponsors extends Component {
         return (
             <div className="App">
                 <NavBar />
-                <HeaderPartenaire />
+                <HeaderSponsor />
                 <Diamant />
                 <Platine />
                 <Or />

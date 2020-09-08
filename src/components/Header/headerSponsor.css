@@ -21,6 +21,10 @@
   /* text-shadow: 2px 0 0 #04007c, -2px 0 0 #04007c, 0 2px 0 #04007c, 0 -2px 0 #04007c, 1px 1px #04007c, -1px -1px 0 #04007c, 1px -1px 0 #04007c, -1px 1px 0 #04007c; */
 }
 
+center {
+    margin: 5px;
+}
+
 .btn.btn_become_sponsor{
     font-size: 22px;
     color: #fff;

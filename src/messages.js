@@ -1,5 +1,7 @@
 export default{
     fr: {
+        "oldMembreTitre": "Ancien Membre",
+        "membreTitre":"Membre Actif",
         "contactUs.sectionHeadNaoTitle": "Parce qu'on aime les cartes postales",
         "contactUs.sectionHeadNaoChild": "Pour nous <span class=\"highlight\"><strong>contacter</strong></span>",
         "contactUs.address": "1100 Rue Notre-Dame Ouest, Montréal, QC H3C 1K3",
@@ -16,6 +18,8 @@ export default{
         "historique.his3": "<h4>Participation à la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4> <div><p><u>JOUR 4 - JEUDI, 21 JUIN 2018</u></p><ul><li>Naova(1) vs. NTURoboPAL(2) - Challenge Shield Finals</li></ul><p><u>JOUR 3 - MERCREDI, 20 JUIN 2018</u></p><ul><li>UPennalizers(1) vs. Naova(3) - Challenge Shield Semi Finals</li><li>NTU RoboPAL(4) vs. Naova(1)</li></ul><p><u>JOUR 2 - MARDI, 19 JUIN 2018</u></p><ul><li>Naova(2) vs. Dutch Nao Team(0)</li><li>Naova(0) vs. Unbeatables(0)</li><li>UT Austin Villa(6) vs. Naova(0)</li></ul><p><u>JOUR 1 - LUNDI, 18 JUIN 2018</u></p><ul><li>Aztlan(0) vs. Naova(1)</li><li>Dutch Nao Team(0) vs. Naova(0)</li></ul><p><u>JOUR 0 - DIMANCHE, 17 JUIN 2018</u></p><ul><li>Naova(0) vs. Aztlan(2)</li></ul></div>",
         "historique.his4_date": "22 JUIN 2018",
         "historique.his4": "<h4>Finaliste (Challenge Shield) de la <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
+        "historique.his5_date": "2 au 8 JUILLET 2019",
+        "historique.his5": "<h4>Participation à la <span class=\"highlight\"><strong>RoboCup Australie 2019</strong></span> (RoboCupSoccer - Standard Platform)</h4> <div><p><u>JOUR 4 - VENDREDI, 5 JUILLET 2019</u></p><ul><li>Naova(1) vs. SABANA Herons(1)</li><li>Naova(1) vs. RoboEireann(1)</li><li>Cameila Dragons(2) vs. Naova(0)</li></ul><p><u>JOUR 3 - JEUDI, 4 JUILLET 2019</u></p><ul><li>TJark(8) vs. Naova(0)</li><li>SPQR(3) vs. Naova(0)</li><li>Dutch Nao Team(0) vs. Naova(0)</li></ul><p><u>JOUR 2 - MERCREDI, 3 JUILLET 2019</u></p><ul><li>Naova(0) vs. HTWK(10)</li></ul></div>",
 
         "imgages.sectionHeadNaoTitle": "Parce qu'un robot vaut mille photos",
         "images.sectionHeadNaoChild": "Notre travail en <span class=\"highlight\"><strong>image</strong></span>",
@@ -123,6 +127,8 @@ export default{
         "sci.date2": "Janvier 2019"
     },
     en: {
+        "oldMembreTitre":"Old Member",
+        "membreTitre":"Current Member",
         "contactUs.sectionHeadNaoTitle": "We love getting cards!",
         "contactUs.sectionHeadNaoChild": "Contact <span class=\"highlight\"><strong>us</strong></span>",
         "contactUs.address": "1100 Notre-Dame Street West, Montréal, QC H3C 1K3",
@@ -137,8 +143,10 @@ export default{
         "historique.his2": "<h4>Qualifed to participate in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
         "historique.his3_date": "JUNE 15-22, 2018",
         "historique.his3": "<h4>Participated to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4><div><p><u>DAY 4 - THURSDAY, JUNE, 21 2018</u></p><ul><li>Naova(1) vs. NTURoboPAL(2) - Challenge Shield Finals</li></ul><p><u>DAY 3 - WEDNESDAY, JUNE, 20 2018</u></p><ul><li>UPennalizers(1) vs. Naova(3) - Challenge Shield Semi Finals</li><li>NTU RoboPAL(4) vs. Naova(1)</li></ul><p><u>DAY 2 - TUESDAY, JUNE, 19 2018</u></p><ul><li>Naova(2) vs. Dutch Nao Team(0)</li><li>Naova(0) vs. Unbeatables(0)</li><li>UT Austin Villa(6) vs. Naova(0)</li></ul><p><u>DAY 1 - MONDAY, JUNE, 18 2018</u></p><ul><li>Aztlan(0) vs. Naova(1)</li><li>Dutch Nao Team(0) vs. Naova(0)</li></ul><p><u>DAY 0 - SUNDAY, JUNE, 17 2018</u></p><ul><li>Naova(0) vs. Aztlan(2)</li></ul></div>",
-        "historique.his4_date": "JUIN 22, 2018",
+        "historique.his4_date": "JUNE 22, 2018",
         "historique.his4": "<h4>Finalist (Challenge Shield) to in the <span class=\"highlight\"><strong>RoboCup Montréal 2018</strong></span> (RoboCupSoccer - Standard Platform)</h4>",
+        "historique.his5_date": "JULY 2-8, 2019",
+        "historique.his5": "<h4>Participated to in the <span class=\"highlight\"><strong>RoboCup Australie 2019</strong></span> (RoboCupSoccer - Standard Platform)</h4> <div><p><u>DAY 4 - FRIDAY, JULY, 5 2019</u></p><ul><li>Naova(1) vs. SABANA Herons(1)</li><li>Naova(1) vs. RoboEireann(1)</li><li>Cameila Dragons(2) vs. Naova(0)</li></ul><p><u>DAY 3 - THURSDAY, JULY, 4 2019</u></p><ul><li>TJark(8) vs. Naova(0)</li><li>SPQR(3) vs. Naova(0)</li><li>Dutch Nao Team(0) vs. Naova(0)</li></ul><p><u>DAY 2 - WEDNESDAY, JULY, 3 2019</u></p><ul><li>Naova(0) vs. HTWK(10)</li></ul></div>",
 
         "imgages.sectionHeadNaoTitle": "Because a robot is worth a thousand photos",
         "images.sectionHeadNaoChild": "Our work in <span class=\"highlight\"><strong>pictures</strong></span>",

@@ -8,7 +8,7 @@ class Presentation extends Component {
 
     render(){
         return(
-            <div id="tf-presentation">
+            <div id="tf-presentation row">
 				<SectionHeaderNao isBigNaoFace={true}>
                     <FormattedHTMLMessage id="presentation.sectionHeadNaoChild" defaultMessage='Naova : <span class="highlight"><strong>definition</strong></span>' />
                 </SectionHeaderNao>
@@ -16,8 +16,10 @@ class Presentation extends Component {
 
            		<div className="fancy"><span></span></div>
                 <div className="container">
-                    <h2><FormattedMessage id="presentation.def" defaultMessage="Naova, briefly :" /></h2>
-                    <Summary />
+                    <div className="row justify-content-center" >
+                        <h2><FormattedMessage id="presentation.def" defaultMessage="Naova, briefly :" /></h2>
+                        <Summary />
+                    </div>
                 </div>
             </div>
         );

@@ -3,8 +3,8 @@
         "imgName": "vincent",
         "img2Name": "vincent2",
         "name": "Vincent Girardeau",
-        "idTitre": "team.treasurer",
-        "defaultMessageTitre": "Treasurer",
+        "idTitre": "team.capitain",
+        "defaultMessageTitre": "Capitaine",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
@@ -48,6 +48,8 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
+        "imgName": "carlos",
+        "img2Name": "carlos2",
         "name": "Carlos Fallaque",
         "idProgramme": "team.ele",
         "defaultMessageProgramme": "Electrical engineering"
@@ -58,7 +60,7 @@
         "defaultMessageProgramme": "Electrical engineering"
     },
     {
-        "imgName": "berkane",
+        "imgName": "hicheme",
         "name": "Berkane-Hicheme Larbi",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
@@ -71,19 +73,43 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "simon",
-        "name": "Simon Prud'Homme",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "name": "Mathias Bossaert",
+        "imgName": "mathias",
+        "img2Name": "mathias2",
+        "name": "Mathias Bossaerts",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
         "name": "Guillaume Poirrier",
-        "idProgramme": "team.master.log",
+        "idProgramme": "team.master_log",
         "defaultMessageProgramme": "Master in Software engineering"
+    },
+    {
+        "name": "Rounder Laguerre",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Ana Catarina Castro Da Silva",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "arthur",
+        "img2Name": "arthur2",
+        "name": "Arthur Weber",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Frédéric Labelle",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Naomi Catwell",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
     }
+    
 ]

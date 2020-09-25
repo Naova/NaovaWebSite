@@ -16,7 +16,7 @@ class LeftSummary extends Component {
     render(){
         const { idTitle, defaultMessageTitle, idDescription, defaultMessageDescription, icon, link } = this.props;
         return(
-            <div className="media service">
+            <div className="media service row">
                 <div className="media-body">
                     <h4 className="media-heading"><a href={link}><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></a></h4>
                     <p className="naova_summary_unit"><FormattedMessage id={idDescription} defaultMessage={defaultMessageDescription} /></p>

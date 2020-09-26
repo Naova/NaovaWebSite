@@ -84,7 +84,7 @@ class NavBar extends Component {
                         </li>
                         <li className="nav-item"><span className="scroll navbar-item-naova">|</span></li>
                         <li className="nav-item">
-                            <a className="scroll navbar-item-naova" onClick={this.onChangeLangue}>
+                            <a className="scroll navbar-item-naova" onClick={this.onChangeLangue} href>
                                 <FormattedMessage id="nav.langue" defaultMessage="fr" />
                             </a>
                         </li>

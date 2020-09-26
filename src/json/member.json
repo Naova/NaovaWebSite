@@ -1,33 +1,17 @@
 [
     {
-        "imgName": "vincent",
-        "img2Name": "vincent2",
-        "name": "Vincent Girardeau",
+        "imgName": "antho",
+        "img2Name":"antho2",
+        "name": "Anthony Brochu",
         "idTitre": "team.capitain",
-        "defaultMessageTitre": "Capitaine",
+        "defaultMessageTitre": "Captain",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "jonathan",
-        "img2Name": "jonathan2",
-        "name": "Jonathan Fortin",
-        "idProgramme": "team.master_ele",
-        "defaultMessageProgramme": "Master in Electrical engineering",
-        "isFounder": true
-    },
-    {
-        "imgName": "ariane",
-        "img2Name": "ariane2",
-        "name": "Ariane B. Bétournay",
-        "idTitre": "team.cocap",
-        "defaultMessageTitre": "Co-Captain",
-        "idProgramme": "team.ti",
-        "defaultMessageProgramme": "Information Technology Enginnering"
-    },
-    {
-        "imgName": "antho",
-        "name": "Anthony Brochu",
+        "imgName": "vincent",
+        "img2Name": "vincent2",
+        "name": "Vincent Girardeau",
         "idTitre": "team.cocap",
         "defaultMessageTitre": "Co-Captain",
         "idProgramme": "team.log",
@@ -36,14 +20,16 @@
     {
         "imgName": "ben_c",
         "name": "Benjamin Caron",
-        "idTitre": "team.treasurer",
-        "defaultMessageTitre": "Treasurer",
+        "idTitre": "team.treasurer & team.cocap",
+        "defaultMessageTitre": "Treasurer & Co-Captain",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
         "imgName": "florent",
         "name": "Florent Duchesne",
+        "idTitre": "team.cocap",
+        "defaultMessageTitre": "Co-Captain",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
@@ -51,19 +37,10 @@
         "imgName": "carlos",
         "img2Name": "carlos2",
         "name": "Carlos Fallaque",
+        "idTitre": "team.technique",
+        "defaultMessageTitre": "Technical director",
         "idProgramme": "team.ele",
         "defaultMessageProgramme": "Electrical engineering"
-    },
-    {
-        "name": "Humberto",
-        "idProgramme": "team.ele",
-        "defaultMessageProgramme": "Electrical engineering"
-    },
-    {
-        "imgName": "hicheme",
-        "name": "Berkane-Hicheme Larbi",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
     },
     {
         "imgName": "etienne",
@@ -73,23 +50,12 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "mathias",
-        "img2Name": "mathias2",
-        "name": "Mathias Bossaerts",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "name": "Guillaume Poirrier",
-        "idProgramme": "team.master_log",
-        "defaultMessageProgramme": "Master in Software engineering"
-    },
-    {
         "name": "Rounder Laguerre",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
+        "imgName":"catarina",
         "name": "Ana Catarina Castro Da Silva",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
@@ -102,12 +68,26 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
+        "imgName":"frederic",
         "name": "Frédéric Labelle",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
+        "imgName":"naomi",
         "name": "Naomi Catwell",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "guillermo",
+        "name": "Guillermo Alberto Martinez",
+        "idProgramme": "team.ele",
+        "defaultMessageProgramme": "Electrical engineering"
+    },
+    {
+        "imgName": "mayorathan",
+        "name": "Mayorathan Kanagasabai",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     }

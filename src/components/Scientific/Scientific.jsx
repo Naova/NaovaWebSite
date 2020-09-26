@@ -9,7 +9,7 @@ class Scientific extends Component {
         const { github } = this.props;
         if (github) {
             return <p>
-                <a href={github} target="_blank">
+                <a href={github}>
                     <FormattedMessage id="scientific.github" defaultMessage="GitHub link" />
                 </a>
             </p>
@@ -27,7 +27,7 @@ class Scientific extends Component {
                 </SectionHeaderNao>
                 <div className="naova-scientific-resume">
                     {this.renderGitHub()}
-                    <a href={require(`../../doc/scientific/${link}`)} target="_blank" type="button" className="btn btn-default">
+                    <a href={require(`../../doc/scientific/${link}`)} type="button" className="btn btn-default">
                         <FormattedMessage id="scientific.btn" defaultMessage="Read document" />
                     </a>
                 </div>

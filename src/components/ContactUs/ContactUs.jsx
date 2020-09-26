@@ -48,7 +48,7 @@ class ContactUs extends Component {
                     <div className="row justify-content-center"> 
                         <div className="col-md-10">
                             <div className="row">
-                                <div className="col-md-4">
+                                <div className="col-md-3">
                                     <div className="contact-detail">
                                         <a href="https://goo.gl/maps/3hMjSTfhGeo" target="_blank" rel="noopener noreferrer">
                                             <i className="fa fa-map-marker"></i>
@@ -56,17 +56,25 @@ class ContactUs extends Component {
                                         </a>
                                     </div>
                                 </div>
-                                <div className="col-md-4">
+                                <div className="col-md-3">
                                     <div className="contact-detail">
                                         <i className="fa fa-envelope-o"></i>
                                         <h4>naova@ens.etsmtl.ca</h4>
                                     </div>
                                 </div>
-                                <div className="col-md-4">
+                                <div className="col-md-3">
                                     <div className="contact-detail">
                                         <a href="https://www.facebook.com/naorobotique/?ref=br_rs" target="_blank" rel="noopener noreferrer">
                                             <i className="fa fa-facebook"></i>
-                                            <h4>Naova</h4>
+                                            <h4>Facebook</h4>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div className="col-md-3">
+                                    <div className="contact-detail">
+                                        <a href="https://www.instagram.com/clubnaova/" target="_blank" rel="noopener noreferrer">
+                                            <i className="fa fa-instagram"></i>
+                                            <h4>instagram</h4>
                                         </a>
                                     </div>
                                 </div>

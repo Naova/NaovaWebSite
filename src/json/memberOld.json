@@ -38,5 +38,30 @@
         "name": "Simon Prud'Homme",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
-    } 
+    },
+    {
+        "imgName": "ariane",
+        "img2Name": "ariane2",
+        "name": "Ariane B. Bétournay",
+        "idProgramme": "team.ti",
+        "defaultMessageProgramme": "Information Technology Enginnering"
+    },
+    {
+        "imgName": "hicheme",
+        "name": "Berkane-Hicheme Larbi",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "mathias",
+        "img2Name": "mathias2",
+        "name": "Mathias Bossaerts",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "name": "Guillaume Poirrier",
+        "idProgramme": "team.master_log",
+        "defaultMessageProgramme": "Master in Software engineering"
+    }
 ]

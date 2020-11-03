@@ -5,7 +5,6 @@ import "./header.css"
 
 const naovoLogo_img = require("../../img/logo/logo_titre_degraderblanc2.png");
 const aeetsLogo_img = require("../../img/partenaire/aeetslogo.png");
-const ubiMtlLogo_img = require("../../img/partenaire/Ubisoft_Montreal_Logo.png");
 const etsLogo_img = require("../../img/partenaire/ets.png");
 const equisoft_img = require("../../img/partenaire/EQUISOFT_RGB_FR.png");
 
@@ -23,8 +22,7 @@ class Header extends Component {
                             <div className="col-md-12 row align-items-center">
                                 <img src={etsLogo_img} className="col-md-3 partenaire_ets_img intro-logo" alt="École de technologie supérieure"/>
                                 <img src={equisoft_img} className="col-md-3 partenaire_equisoft_img intro-logo" alt="Équisoft" />
-                                <img src={aeetsLogo_img} className="col-md-3 intro-logo" alt="AEETS"/>
-                                <img src={ubiMtlLogo_img} className="col-md-3 partenaire_ubiMtl_img intro-logo" alt="Ubisoft Montréal"/> 
+                                <img src={aeetsLogo_img} className="col-md-3 intro-logo" alt="AEETS"/> 
                             </div>
                             <div className="col-md-12">
                                 <a href="#tf-presentation" className="scroll goto-arrow"><i className=" fa fa-arrow-down fa-3x"></i></a>

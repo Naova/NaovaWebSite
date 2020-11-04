@@ -3,7 +3,7 @@ import { FormattedMessage } from "react-intl";
 
 import "./headerSponsor.css"
 
-const sponsor_pdf = require("../../doc/partenariat/partenariat_2019.pdf");
+const sponsor_pdf = require("../../doc/partenariat/partenariat_2021.pdf");
 
 const naovoLogo_img = require("../../img/logo/logo_titre_degraderblanc2.png");
 

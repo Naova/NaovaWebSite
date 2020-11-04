@@ -73,7 +73,7 @@ export default{
         "project.skill9": "Projet de mouvement de la tête",
 
         "team.title":"L'équipe Naova",
-        "team.description": "Les humains derrières les robots",
+        "team.description": "Les humains derrière les robots",
         "team.capitain": "Capitaine",
         "team.cocap": "Co-Capitaine",
         "team.treasurer": "Trésorier",

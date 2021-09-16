@@ -203,8 +203,8 @@ export default{
 
         "team.title":"Naova's team",
         "team.description": "Humans behind bots",
-        "team.capitain": "Capitain",
-        "team.cocap": "Co-Capitain",
+        "team.capitain": "Captain",
+        "team.cocap": "Co-Captain",
         "team.founder": "Founder",
         "team.treasurer": "Treasurer",
         "team.administration": "Administration",

@@ -1,17 +1,16 @@
 [
     {
-        "imgName": "antho",
-        "img2Name":"antho2",
-        "name": "Anthony Brochu",
+        "imgName":"catarina",
+        "name": "Catarina Castro",
         "idTitre": "team.capitain",
         "defaultMessageTitre": "Captain",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName": "vincent",
-        "img2Name": "vincent2",
-        "name": "Vincent Girardeau",
+        "imgName": "antho",
+        "img2Name":"antho2",
+        "name": "Anthony Brochu",
         "idTitre": "team.cocap",
         "defaultMessageTitre": "Co-Captain",
         "idProgramme": "team.log",
@@ -55,27 +54,8 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "imgName":"catarina",
-        "name": "Catarina Castro",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "arthur",
-        "img2Name": "arthur2",
-        "name": "Arthur Weber",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
         "imgName":"frederic",
         "name": "Frédéric Labelle",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName":"naomi",
-        "name": "Naomi Catwell",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
@@ -91,5 +71,4 @@
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     }
-    
 ]

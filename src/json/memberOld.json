@@ -63,5 +63,12 @@
         "name": "Guillaume Poirrier",
         "idProgramme": "team.master_log",
         "defaultMessageProgramme": "Master in Software engineering"
+    },
+    {
+        "imgName": "vincent",
+        "img2Name": "vincent2",
+        "name": "Vincent Girardeau",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
     }
 ]

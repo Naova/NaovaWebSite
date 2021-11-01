@@ -49,13 +49,8 @@
         "defaultMessageProgramme": "Software engineering"
     },
     {
-        "name": "Rounder Laguerre",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName":"frederic",
-        "name": "Frédéric Labelle",
+        "imgName": "mayorathan",
+        "name": "Mayorathan Kanagasabai",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     },
@@ -66,8 +61,44 @@
         "defaultMessageProgramme": "Electrical engineering"
     },
     {
-        "imgName": "mayorathan",
-        "name": "Mayorathan Kanagasabai",
+        "imgName": "olivier",
+        "name": "Olivier St-Pierre",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "jordan",
+        "name": "Jordan Morinville",
+        "idProgramme": "team.cursus",
+        "defaultMessageProgramme": "Technological academic Path"
+    },
+    {
+        "imgName": "elias",
+        "name": "Elias-David Zabaleta Forero",
+        "idProgramme": "team.ele",
+        "defaultMessageProgramme": "Electrical engineering"
+    },
+    {
+        "imgName": "marcolivier",
+        "name": "Marc-Olivier Bisson",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "emmanuel",
+        "name": "Emmanuel Coulombe",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Software engineering"
+    },
+    {
+        "imgName": "paul",
+        "name": "Paul Joseph Beltran",
+        "idProgramme": "team.log",
+        "defaultMessageProgramme": "Information technology engineering"
+    },
+    {
+        "imgName": "matthew",
+        "name": "Matthew Albert",
         "idProgramme": "team.log",
         "defaultMessageProgramme": "Software engineering"
     }

@@ -4,7 +4,7 @@ import HeaderSponsor from "../../components/Header/HeaderSponsor";
 import Diamant from "../../components/Sponsors/Diamant";
 import Platine from "../../components/Sponsors/Platine";
 import Or from "../../components/Sponsors/Or";
-import Argent from "../../components/Sponsors/Argent";
+// import Argent from "../../components/Sponsors/Argent";
 //import Bronze from "../../components/Sponsors/Bronze";
 import Footer from "../../components/Footer/Footer";
 
@@ -17,7 +17,7 @@ class Sponsors extends Component {
                 <Diamant />
                 <Platine />
                 <Or />
-                <Argent />
+                {/* <Argent /> */}
                 {/*<Bronze />*/}
                 <Footer />
             </div>

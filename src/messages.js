@@ -235,6 +235,7 @@ export default{
         "sponsors.sp3": "Fond de recherche du Québec",
         "sponsors.sp4": "Ecole de technologie superieure",
         "sponsors.sp5": "Equisoft",
+        "sponsors.sp6": "Octasic",
 
         "press.title": "Naova's press",
         "press.btn": "Show more",

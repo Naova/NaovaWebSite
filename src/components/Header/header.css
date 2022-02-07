@@ -56,6 +56,16 @@ a.goto-arrow:hover {
 }
 
 @media (max-width: 992px){
+    .partenaire_ets_img {
+        height: auto;
+        width: 80%;
+    }
+
+    .partenaire_aeets_img {
+        height: auto;
+        width: 80%;
+    }
+
     .partenaire_ubiMtl_img{
         width: 70%;
     }

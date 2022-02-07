@@ -6,8 +6,6 @@ import "./header.css"
 const naovoLogo_img = require("../../img/logo/logo_titre_degraderblanc2.png");
 const aeetsLogo_img = require("../../img/partenaire/aeetslogo.png");
 const etsLogo_img = require("../../img/partenaire/ets.png");
-const octasic_img = require("../../img/partenaire/octasic_logo.png")
-// const equisoft_img = require("../../img/partenaire/EQUISOFT_RGB_FR.png");
 
 class Header extends Component {
 
@@ -21,14 +19,17 @@ class Header extends Component {
                             <h1><FormattedMessage id="header.title" defaultMessage="Robotic scientific club" /></h1>
                             <p className="lead"><FormattedMessage id="header.school" defaultMessage="Ecole de Technologie Supérieure, Montréal" /></p>
                             <div className="col-md-12 row align-items-center">
-                                <div className="col-md-4">
+                                <div className="col-6">
                                     <a href="https://www.etsmtl.ca/" >
                                         <img src={etsLogo_img} className="partenaire_ets_img intro-logo" alt="École de technologie supérieure"/>
                                     </a>
                                 </div>
-                                {/* <img src={equisoft_img} className="col-md-4 partenaire_equisoft_img intro-logo" alt="Équisoft" /> */}
-                                <img src={aeetsLogo_img} className="col-md-4 intro-logo" alt="AEETS"/>
-                                <img src={octasic_img} className="col-md-4 intro-logo" alt="Octasis"/>
+                                <div className="col-6">
+                                    <a href="https://www.aeets.com/" >
+                                        <img src={aeetsLogo_img} className="partenaire_aeets_img intro-logo" alt="AEETS"/>
+                                    </a>
+                                </div>
+                                
                             </div>
                             <div className="col-md-12">
                                 <a href="#tf-presentation" className="scroll goto-arrow"><i className=" fa fa-arrow-down fa-3x"></i></a>

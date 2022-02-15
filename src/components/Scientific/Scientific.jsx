@@ -18,8 +18,19 @@ class Scientific extends Component {
         }
     }
 
+    renderDoc() {
+        const { link, url } = this.props;
+        let pathToDoc = link ? require(`../../doc/scientific/${link}`) : url;
+
+        return (
+            <a href={pathToDoc} type="button" className="btn btn-default">
+                    <FormattedMessage id="scientific.btn" defaultMessage="Read document" />
+            </a>
+        )
+    }
+
     render() {
-        const { title, lang, idDate, defaultMessageDate, link, source } = this.props;
+        const { title, lang, idDate, defaultMessageDate, source } = this.props;
         return (
             <div id="scientific">
                 <SectionHeaderNao isBigNaoFace={false} idSmallTitle={idDate} defaultMessageSmallTitle={defaultMessageDate} title={" - source : " + source}>
@@ -27,9 +38,7 @@ class Scientific extends Component {
                 </SectionHeaderNao>
                 <div className="naova-scientific-resume">
                     {this.renderGitHub()}
-                    <a href={require(`../../doc/scientific/${link}`)} type="button" className="btn btn-default">
-                        <FormattedMessage id="scientific.btn" defaultMessage="Read document" />
-                    </a>
+                    {this.renderDoc()}
                 </div>
             </div>
         );
@@ -43,6 +52,7 @@ Scientific.propTypes = {
     idDate: PropTypes.string,
     defaultMessageDate: PropTypes.string,
     link: PropTypes.string,
+    url: PropTypes.string,
     source: PropTypes.string,
     github: PropTypes.string
 }

@@ -4,7 +4,7 @@
         "lang": "EN",
         "idDate": "sci.date5",
         "defaultMessageDate": "January, 2021",
-        "link": "Kali2021_Article_WalkingTaskSpaceControlUsingTi.pdf",
+        "url": "https://link.springer.com/article/10.1007/s40435-020-00696-x",
         "source": "Team Naova - Yassine Kali, Maarouf Saad, Jean-François Boland, Jonathan Fortin & Vincent Girardeau"
     },
     {
@@ -12,7 +12,7 @@
         "lang": "FR",
         "idDate": "sci.date4",
         "defaultMessageDate": "December, 2019",
-        "link": "Rapport POIRRIER-Naovav1.1.pdf",
+        "url": "http://publicationslist.org/data/a.april/ref-677/Rapport%20POIRRIER-Naovav1.1.pdf",
         "source": "Team Naova - Guillaume Poirrier"
     },
     {
@@ -20,7 +20,7 @@
         "lang": "FR",
         "idDate": "sci.date3",
         "defaultMessageDate": "April, 2019",
-        "link": "RAPPORTTechniqueFinal.pdf",
+        "url": "http://publicationslist.org/data/a.april/ref-654/RAPPORTTechniqueFinal.pdf",
         "source": "Team Naova - Thierry Pouplier, Brice Brousseau-Rigaudie & Marc Antoine Dumont"
     },
     {

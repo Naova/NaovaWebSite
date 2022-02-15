@@ -258,6 +258,9 @@ export default{
         "scientific.btn": "Read document",
         "scientific.github": "GitHub link",
         "sci.date1": "December, 2018",
-        "sci.date2": "January, 2019"
+        "sci.date2": "January, 2019",
+        "sci.date3": "April, 2019",
+        "sci.date4": "December, 2019",
+        "sci.date5": "January, 2021",
     }
 }

@@ -1,9 +1,33 @@
 [
     {
+        "title": "Walking task space control using time delay estimation based sliding mode of position Controlled NAO biped robot",
+        "lang": "EN",
+        "idDate": "sci.date5",
+        "defaultMessageDate": "January, 2021",
+        "link": "Kali2021_Article_WalkingTaskSpaceControlUsingTi.pdf",
+        "source": "Team Naova - Yassine Kali, Maarouf Saad, Jean-François Boland, Jonathan Fortin & Vincent Girardeau"
+    },
+    {
+        "title": "Conception de l’intelligence artificielle régissant le comportement d’un robot gardien de but de soccer",
+        "lang": "FR",
+        "idDate": "sci.date4",
+        "defaultMessageDate": "December, 2019",
+        "link": "Rapport POIRRIER-Naovav1.1.pdf",
+        "source": "Team Naova - Guillaume Poirrier"
+    },
+    {
+        "title": "Apprentissage par renforcement appliqué à des robots bipèdes",
+        "lang": "FR",
+        "idDate": "sci.date3",
+        "defaultMessageDate": "April, 2019",
+        "link": "RAPPORTTechniqueFinal.pdf",
+        "source": "Team Naova - Thierry Pouplier, Brice Brousseau-Rigaudie & Marc Antoine Dumont"
+    },
+    {
         "title": "Team Description Paper (TDP) 2019 - RoboCup Standard Platform League",
         "lang": "EN",
         "idDate": "sci.date2",
-        "defaultMessageDate": "January, 2018",
+        "defaultMessageDate": "January, 2019",
         "link": "TDP-2019.pdf",
         "source": "Team Naova - Jonathan Fortin, Thierry Pouplier, Vincent Girardeau, Ariane Beaudry-Betournay & Anthony Brochu",
         "github": "https://github.com/Naova/NaovaRelease"

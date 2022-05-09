@@ -51,11 +51,16 @@ a.goto-arrow:hover {
     padding: 5px;
 }
 
-.partenaire_equisoft_img{
+.partenaire_equisoft_img {
     background: rgba(255, 255, 255, 0.50);
 }
 
-@media (max-width: 992px){
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 992px) {
     .partenaire_ets_img {
         height: auto;
         width: 80%;
@@ -66,11 +71,11 @@ a.goto-arrow:hover {
         width: 80%;
     }
 
-    .partenaire_ubiMtl_img{
+    .partenaire_ubiMtl_img {
         width: 70%;
     }
 
-    .partenaire_equisoft_img{
+    .partenaire_equisoft_img {
         width: 70%;
     }
 }

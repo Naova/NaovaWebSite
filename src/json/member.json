@@ -1,99 +1,87 @@
 [
-    {
-        "imgName":"catarina",
-        "name": "Catarina Castro",
-        "idTitre": "team.capitain",
-        "defaultMessageTitre": "Captain",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "antho",
-        "img2Name":"antho2",
-        "name": "Anthony Brochu",
-        "idTitre": "team.cocap",
-        "defaultMessageTitre": "Co-Captain",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "ben_c",
-        "name": "Benjamin Caron",
-        "idTitre": "team.treasurer & team.cocap",
-        "defaultMessageTitre": "Treasurer & Co-Captain",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "florent",
-        "name": "Florent Duchesne",
-        "idTitre": "team.cocap",
-        "defaultMessageTitre": "Co-Captain",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "carlos",
-        "img2Name": "carlos2",
-        "name": "Carlos Fallaque",
-        "idTitre": "team.technique",
-        "defaultMessageTitre": "Technical director",
-        "idProgramme": "team.ele",
-        "defaultMessageProgramme": "Electrical engineering"
-    },
-    {
-        "imgName": "etienne",
-        "img2Name": "etienne2",
-        "name": "Etienne Lussier",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "mayorathan",
-        "name": "Mayorathan Kanagasabai",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "guillermo",
-        "name": "Guillermo Alberto Martinez",
-        "idProgramme": "team.ele",
-        "defaultMessageProgramme": "Electrical engineering"
-    },
-    {
-        "imgName": "olivier",
-        "name": "Olivier St-Pierre",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "jordan",
-        "name": "Jordan Morinville",
-        "idProgramme": "team.cursus",
-        "defaultMessageProgramme": "Technological academic Path"
-    },
-    {
-        "imgName": "elias",
-        "name": "Elias David Zabaleta Forero",
-        "idProgramme": "team.ele",
-        "defaultMessageProgramme": "Electrical engineering"
-    },
-    {
-        "imgName": "marcolivier",
-        "name": "Marc-Olivier Bisson",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    },
-    {
-        "imgName": "paul",
-        "name": "Paul Joseph Beltran",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Information technology engineering"
-    },
-    {
-        "imgName": "matthew",
-        "name": "Matthew Albert",
-        "idProgramme": "team.log",
-        "defaultMessageProgramme": "Software engineering"
-    }
+  {
+    "imgName": "catarina",
+    "name": "Catarina Castro",
+    "idTitre": "team.capitain",
+    "defaultMessageTitre": "Captain",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "antho",
+    "img2Name": "antho2",
+    "name": "Anthony Brochu",
+    "idTitre": "team.cocap",
+    "defaultMessageTitre": "Co-Captain",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "ben_c",
+    "name": "Benjamin Caron",
+    "idTitre": "team.treasurer & team.cocap",
+    "defaultMessageTitre": "Treasurer & Co-Captain",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "florent",
+    "name": "Florent Duchesne",
+    "idTitre": "team.cocap",
+    "defaultMessageTitre": "Co-Captain",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "carlos",
+    "img2Name": "carlos2",
+    "name": "Carlos Fallaque",
+    "idTitre": "team.technique",
+    "defaultMessageTitre": "Technical director",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
+  },
+  {
+    "imgName": "etienne",
+    "img2Name": "etienne2",
+    "name": "Etienne Lussier",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "mayorathan",
+    "name": "Mayorathan Kanagasabai",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "guillermo",
+    "name": "Guillermo Alberto Martinez",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
+  },
+  {
+    "imgName": "olivier",
+    "name": "Olivier St-Pierre",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "elias",
+    "name": "Elias David Zabaleta Forero",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
+  },
+  {
+    "imgName": "marcolivier",
+    "name": "Marc-Olivier Bisson",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "paul",
+    "name": "Paul Joseph Beltran",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Information technology engineering"
+  }
 ]

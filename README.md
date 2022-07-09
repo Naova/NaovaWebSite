@@ -226,4 +226,4 @@ Les champs qui commence par * ne sont pas obligatoire
 2. Vérifie que ton changement ne brise rien
 3. Quand tu merge dans master, le site se déploy automatiquement.
 4. Un message est envoyé pour avertir que le déployement à réussi
-5. Voilà !
+5. Voilà!

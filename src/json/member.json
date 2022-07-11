@@ -42,19 +42,6 @@
     "defaultMessageProgramme": "Electrical engineering"
   },
   {
-    "imgName": "etienne",
-    "img2Name": "etienne2",
-    "name": "Etienne Lussier",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
-  },
-  {
-    "imgName": "mayorathan",
-    "name": "Mayorathan Kanagasabai",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
-  },
-  {
     "imgName": "guillermo",
     "name": "Guillermo Alberto Martinez",
     "idProgramme": "team.ele",

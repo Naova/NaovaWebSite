@@ -10,15 +10,6 @@ const naoFace_img = require("../../img/logo/naoface.png");
 
 class Member extends Component {
 
-    renderImage2Member() {
-        const { img2Name, name } = this.props;
-        if (img2Name) {
-            return <img src={require(`../../img/team/${img2Name}.jpg`)} alt={name} className="img-fluid img-membre-profil" />;
-        } else {
-            return <h4>{name}</h4>;
-        }
-    }
-
     renderImageMember() {
         const { imgName, name } = this.props;
         if (imgName) {
@@ -41,7 +32,7 @@ class Member extends Component {
             return (
                 <span>
                     <span className="team-student"><FormattedMessage id="team.student" defaultMessage="Étudiant en " /></span>
-                    <span><FormattedMessage id={idProgramme} defaultMessage={defaultMessageProgramme} /></span> 
+                    <span><FormattedMessage id={idProgramme} defaultMessage={defaultMessageProgramme} /></span>
                 </span>);
         } else {
             return (
@@ -54,28 +45,26 @@ class Member extends Component {
 
     renderTitre() {
         const { idTitre, defaultMessageTitre } = this.props;
-        if( idTitre && defaultMessageTitre){
+        if (idTitre && defaultMessageTitre) {
             return (<span><span><FormattedMessage id={idTitre} defaultMessage={defaultMessageTitre} /></span><br /></span>);
         }
     }
 
     render() {
 
-        const { name } = this.props;
+        const { name, isCurrentMember, linkedin } = this.props;
         return (
             <div className="col-md-4 col-sm-4 card-team-member">
                 <div className="team-member">
                     <div className="team-img">
                         {this.renderImageMember()}
                     </div>
-                    <div className="team-hover">
-                        <div className="desk">
-                            {this.renderImage2Member()}
-                        </div>
-                    </div>
                 </div>
                 <div className="team-title">
                     <h5>{name}</h5>
+                    <p className="m-0">
+                        {isCurrentMember && <a href={linkedin} target="_blank" rel="noopener noreferrer" class="mx-1"><i className="fa fa-linkedin"></i></a>}
+                    </p>
                     {this.renderTitre()}
                     {this.renderProgram()}
                     {this.renderFounder()}

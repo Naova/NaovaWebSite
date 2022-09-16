@@ -77,5 +77,14 @@
     "name": "Etienne Lussier",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "antho",
+    "img2Name": "antho2",
+    "name": "Anthony Brochu",
+    "idTitre": "team.cocap",
+    "defaultMessageTitre": "Co-Captain",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
   }
 ]

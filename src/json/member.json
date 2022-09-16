@@ -5,16 +5,8 @@
     "idTitre": "team.capitain",
     "defaultMessageTitre": "Captain",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
-  },
-  {
-    "imgName": "antho",
-    "img2Name": "antho2",
-    "name": "Anthony Brochu",
-    "idTitre": "team.cocap",
-    "defaultMessageTitre": "Co-Captain",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/catarina-castro-13a6b9183"
   },
   {
     "imgName": "ben_c",
@@ -22,7 +14,8 @@
     "idTitre": "team.treasurer & team.cocap",
     "defaultMessageTitre": "Treasurer & Co-Captain",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://ca.linkedin.com/in/benjamin-caron-84420720a"
   },
   {
     "imgName": "florent",
@@ -30,7 +23,8 @@
     "idTitre": "team.cocap",
     "defaultMessageTitre": "Co-Captain",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/florent-duchesne"
   },
   {
     "imgName": "carlos",
@@ -39,36 +33,42 @@
     "idTitre": "team.technique",
     "defaultMessageTitre": "Technical director",
     "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering"
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin": "https://www.linkedin.com/in/carlos-cesar-fallaque-beltran-45a740b6"
   },
   {
     "imgName": "guillermo",
     "name": "Guillermo Alberto Martinez",
     "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering"
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin": "https://www.linkedin.com/in/guillermo-alberto-martinez-2729bb176"
   },
   {
     "imgName": "olivier",
     "name": "Olivier St-Pierre",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
   },
   {
     "imgName": "elias",
     "name": "Elias David Zabaleta Forero",
     "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering"
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin": "https://www.linkedin.com/in/elias-zabaleta-67626b250"
   },
   {
     "imgName": "marcolivier",
     "name": "Marc-Olivier Bisson",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/marc-olivier-bisson-15503517b"
   },
   {
     "imgName": "paul",
     "name": "Paul Joseph Beltran",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Information technology engineering"
+    "defaultMessageProgramme": "Information technology engineering",
+    "linkedin": "https://www.linkedin.com/in/paul-beltran-71899793"
   }
 ]

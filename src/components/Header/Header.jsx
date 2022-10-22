@@ -21,12 +21,12 @@ class Header extends Component {
                             <div className="col-md-12 row align-items-center">
                                 <div className="col-6">
                                     <a href="https://www.etsmtl.ca/" >
-                                        <img src={etsLogo_img} className="partenaire_ets_img intro-logo" alt="École de technologie supérieure"/>
+                                        <img src={etsLogo_img} className="partenaire_ets_img" alt="École de technologie supérieure"/>
                                     </a>
                                 </div>
                                 <div className="col-6">
                                     <a href="https://www.aeets.com/" >
-                                        <img src={aeetsLogo_img} className="partenaire_aeets_img intro-logo" alt="AEETS"/>
+                                        <img src={aeetsLogo_img} className="partenaire_aeets_img" alt="AEETS"/>
                                     </a>
                                 </div>
                                 

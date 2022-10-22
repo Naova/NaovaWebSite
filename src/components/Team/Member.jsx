@@ -71,7 +71,7 @@ class Member extends Component {
         return (
             <div className="col-md-4 col-sm-4 card-team-member">
                 <div className="team-member">
-                    <div className="team-img">
+                    <div className="team-img team-member-img">
                         {this.renderImageMember()}
                     </div>
                 </div>

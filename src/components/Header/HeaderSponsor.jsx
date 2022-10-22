@@ -1,9 +1,12 @@
 import React, { Component } from "react";
 import { FormattedMessage } from "react-intl";
+import { connect } from "react-redux";
+import { getLang } from "../../selector/locale";
 
 import "./headerSponsor.css"
 
-const sponsor_pdf = require("../../doc/partenariat/partenariat_2021.pdf");
+const sponsor_pdf_en = require("../../doc/partenariat/Partnership plan-EN.pdf");
+const sponsor_pdf_fr = require("../../doc/partenariat/Plan de partenariat-FR.pdf");
 
 const naovoLogo_img = require("../../img/logo/logo_titre.png");
 
@@ -22,7 +25,7 @@ class headerSponsor extends Component {
                             <p className="lead"><FormattedMessage id="sponsors.description" defaultMessage="Thanks for all our sponsors!"/></p>
                         </div>
                         <center>
-                            <a href={sponsor_pdf} type="button" className="btn btn-primary btn_become_sponsor">
+                            <a href={this.props.lang === "fr" ? sponsor_pdf_fr : sponsor_pdf_en} type="button" className="btn btn-primary btn_become_sponsor">
                                 <FormattedMessage id="sponsors.becomeSponsors" defaultMessage="Become a sponsors!" />
                             </a>
                         </center>
@@ -38,4 +41,10 @@ class headerSponsor extends Component {
     }
 }
 
-export default headerSponsor;
+const mapStateToProps = (state) => {
+	return {
+        lang: getLang(state)
+    };
+}
+
+export default connect(mapStateToProps)(headerSponsor);;

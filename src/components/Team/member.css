@@ -20,6 +20,8 @@
 
 .team-img {
     margin: 10px;
+    max-height: 100%;
+    display: flex;
 }
 
 .team-title {

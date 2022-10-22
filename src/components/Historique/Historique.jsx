@@ -4,7 +4,7 @@ import { FormattedHTMLMessage, FormattedMessage} from "react-intl";
 
 import "./historique.css";
 
-const naoFace_img = require("../../img/logo/naoface.png");
+const naoFace_img = require("../../img/logo/naoface.svg");
 
 class Historique extends Component {
 

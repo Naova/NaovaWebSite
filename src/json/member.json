@@ -13,7 +13,7 @@
     "name": "Benjamin Caron",
     "idTitre": "team.treasurer & team.cocap",
     "defaultMessageTitre": "Treasurer & Co-Captain",
-    "idProgramme": "team.log",
+    "idProgramme": "teteam.treasureram.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin": "https://ca.linkedin.com/in/benjamin-caron-84420720a"
   },
@@ -37,18 +37,20 @@
     "linkedin": "https://www.linkedin.com/in/carlos-cesar-fallaque-beltran-45a740b6"
   },
   {
+    "imgName": "olivier",
+    "name": "Olivier St-Pierre",
+    "idProgramme": "team.log",
+    "idTitre": "team.technique & team.cocap",
+    "defaultMessageTitre": "Technical director & Co-Captain",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
+  },
+  {
     "imgName": "guillermo",
     "name": "Guillermo Alberto Martinez",
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin": "https://www.linkedin.com/in/guillermo-alberto-martinez-2729bb176"
-  },
-  {
-    "imgName": "olivier",
-    "name": "Olivier St-Pierre",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
   },
   {
     "imgName": "elias",
@@ -67,8 +69,20 @@
   {
     "imgName": "paul",
     "name": "Paul Joseph Beltran",
-    "idProgramme": "team.log",
+    "idProgramme": "team.ti",
     "defaultMessageProgramme": "Information technology engineering",
     "linkedin": "https://www.linkedin.com/in/paul-beltran-71899793"
+  },
+  {
+    "name": "Emmanuel Coulombe",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/emmanuelcoulombe"
+  },
+  {
+    "name": "Amira Morsli",
+    "idProgramme": "team.master_gpa",
+    "defaultMessageProgramme": "Master in Automated Manufacturing enginnering",
+    "linkedin": "https://www.linkedin.com/in/morsli-amira-786778161"
   }
 ]

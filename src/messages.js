@@ -109,6 +109,7 @@ export default {
     "team.master_mec": "Maîtrise en génie Mécanique",
     "team.master_ele": "Maîtrise en génie Électrique",
     "team.master_log": "Maîtrise en génie Logiciel",
+    "team.master_gpa": "Maîtrise en génie de la Production Automatisée",
 
     "sponsors.title": "Partenaires",
     "sponsors.description": "Merci à nos partenaires!",
@@ -251,12 +252,13 @@ export default {
     "team.cursus": "Technological Academic Path",
     "team.ti": "Information Technology engineering",
     "team.log": "Software engineering",
-    "team.gpa": "Engineering of Automated Production",
+    "team.gpa": "Engineering of Automated Manufacturing",
     "team.mec": "Mechanical engineering",
     "team.ele": "Electrical engineering",
     "team.master_mec": "Master in Mechanical engineering",
     "team.master_ele": "Master in Electrical engineering",
     "team.master_log": "Master in Software enginnering",
+    "team.master_gpa": "Master in Automated Manufacturing enginnering",
 
     "sponsors.title": "Sponsors",
     "sponsors.description": "Thanks for all our sponsors!",

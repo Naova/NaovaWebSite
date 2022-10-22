@@ -7,7 +7,7 @@ const sponsor_pdf = require("../../doc/partenariat/partenariat_2021.pdf");
 
 const naovoLogo_img = require("../../img/logo/logo_titre.png");
 
-const don_link = "https://www.jedonneenligne.org/fdets/campagne/ets/defi/Challenge/view/e79ea1c7-2ad2-494c-b56e-322a89d432a9?fbclid=IwAR04XC9yKNndLICDmI3dIdh2lEvDJQ2E2BLZMkaBrftD0lIiQKm98W3js_8";
+const don_link = "https://www.jedonneenligne.org/fdets/campagne/ets/challenges/view/e79ea1c7-2ad2-494c-b56e-322a89d432a9";
 
 class headerSponsor extends Component {
 

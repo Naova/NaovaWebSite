@@ -4,8 +4,8 @@ import { FormattedMessage } from "react-intl";
 
 import "./sectionHeaderNao.css";
 
-const naoFace_img = require("../../img/logo/naofacehalf.png");
-const naoFaceHalf_img = require("../../img/logo/naofacehalf.png");
+const naoFace_img = require("../../img/logo/naoface.svg");
+const naoFaceHalf_img = require("../../img/logo/naoface.svg");
 
 class SectionHeaderNao extends Component {
 

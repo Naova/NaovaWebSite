@@ -6,7 +6,7 @@ import { getLang } from "../../selector/locale";
 
 import "./member.css";
 
-const naoFace_img = require("../../img/logo/naoface.png");
+const naoFace_img = require("../../img/logo/naoface.svg");
 
 class Member extends Component {
 
@@ -46,7 +46,22 @@ class Member extends Component {
     renderTitre() {
         const { idTitre, defaultMessageTitre } = this.props;
         if (idTitre && defaultMessageTitre) {
-            return (<span><span><FormattedMessage id={idTitre} defaultMessage={defaultMessageTitre} /></span><br /></span>);
+
+            const titres = idTitre.split("&").map((titre) => titre.trim());
+
+            return (<span><span>{
+                titres.map((titre, index) => {
+                    console.log(titre)
+
+                    // Ajout si ce n'est pas le dernier titre
+                    const ajoutAmpersand = index !== titres.length -1 ? <span> & </span> : <React.Fragment />;
+
+                    return <>
+                        <FormattedMessage id={titre} defaultMessage={defaultMessageTitre} />
+                        {ajoutAmpersand}
+                    </>
+                })
+            }</span><br /></span>);
         }
     }
 
@@ -56,7 +71,7 @@ class Member extends Component {
         return (
             <div className="col-md-4 col-sm-4 card-team-member">
                 <div className="team-member">
-                    <div className="team-img">
+                    <div className="team-img team-member-img">
                         {this.renderImageMember()}
                     </div>
                 </div>

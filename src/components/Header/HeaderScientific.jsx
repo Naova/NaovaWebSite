@@ -3,7 +3,7 @@ import { FormattedMessage } from "react-intl";
 
 import "./headerScientific.css"
 
-const naovoLogo_img = require("../../img/logo/logo_titre.png");
+const naovoLogo_img = require("../../img/logo/logo_titre.svg");
 
 class HeaderScientific extends Component {
 

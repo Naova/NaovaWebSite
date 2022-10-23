@@ -6,7 +6,7 @@ import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
 
 import "./contactUs.css"
 
-//const marker_nao_icon = require("../../img/logo/naofacehalf.png");
+//const marker_nao_icon = require("../../img/logo/naoface.svg");
 
 class ContactUs extends Component {
 

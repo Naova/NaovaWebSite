@@ -20,16 +20,18 @@
     position: absolute;
     height: 5px;
     border-bottom: 1px solid #f1f1f1;
-    top: 15px;
+    top: 50%;
     width: 400px;
 }
 .fancy span:before {
     right: 100%;
-    margin-right: 10px;
 }
 .fancy span:after {
     left: 100%;
-    margin-left: 10px;
+}
+
+.fancy img {
+    width: 6rem;
 }
 
 .highlight { color: #e00b4d; }

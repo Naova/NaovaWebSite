@@ -262,7 +262,6 @@ export default {
     "team.master_ele": "Master in Electrical engineering",
     "team.master_log": "Master in Software enginnering",
     "team.master_ti": "Master in Information Technology engineering",
-    
     "team.master_gpa": "Master in Automated Manufacturing enginnering",
 
     "sponsors.title": "Sponsors",

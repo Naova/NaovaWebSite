@@ -13,7 +13,7 @@
     "name": "Benjamin Caron",
     "idTitre": "team.treasurer & team.cocap",
     "defaultMessageTitre": "Treasurer & Co-Captain",
-    "idProgramme": "teteam.treasureram.log",
+    "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin": "https://ca.linkedin.com/in/benjamin-caron-84420720a"
   },
@@ -30,8 +30,8 @@
     "imgName": "carlos",
     "img2Name": "carlos2",
     "name": "Carlos Fallaque",
-    "idTitre": "team.technique",
-    "defaultMessageTitre": "Technical director",
+    "idTitre": "team.specialiste",
+    "defaultMessageTitre": "Technical specialist",
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin": "https://www.linkedin.com/in/carlos-cesar-fallaque-beltran-45a740b6"
@@ -84,5 +84,22 @@
     "idProgramme": "team.master_gpa",
     "defaultMessageProgramme": "Master in Automated Manufacturing enginnering",
     "linkedin": "https://www.linkedin.com/in/morsli-amira-786778161"
+  },
+  {
+    "name": "Antoine De Roover",
+    "idProgramme": "team.master_ti",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/antoine-de-roover-779b66150"
+  },
+  {
+    "name": "Jean-Christophe Benoit ",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/jean-christophe-benoit-05a99013a"
+  },
+  {
+    "name": "Flavien Ladigue",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
   }
 ]

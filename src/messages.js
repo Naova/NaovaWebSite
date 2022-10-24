@@ -1,7 +1,7 @@
 export default {
   fr: {
-    oldMembreTitre: "Ancien Membre",
-    membreTitre: "Membre Actif",
+    oldMembreTitre: "Anciens Membres",
+    membreTitre: "Membres Actifs",
     "contactUs.sectionHeadNaoTitle": "Parce qu'on aime les cartes postales",
     "contactUs.sectionHeadNaoChild":
       'Pour nous <span class="highlight"><strong>contacter</strong></span>',
@@ -99,6 +99,7 @@ export default {
     "team.founder": "Fondateur",
     "team.administration": "Administration",
     "team.technique": "Directeur technique",
+    "team.specialiste": "Spécialiste technique",
     "team.student": "Étudie en ",
     "team.cursus": "Cheminement universitaire en technologie",
     "team.ti": "Génie Technologies de l'Information",
@@ -109,6 +110,7 @@ export default {
     "team.master_mec": "Maîtrise en génie Mécanique",
     "team.master_ele": "Maîtrise en génie Électrique",
     "team.master_log": "Maîtrise en génie Logiciel",
+    "team.master_ti": "Maîtrise en génie Technologies de l'Information",
     "team.master_gpa": "Maîtrise en génie de la Production Automatisée",
 
     "sponsors.title": "Partenaires",
@@ -150,8 +152,8 @@ export default {
     "sci.date2": "Janvier 2019",
   },
   en: {
-    oldMembreTitre: "Old Member",
-    membreTitre: "Current Member",
+    oldMembreTitre: "Old Members",
+    membreTitre: "Current Members",
     "contactUs.sectionHeadNaoTitle": "We love getting cards!",
     "contactUs.sectionHeadNaoChild":
       'Contact <span class="highlight"><strong>us</strong></span>',
@@ -248,6 +250,7 @@ export default {
     "team.treasurer": "Treasurer",
     "team.administration": "Administration",
     "team.technique": "Technical director",
+    "team.specialiste": "Technical specialist",
     "team.student": " student",
     "team.cursus": "Technological Academic Path",
     "team.ti": "Information Technology engineering",
@@ -258,6 +261,7 @@ export default {
     "team.master_mec": "Master in Mechanical engineering",
     "team.master_ele": "Master in Electrical engineering",
     "team.master_log": "Master in Software enginnering",
+    "team.master_ti": "Master in Information Technology engineering",
     "team.master_gpa": "Master in Automated Manufacturing enginnering",
 
     "sponsors.title": "Sponsors",

@@ -5,8 +5,12 @@
     height: auto;
 }
 .navbar-brand img {
-    height: 30px;
+    height: 44px;
     width: auto;
+}
+
+.navbar-brand {
+    padding: 0;
 }
 
 .navbar-nav > li > a {

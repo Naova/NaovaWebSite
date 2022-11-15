@@ -280,6 +280,7 @@ export default {
     "sponsors.sp5": "Equisoft",
     "sponsors.sp6": "Octasic",
     "sponsors.sp7": "Sherweb",
+    "sponsors.sp8": "Systèmes de gestion Alain Legault inc.",
 
     "press.title": "Naova's press",
     "press.btn": "Show more",

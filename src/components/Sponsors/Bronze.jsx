@@ -18,6 +18,12 @@ class Bronze extends Component {
                             colNum="12"
                             idTitle="sponsors.sp8"
                             defaultMessageTitle="Systèmes de gestion Alain Legault inc."/>
+                            <Sponsors 
+                            img="vimagefactory.png"
+                            link="https://vimagefactory.com/"
+                            colNum="12"
+                            idTitle="sponsors.sp9"
+                            defaultMessageTitle="Vimage Factory"/>
                    </div> 
                 </div>
             </div>

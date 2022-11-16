@@ -281,6 +281,7 @@ export default {
     "sponsors.sp6": "Octasic",
     "sponsors.sp7": "Sherweb",
     "sponsors.sp8": "Systèmes de gestion Alain Legault inc.",
+    "sponsors.sp9": "Vimage Factory",
 
     "press.title": "Naova's press",
     "press.btn": "Show more",

@@ -19,13 +19,13 @@ class Header extends Component {
                             <center><img src={naovoLogo_img} className="intro-logo img-responsive" alt="Naova Logo"/></center>
                             <h1><FormattedMessage id="header.title" defaultMessage="Robotic scientific club" /></h1>
                             <p className="lead"><FormattedMessage id="header.school" defaultMessage="Ecole de Technologie Supérieure, Montréal" /></p>
-                            <div className="col-md-12 row align-items-center">
-                                <div className="col-6">
+                            <div className="col-md-12 row align-items-center partenaire-wrapper">
+                                <div className="col-4">
                                     <a href="https://www.etsmtl.ca/" >
                                         <img src={etsLogo_img} className="partenaire_ets_img" alt="École de technologie supérieure"/>
                                     </a>
                                 </div>
-                                <div className="col-6">
+                                <div className="col-4">
                                     <a href="https://www.aeets.com/" >
                                         <img src={aeetsLogo_img} className="partenaire_aeets_img" alt="AEETS"/>
                                     </a>

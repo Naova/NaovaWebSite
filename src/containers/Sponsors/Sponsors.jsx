@@ -8,6 +8,7 @@ import Argent from "../../components/Sponsors/Argent";
 //import Bronze from "../../components/Sponsors/Bronze";
 import Footer from "../../components/Footer/Footer";
 import Bronze from "../../components/Sponsors/Bronze";
+import Or from "../../components/Sponsors/Or";
 
 class Sponsors extends Component {
   render() {
@@ -17,7 +18,7 @@ class Sponsors extends Component {
         <HeaderSponsor />
         <Diamant />
         <Platine />
-        {/* <Or /> */}
+        <Or />
         <Argent />
         <Bronze />
         <Footer />

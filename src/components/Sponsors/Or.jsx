@@ -12,13 +12,13 @@ class Or extends Component {
         </SectionHeaderNao>
         <div className='container'>
           <div className='justify-content-center row'>
-            {/* <Sponsors
-                  img='aeetslogo.png'
-                  link='http://aeets.com/'
+            <Sponsors
+                  img='Teledyne_Logo_Blue.png'
+                  link='https://www.teledyne.com/'
                   colNum='6'
-                  idTitle='sponsors.sp1'
-                  defaultMessageTitle="ETS's Student Association"
-                /> */}
+                  idTitle='sponsors.sp9'
+                  defaultMessageTitle="Teledyne Technologies"
+                />
           </div>
         </div>
       </div>

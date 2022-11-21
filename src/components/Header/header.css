@@ -68,6 +68,18 @@ a.goto-arrow:hover {
     width: auto;
 }
 
+.partenaire-wrapper {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.partenaire_teledyne_img {
+    padding: 2rem 0;
+    width:20rem;
+    max-width: 40%;
+}
+
 @media (max-width: 992px) {
     .partenaire_ets_img {
         height: auto;

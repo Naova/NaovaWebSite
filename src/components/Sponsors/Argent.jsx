@@ -34,6 +34,13 @@ class Argent extends Component {
               idTitle='sponsors.sp6'
               defaultMessageTitle='Octasic'
             />
+            <Sponsors
+              img='pci_logo.png'
+              link='https://www.pciauto.com/'
+              colNum='12'
+              idTitle='sponsors.sp10'
+              defaultMessageTitle='PCI Automatisation Industrielle'
+            />
           </div>
         </div>
       </div>

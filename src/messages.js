@@ -282,6 +282,7 @@ export default {
     "sponsors.sp7": "Sherweb",
     "sponsors.sp8": "Systèmes de gestion Alain Legault inc.",
     "sponsors.sp9": "Teledyne Technologies",
+    "sponsors.sp10": "PCI Automatisation Industrielle",
 
     "press.title": "Naova's press",
     "press.btn": "Show more",

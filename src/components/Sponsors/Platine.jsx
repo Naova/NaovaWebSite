@@ -27,6 +27,13 @@ class Platine extends Component {
               idTitle='sponsors.sp1'
               defaultMessageTitle="ETS's Student Association"
             />{" "}
+            <Sponsors
+              img='Rousseau-metal-Logo.png'
+              link='https://www.rousseau.com/int_fr/'
+              colNum='12'
+              idTitle='sponsors.sp11'
+              defaultMessageTitle="Rousseau Metal International"
+            />
           </div>
         </div>
       </div>

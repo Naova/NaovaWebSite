@@ -21,26 +21,12 @@ class Argent extends Component {
                   defaultMessageTitle='Fond de recherche du Québec'
                 />{" "} */}
             <Sponsors
-              img='sherweb_logo.png'
-              link='https://www.sherweb.com/'
-              colNum='12'
-              idTitle='sponsors.sp7'
-              defaultMessageTitle='Sherweb'
-            />{" "}
-            <Sponsors
-              img='octasic_logo.png'
-              link='http://www.octasic.com/'
-              colNum='12'
-              idTitle='sponsors.sp6'
-              defaultMessageTitle='Octasic'
-            />
-            <Sponsors
               img='pci_logo.png'
               link='https://www.pciauto.com/'
               colNum='12'
               idTitle='sponsors.sp10'
               defaultMessageTitle='PCI Automatisation Industrielle'
-            />
+            />{" "}
           </div>
         </div>
       </div>

@@ -283,6 +283,7 @@ export default {
     "sponsors.sp8": "Systèmes de gestion Alain Legault inc.",
     "sponsors.sp9": "Teledyne Technologies",
     "sponsors.sp10": "PCI Automatisation Industrielle",
+    "sponsors.sp11": "Rousseau Metal International",
 
     "press.title": "Naova's press",
     "press.btn": "Show more",

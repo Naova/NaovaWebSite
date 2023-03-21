@@ -28,7 +28,7 @@ class Platine extends Component {
               defaultMessageTitle="ETS's Student Association"
             />{" "}
             <Sponsors
-              img='Rousseau-metal-Logo.png'
+              img='rousseau_blue_logo.png'
               link='https://www.rousseau.com/int_fr/'
               colNum='12'
               idTitle='sponsors.sp11'

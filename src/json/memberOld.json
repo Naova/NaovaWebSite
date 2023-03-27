@@ -85,5 +85,12 @@
     "idTitre": "team.cocap",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "guillermo",
+    "name": "Guillermo Alberto Martinez",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin": "https://www.linkedin.com/in/guillermo-alberto-martinez-2729bb176"
   }
 ]

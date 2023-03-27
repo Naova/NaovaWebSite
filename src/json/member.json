@@ -46,13 +46,6 @@
     "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
   },
   {
-    "imgName": "guillermo",
-    "name": "Guillermo Alberto Martinez",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering",
-    "linkedin": "https://www.linkedin.com/in/guillermo-alberto-martinez-2729bb176"
-  },
-  {
     "imgName": "elias",
     "name": "Elias David Zabaleta Forero",
     "idProgramme": "team.ele",
@@ -98,8 +91,30 @@
     "linkedin": "https://www.linkedin.com/in/jean-christophe-benoit-05a99013a"
   },
   {
-    "name": "Flavien Ladigue",
+    "name": "Catherine Ouimet",
+    "idProgramme": "team.meca",
+    "defaultMessageProgramme": "Mechanical engineering"
+  },
+  {
+    "name": "Margarita Pak",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/margaritapak/"
+  },
+  {
+    "name": "Mathieu Gagnon",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin": "https://www.linkedin.com/in/mathieu-gagnon"
+  },
+  {
+    "name": "Tony Chow",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
+  },
+  {
+    "name": "Camilo Vela",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
   }
 ]

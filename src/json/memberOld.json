@@ -8,12 +8,6 @@
     "isFounder": true
   },
   {
-    "name": "Alexandre Doyle",
-    "idProgramme": "team.mec",
-    "defaultMessageProgramme": "Mechanical engineering",
-    "isFounder": true
-  },
-  {
     "imgName": "thierry",
     "img2Name": "thierry2",
     "name": "Thierry Pouplier",
@@ -27,11 +21,6 @@
     "name": "Marc-Antoine Lussier",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering"
-  },
-  {
-    "name": "Humberto",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering"
   },
   {
     "imgName": "simon",
@@ -58,11 +47,6 @@
     "name": "Mathias Bossaerts",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering"
-  },
-  {
-    "name": "Guillaume Poirrier",
-    "idProgramme": "team.master_log",
-    "defaultMessageProgramme": "Master in Software engineering"
   },
   {
     "imgName": "vincent",
@@ -92,5 +76,21 @@
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin": "https://www.linkedin.com/in/guillermo-alberto-martinez-2729bb176"
+  },
+  {
+    "name": "Alexandre Doyle",
+    "idProgramme": "team.mec",
+    "defaultMessageProgramme": "Mechanical engineering",
+    "isFounder": true
+  },
+  {
+    "name": "Humberto",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
+  },
+  {
+    "name": "Guillaume Poirrier",
+    "idProgramme": "team.master_log",
+    "defaultMessageProgramme": "Master in Software engineering"
   }
 ]

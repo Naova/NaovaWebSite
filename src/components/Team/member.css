@@ -57,5 +57,9 @@
 }
 
 .team-member {
-    height: 233px;
+    height: auto;
+}
+
+.img-membre-profil {
+    border-radius: 50%;
 }

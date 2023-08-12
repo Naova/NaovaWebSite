@@ -92,5 +92,25 @@
     "name": "Guillaume Poirrier",
     "idProgramme": "team.master_log",
     "defaultMessageProgramme": "Master in Software engineering"
+  },
+  {
+    "imgName": "emmanuel",
+    "name": "Emmanuel Coulombe",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/emmanuelcoulombe"
+  },
+  {
+    "name": "Antoine De Roover",
+    "idProgramme": "team.master_ti",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/antoine-de-roover-779b66150"
+  },
+  {
+    "imgName": "benjamin2023",
+    "name": "Benjamin Caron",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://ca.linkedin.com/in/benjamin-caron-84420720a"
   }
 ]

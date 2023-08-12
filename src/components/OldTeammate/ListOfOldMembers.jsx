@@ -6,6 +6,7 @@ import "../Team/member.css";
 
 const member_data = require("../../json/memberOld.json");
 const naoFaceHalf_img = require("../../img/logo/naoface.svg");
+const arrowDown_img = require("../../img/Arrow-down.svg");
 
 class ListOfOldMembers extends Component {
     constructor(props) {
@@ -33,12 +34,18 @@ class ListOfOldMembers extends Component {
                             </span>
                         </div>
                         <h1
-                            onClick={this.toggleSection}
-                            style={{ cursor: 'pointer' }}
                             className="align-center"
                         >
-                            <FormattedMessage id="oldMembreTitre" defaultMessage="Old Member" />
+                            <FormattedMessage id="oldMembreTitre" defaultMessage="Old Member"/>
                         </h1>
+                        <div className="fancy"
+                            onClick={this.toggleSection}
+                            style={{ cursor: 'pointer' }}
+                        >
+                            <span>
+                                <img src={arrowDown_img} alt="Arrow down"/>
+                            </span>
+                        </div>
                     </div>
                 </center>
                 {this.state.isSectionVisible && 

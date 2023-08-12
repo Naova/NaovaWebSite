@@ -1,27 +1,34 @@
 [
   {
-    "imgName": "catarina2023",
-    "name": "Catarina Castro",
+    "imgName": "olivier2023",
+    "name": "Olivier St-Pierre",
+    "idProgramme": "team.log",
     "idTitre": "team.capitain",
     "defaultMessageTitre": "Captain",
-    "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
+  },
+  {
+    "imgName": "catarina2023",
+    "name": "Catarina Castro",
+    "idTitre": "team.treasurer & team.cocap",
+    "defaultMessageTitre": "Treasurer & Co-Captain",
+    "idProgramme": "team.master_ti",
+    "defaultMessageProgramme": "Master in Information Technology engineering",
     "linkedin": "https://www.linkedin.com/in/catarina-castro-13a6b9183"
   },
   {
-    "imgName": "benjamin2023",
-    "name": "Benjamin Caron",
-    "idTitre": "team.treasurer & team.cocap",
-    "defaultMessageTitre": "Treasurer & Co-Captain",
+    "imgName": "marc-olivier2023",
+    "name": "Marc-Olivier Bisson",
     "idProgramme": "team.log",
+    "idTitre": "team.technique & team.cocap",
+    "defaultMessageTitre": "Technical director & Co-Captain",
     "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://ca.linkedin.com/in/benjamin-caron-84420720a"
+    "linkedin": "https://www.linkedin.com/in/marc-olivier-bisson-15503517b"
   },
   {
     "imgName": "florent2023",
     "name": "Florent Duchesne",
-    "idTitre": "team.cocap",
-    "defaultMessageTitre": "Co-Captain",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin": "https://www.linkedin.com/in/florent-duchesne"
@@ -30,21 +37,11 @@
     "imgName": "carlos2023",
     "img2Name": "carlos2",
     "name": "Carlos Fallaque",
-    "idTitre": "team.specialiste",
-    "defaultMessageTitre": "Technical specialist",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering",
+    "idProgramme": "team.master_log",
+    "defaultMessageProgramme": "Master in Software enginnering",
     "linkedin": "https://www.linkedin.com/in/carlos-cesar-fallaque-beltran-45a740b6"
   },
-  {
-    "imgName": "olivier2023",
-    "name": "Olivier St-Pierre",
-    "idProgramme": "team.log",
-    "idTitre": "team.technique & team.cocap",
-    "defaultMessageTitre": "Technical director & Co-Captain",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
-  },
+  
   {
     "imgName": "elias2023",
     "name": "Elias David Zabaleta Forero",
@@ -52,13 +49,7 @@
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin": "https://www.linkedin.com/in/elias-zabaleta-67626b250"
   },
-  {
-    "imgName": "marc-olivier2023",
-    "name": "Marc-Olivier Bisson",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/marc-olivier-bisson-15503517b"
-  },
+  
   {
     "imgName": "paul2023",
     "name": "Paul Joseph Beltran",
@@ -66,13 +57,7 @@
     "defaultMessageProgramme": "Information technology engineering",
     "linkedin": "https://www.linkedin.com/in/paul-beltran-71899793"
   },
-  {
-    "imgName": "emmanuel",
-    "name": "Emmanuel Coulombe",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/emmanuelcoulombe"
-  },
+
   {
     "imgName": "amira2023",
     "name": "Amira Morsli",
@@ -113,12 +98,6 @@
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin": "https://www.linkedin.com/in/juan-camilo-vela-laverde/"
-  },
-  {
-    "name": "Antoine De Roover",
-    "idProgramme": "team.master_ti",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/antoine-de-roover-779b66150"
   },
   {
     "name": "Tony Chow",

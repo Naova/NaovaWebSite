@@ -3,7 +3,7 @@ import { FormattedMessage } from "react-intl";
 
 import "./headerHistorique.css"
 
-const naovoLogo_img = require("../../img/logo/logo_titre.svg");
+const naovoLogo_img = require("../../img/logo/logo_titre.svg").default;
 
 class HeaderHistorique extends Component {
 

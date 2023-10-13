@@ -3,11 +3,11 @@ import { FormattedMessage } from "react-intl";
 
 import "./header.css"
 
-const naovoLogo_img = require("../../img/logo/logo_titre.svg");
-const aeetsLogo_img = require("../../img/partenaire/aeetslogo.png");
-const etsLogo_img = require("../../img/partenaire/ets.png");
-const teledyneLogo_img = require("../../img/partenaire/Teledyne_Logo_Blue.png");
-const rousseauLogo_img = require ("../../img/partenaire/rousseau_blue_logo.png");
+const naovoLogo_img = require("../../img/logo/logo_titre.svg").default;
+const aeetsLogo_img = require("../../img/partenaire/aeetslogo.png").default;
+const etsLogo_img = require("../../img/partenaire/ets.png").default;
+const teledyneLogo_img = require("../../img/partenaire/Teledyne_Logo_Blue.png").default;
+const rousseauLogo_img = require("../../img/partenaire/rousseau_blue_logo.png").default;
 
 class Header extends Component {
 

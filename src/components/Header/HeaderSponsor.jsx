@@ -5,10 +5,10 @@ import { getLang } from "../../selector/locale";
 
 import "./headerSponsor.css"
 
-const sponsor_pdf_en = require("../../doc/partenariat/Partnership plan-EN.pdf");
-const sponsor_pdf_fr = require("../../doc/partenariat/Plan de partenariat-FR.pdf");
+const sponsor_pdf_en = require("../../doc/partenariat/Partnership plan-EN.pdf").default;
+const sponsor_pdf_fr = require("../../doc/partenariat/Plan de partenariat-FR.pdf").default;
 
-const naovoLogo_img = require("../../img/logo/logo_titre.svg");
+const naovoLogo_img = require("../../img/logo/logo_titre.svg").default;
 
 const don_link = "https://www.jedonneenligne.org/fdets/campagne/ets/challenges/view/e79ea1c7-2ad2-494c-b56e-322a89d432a9";
 

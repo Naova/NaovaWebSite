@@ -7,7 +7,7 @@ import { getLang } from "../../selector/locale";
 
 import "./navbar.css";
 
-const logo_img = require("../../img/logo/logo.png");
+const logo_img = require("../../img/logo/logo.png").default;
 
 class NavBar extends Component {
     constructor(props) {

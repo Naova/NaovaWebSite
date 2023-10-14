@@ -9,11 +9,11 @@ class ContactUs extends Component {
             <div id="tf-footer">
                 <div className="container">
                     <div className="row ">
-                        <div class="col-md-6 mt-md-0 mt-3">
+                        <div className="col-md-6 mt-md-0 mt-3">
                             <p className="pull-left">© 2018 Naova<br />Design basé sur ethanol</p>
                         </div>
-                        <div class="col-md-6 mt-md-0 mt-3">
-                            <div class="mb-5 flex-center">
+                        <div className="col-md-6 mt-md-0 mt-3">
+                            <div className="mb-5 flex-center">
                                 <ul className="list-inline social pull-right">
                                     <li className="list-inline-item"><a href="https://www.facebook.com/naorobotique/?ref=br_rs" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a></li>
                                     <li className="list-inline-item"><a href="https://github.com/Naova" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>

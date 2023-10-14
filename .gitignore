@@ -26,3 +26,5 @@ yarn-error.log*
 #Généré par npm
 package-lock.json
 yarn.lock
+
+.devcontainer

@@ -24,5 +24,4 @@ yarn-error.log*
 .vscode/launch.json
 
 #Généré par npm
-package-lock.json
 yarn.lock

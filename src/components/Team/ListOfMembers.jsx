@@ -4,7 +4,7 @@ import { FormattedMessage } from "react-intl";
 import "./member.css";
 
 const member_data = require("../../json/member.json");
-const naoFaceHalf_img = require("../../img/logo/naoface.svg").default;
+const naoFaceHalf_img = require("../../img/logo/naoface.svg");
 
 
 class ListOfMembers extends Component {

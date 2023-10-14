@@ -9,7 +9,7 @@ class OneImage extends Component {
         const { img, alt } = this.props;
         return(
             <div className="gallery">
-                <img src={require(`../../img/portfolio/${img.toLowerCase()}`).default} alt={alt}/>
+                <img src={require(`../../img/portfolio/${img.toLowerCase()}`)} alt={alt}/>
             </div>
         );
     }

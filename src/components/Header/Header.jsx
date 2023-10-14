@@ -3,11 +3,11 @@ import { FormattedMessage } from "react-intl";
 
 import "./header.css"
 
-const naovoLogo_img = require("../../img/logo/logo_titre.svg").default;
-const aeetsLogo_img = require("../../img/partenaire/aeetslogo.png").default;
-const etsLogo_img = require("../../img/partenaire/ets.png").default;
-const teledyneLogo_img = require("../../img/partenaire/Teledyne_Logo_Blue.png").default;
-const rousseauLogo_img = require("../../img/partenaire/rousseau_blue_logo.png").default;
+const naovaLogo_img = require("../../img/logo/logo_titre.svg");
+const aeetsLogo_img = require("../../img/partenaire/aeetslogo.png");
+const etsLogo_img = require("../../img/partenaire/ets.png");
+const teledyneLogo_img = require("../../img/partenaire/Teledyne_Logo_Blue.png");
+const rousseauLogo_img = require("../../img/partenaire/rousseau_blue_logo.png");
 
 class Header extends Component {
 
@@ -17,7 +17,7 @@ class Header extends Component {
                 <div className="overlay"> 
                     <div className="container">
                         <div className="content-heading text-center">
-                            <center><img src={naovoLogo_img} className="intro-logo img-responsive" alt="Naova Logo"/></center>
+                            <center><img src={naovaLogo_img} className="intro-logo img-responsive" alt="Naova Logo"/></center>
                             <h1><FormattedMessage id="header.title" defaultMessage="Robotic scientific club" /></h1>
                             <p className="lead"><FormattedMessage id="header.school" defaultMessage="Ecole de Technologie Supérieure, Montréal" /></p>
                             <div className="col-md-12 row align-items-center partenaire-wrapper">

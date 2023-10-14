@@ -6,14 +6,14 @@ import { getLang } from "../../selector/locale";
 
 import "./member.css";
 
-const naoFace_img = require("../../img/logo/naoface.svg").default;
+const naoFace_img = require("../../img/logo/naoface.svg");
 
 class Member extends Component {
 
     renderImageMember() {
         const { imgName, name } = this.props;
         if (imgName) {
-            return <img src={require(`../../img/team/${imgName}.jpg`).default} alt={name} className="img-fluid img-membre-profil" />;
+            return <img src={require(`../../img/team/${imgName}.jpg`)} alt={name} className="img-fluid img-membre-profil" />;
         } else {
             return <img src={naoFace_img} alt="team member" className="img-fluid" />;
         }

@@ -16,7 +16,7 @@ class Sponsors extends Component {
                 <div className="one-sponsor">
                     <a href={link}>
                         <div className="sponsors team-img">
-                            <center><img src={require(`../../img/partenaire/${img}`).default} alt="sponsor"/></center>
+                            <center><img src={require(`../../img/partenaire/${img}`)} alt="sponsor"/></center>
                             <div className="sponsors-title">
                                 <h5><FormattedMessage id={idTitle} defaultMessage={defaultMessageTitle} /></h5>
                             </div>

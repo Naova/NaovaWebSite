@@ -3,7 +3,7 @@ import { FormattedMessage } from "react-intl";
 
 import "./headerPress.css"
 
-const naovaLogo_img = require("../../img/logo/logo_titre.svg");
+const naovaLogo_img = require("../../img/logo/logo_titre.svg").default;
 
 class HeaderPress extends Component {
 

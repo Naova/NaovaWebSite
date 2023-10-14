@@ -5,7 +5,7 @@ import Skill from "./Skill";
 
 import "./project.css";
 
-const redNao_img = require("../../img/naoface.svg");
+const redNao_img = require("../../img/naoface.svg").default;
 const project_data = require("../../json/project.json");
 
 

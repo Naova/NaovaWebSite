@@ -3,7 +3,7 @@ import { FormattedMessage } from "react-intl";
 
 import "./header.css"
 
-const naovaLogo_img = require("../../img/logo/logo_titre.svg");
+const naovaLogo_img = require("../../img/logo/logo_titre.svg").default;
 const aeetsLogo_img = require("../../img/partenaire/aeetslogo.png");
 const etsLogo_img = require("../../img/partenaire/ets.png");
 const teledyneLogo_img = require("../../img/partenaire/Teledyne_Logo_Blue.png");

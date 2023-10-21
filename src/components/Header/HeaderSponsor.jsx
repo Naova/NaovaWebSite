@@ -8,7 +8,7 @@ import "./headerSponsor.css"
 const sponsor_pdf_en = require("../../doc/partenariat/Partnership plan-EN.pdf");
 const sponsor_pdf_fr = require("../../doc/partenariat/Plan de partenariat-FR.pdf");
 
-const naovoLogo_img = require("../../img/logo/logo_titre.svg");
+const naovaLogo_img = require("../../img/logo/logo_titre.svg").default;
 
 const don_link = "https://www.jedonneenligne.org/fdets/campagne/ets/challenges/view/e79ea1c7-2ad2-494c-b56e-322a89d432a9";
 
@@ -20,7 +20,7 @@ class headerSponsor extends Component {
                 <div className="overlay">
                     <div className="container"> 
                         <div className="content-heading text-center">
-                            <center><img src={naovoLogo_img} className="intro-logo img-responsive" alt="free-template"/></center>
+                            <center><img src={naovaLogo_img} className="intro-logo img-responsive" alt="free-template"/></center>
                             <h1><FormattedMessage id="sponsors.title" defaultMessage="Sponsors" /></h1>
                             <p className="lead"><FormattedMessage id="sponsors.description" defaultMessage="Thanks for all our sponsors!"/></p>
                         </div>

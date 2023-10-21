@@ -6,7 +6,7 @@ import { getLang } from "../../selector/locale";
 
 import "./member.css";
 
-const naoFace_img = require("../../img/logo/naoface.svg");
+const naoFace_img = require("../../img/logo/naoface.svg").default;
 
 class Member extends Component {
 

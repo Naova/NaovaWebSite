@@ -127,6 +127,10 @@ export default {
     "sponsors.sp3": "Fond de recherche du Québec",
     "sponsors.sp4": "École de technologie supérieure",
     "sponsors.sp5": "Équisoft",
+    "sponsors.sp8": "Systèmes de gestion Alain Legault inc.",
+    "sponsors.sp9": "Teledyne Technologies",
+    "sponsors.sp10": "PCI Automatisation Industrielle",
+    "sponsors.sp11": "Rousseau Metal International",
 
     "press.title": "La presse de Naova",
     "press.btn": "En savoir plus",

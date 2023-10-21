@@ -40,8 +40,8 @@ class NavBar extends Component {
                 <div className="container">
                     <div className="navbar-header">
                     <a className="navbar-brand" href="/"><img src={logo_img} alt="Logo du Club Naova"/></a>
-                    <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
+                    <button className="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                        <span className="navbar-toggler-icon"></span>
                     </button>
                     </div>
         
@@ -84,7 +84,7 @@ class NavBar extends Component {
                         </li>
                         <li className="nav-item"><span className="scroll navbar-item-naova">|</span></li>
                         <li className="nav-item">
-                            <a className="scroll navbar-item-naova" onClick={this.onChangeLangue} href>
+                            <a className="scroll navbar-item-naova" onClick={this.onChangeLangue}>
                                 <FormattedMessage id="nav.langue" defaultMessage="fr" />
                             </a>
                         </li>

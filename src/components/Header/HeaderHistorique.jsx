@@ -3,7 +3,7 @@ import { FormattedMessage } from "react-intl";
 
 import "./headerHistorique.css"
 
-const naovoLogo_img = require("../../img/logo/logo_titre.svg");
+const naovaLogo_img = require("../../img/logo/logo_titre.svg").default;
 
 class HeaderHistorique extends Component {
 
@@ -13,7 +13,7 @@ class HeaderHistorique extends Component {
                 <div className="overlay">
                     <div className="container"> 
                         <div className="content-heading text-center">
-                            <center><img src={naovoLogo_img} className="intro-logo img-responsive" alt="free-template"/></center>
+                            <center><img src={naovaLogo_img} className="intro-logo img-responsive" alt="free-template"/></center>
                             <h1><FormattedMessage id="historique.title" defaultMessage="Club history" /></h1>
                         </div>
                     </div> 

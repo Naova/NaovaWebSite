@@ -75,8 +75,9 @@
   {
     "imgName": "catherine2023",
     "name": "Catherine Ouimet",
-    "idProgramme": "team.meca",
-    "defaultMessageProgramme": "Mechanical engineering"
+    "idProgramme": "team.mec",
+    "defaultMessageProgramme": "Mechanical engineering",
+    "linkedin": "https://www.linkedin.com/in/catherine-ouimet-8361b6291/"
   },
   {
     "imgName": "margarita2023",

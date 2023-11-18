@@ -10,7 +10,7 @@ const sponsor_pdf_fr = require("../../doc/partenariat/Plan de partenariat-FR.pdf
 
 const naovaLogo_img = require("../../img/logo/logo_titre.svg").default;
 
-const don_link = "https://www.jedonneenligne.org/fdets/campagne/ets/challenges/view/e79ea1c7-2ad2-494c-b56e-322a89d432a9";
+const don_link = "https://www.jedonneenligne.org/fdets/campagne/ets/challenges/view/5c9fa310-7cd4-11ee-ac26-001dd8b75df7";
 
 class headerSponsor extends Component {
 

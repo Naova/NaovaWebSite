@@ -35,12 +35,7 @@ class Header extends Component {
                                     <a href="https://www.rousseau.com/int_fr/" >
                                         <img src={rousseauLogo_img} className="partenaire_rousseau_img" alt="Rousseau"/>
                                     </a>
-                                </div>
-                                <div className="col-sm">
-                                    <a href="https://www.teledyne.com/" >
-                                        <img src={teledyneLogo_img} className="partenaire_teledyne_img" alt="Teledyne"/>
-                                    </a>
-                                </div>
+                                </div>                               
                             </div>
                             <div className="col-md-12">
                                 <a href="#tf-presentation" className="scroll goto-arrow"><i className=" fa fa-arrow-down fa-3x"></i></a>

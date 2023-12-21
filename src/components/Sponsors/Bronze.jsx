@@ -12,12 +12,7 @@ class Bronze extends Component {
                 </SectionHeaderNao>
                 <div className="container">
                     <div className="row align-items-center">
-                        <Sponsors 
-                            img="sgal.jpg"
-                            link="https://sgalinc.com/"
-                            colNum="12"
-                            idTitle="sponsors.sp8"
-                            defaultMessageTitle="Systèmes de gestion Alain Legault inc."/>
+                       
                    </div> 
                 </div>
             </div>

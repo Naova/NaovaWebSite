@@ -6,10 +6,10 @@ import SectionHeaderNao from "../SectionHeaderNao/SectionHeaderNao";
 class Press extends Component {
 
     render() {
-        const { title, lang, type, idDate, defaultMessageDate, resume, link, source } = this.props;
+        const { title, lang, type, date, resume, link, source } = this.props;
         return (
             <div id="press">
-                <SectionHeaderNao isBigNaoFace={false} idSmallTitle={idDate} defaultMessageSmallTitle={defaultMessageDate} title={" - source : " + source}>
+                <SectionHeaderNao isBigNaoFace={false} idSmallTitle="tyl" defaultMessageSmallTitle={new Date(date).toLocaleDateString()} title={" - source : " + source}>
                     <span>{title}</span>
                 </SectionHeaderNao>
                 <div className="naova-press-resume">

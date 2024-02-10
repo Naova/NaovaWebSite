@@ -13,7 +13,6 @@ import Team from "./containers/Team/Team";
 import Sponsors from "./containers/Sponsors/Sponsors";
 import Press from "./containers/Press/Press";
 import Scientific from "./containers/Scientific/Scientific";
-import Historique from "./containers/Historique/Historique";
 
 import messages from "./messages";
 // import "./style/bootstrap.min.css";

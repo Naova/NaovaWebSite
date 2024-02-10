@@ -32,15 +32,11 @@ export default {
       'Notre travail en <span class="highlight"><strong>image</strong></span>',
 
     "definition.def1":
-      "Naova est le nouveau club scientifique de robotique de l'ETS fondé par Jonathan Fortin, Alexandre Doyle et Thierry Pouplier.",
+      "La mission principale de Naova est de participer à la RoboCup chaque année. Afin de nous qualifier, nous développons annuellement une innovation dans le monde de la robotique ou de l’intelligence artificielle et nous publions un article scientifique à ce sujet. Depuis quelques années, nous évoluons dans la division Challenger Shield. Notre objectif principal est de monter de division afin de compétitionner contre les meilleures équipes au monde dans la division Champions cup.",
     "definition.def2":
-      "Il a pour vocation la participation aux matchs de soccer robotique lors des épreuves de la plus grande compétition internationale de robots: la Robocup. " +
-      "Lors de ces matchs, des équipes de robots s'affrontent pour marquer un maximum de buts contre l'adversaire. Les robots agissent de manière entierement autonome, et doivent donc être programmés de manière à " +
-      "pouvoir jouer en équipe sans intervention exterieure.",
+      "Naova se donne aussi comme mission de transmettre sa passion pour la robotique et le génie à la prochaine génération. Le club transmet cette passion au travers de nombreuses démonstrations avec des jeunes aux camps de jour de l’ÉTS ou lors des portes ouvertes par exemple. Nous aimons beaucoup faire des démonstrations autant aux jeunes qu’aux moins jeunes et ainsi faire découvrir l’univers de la robotique et de l’intelligence artificielle.",
     "definition.def3":
-      "Toutes les équipes sont composées du même robot standard, il faut donc réussir à faire la différence sur le programme dictant son comportement.",
-    "definition.def4":
-      "Nous sommes finaliste de la RoboCup de Montréal (Challenge Shield) qui avait lieu du 15 au 22 juin 2018 au Palais des Congrès!",
+      "Finalement, Naova est aussi un club relativement petit qui regroupe une quinzaine d’étudiants de plusieurs génies. Les membres sont tissés serré et s’entraide autant dans les projets du club qu’à l’extérieur dans le cadre des cours ou autre.",
     "definition.buton": "Voir les résultats de la compétition!",
 
     "nav.history": "Historique",
@@ -189,15 +185,11 @@ export default {
       'Our work in <span class="highlight"><strong>pictures</strong></span>',
 
     "definition.def1":
-      "Naova is the new robotic scientific club at ETS founded by Jonathan Fortin, Alexandre Doyle and Thierry Pouplier.",
+      "Naova's main mission is to take part in the RoboCup every year. To qualify, each year we develop an innovation in the world of robotics or artificial intelligence and publish a scientific paper on the subject. For the past few years, we've been competing in the Challenger Shield division. Our main objective is to move up a division to compete against the best teams in the world in the Champions Cup division.",
     "definition.def2":
-      "It has for goal to participate in robotic soccer games during the main international robotic competition: the Robocup. " +
-      "During the games, robot teams compete to score a maximum of goals against the opponent. " +
-      "The robots are entirely autonomous and need to be programmed to play as a team without exterior intervention.",
+      "Naova's mission is also to pass on its passion for robotics and engineering to the next generation. The club transmits this passion through numerous demonstrations with children at ÉTS day camps and open houses. We love demonstrating to young and old alike, and helping them discover the world of robotics and artificial intelligence.",
     "definition.def3":
-      "Every team are composed of the same standard robots, there has to be a difference in the program dictating its comportment.",
-    "definition.def4":
-      "We are finalist of the Montréal RoboCup (Challenge Shield) during june 15 to 22, 2018 at the Palais des Congrès!",
+      "Finally, Naova is also a relatively small club, bringing together approximately 15 students from a number of engineering disciplines. The members are very close-knit, helping each other with projects both inside and outside the club.",
     "definition.buton": "Show the competition's results!",
 
     "nav.history": "History",

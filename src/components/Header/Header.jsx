@@ -29,7 +29,7 @@ class Header extends Component {
                             <div className="row align-items-center partenaire-wrapper">
                                 {allSponsors.map((sponsor) =>
                                     <div style={{width: sponsor.frontPageWidth, padding: "2%"}}>
-                                        <a href={sponsor.link} >
+                                        <a target="_blank" href={sponsor.link} >
                                             <img src={require("../../img/partenaire/"+sponsor.img)} className="partenaire_img" alt={sponsor.defaultMessageTitle}/>
                                         </a>
                                     </div>

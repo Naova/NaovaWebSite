@@ -131,6 +131,7 @@ export default {
     "sponsors.sp9": "Teledyne Technologies",
     "sponsors.sp10": "PCI Automatisation Industrielle",
     "sponsors.sp11": "Rousseau Metal International",
+    "sponsors.sp12": "Desjardins",
 
     "press.title": "La presse de Naova",
     "press.btn": "En savoir plus",
@@ -288,6 +289,7 @@ export default {
     "sponsors.sp9": "Teledyne Technologies",
     "sponsors.sp10": "PCI Automatisation Industrielle",
     "sponsors.sp11": "Rousseau Metal International",
+    "sponsors.sp12": "Desjardins",
 
     "press.title": "Naova's press",
     "press.btn": "Show more",

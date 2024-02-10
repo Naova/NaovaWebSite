@@ -94,13 +94,6 @@
     "defaultMessageProgramme": "Master in Software engineering"
   },
   {
-    "imgName": "emmanuel",
-    "name": "Emmanuel Coulombe",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/emmanuelcoulombe"
-  },
-  {
     "name": "Antoine De Roover",
     "idProgramme": "team.master_ti",
     "defaultMessageProgramme": "Software engineering",
@@ -112,5 +105,46 @@
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin": "https://ca.linkedin.com/in/benjamin-caron-84420720a"
+  },
+  {
+    "name": "Tony Chow",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
+  },
+  {
+    "imgName": "margarita2023",
+    "name": "Margarita Pak",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/margaritapak/"
+  },
+  {
+    "imgName": "jean-christophe2023",
+    "name": "Jean-Christophe Benoit ",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/jean-christophe-benoit-05a99013a"
+  },
+  {
+    "imgName": "amira2023",
+    "name": "Amira Morsli",
+    "idProgramme": "team.master_gpa",
+    "defaultMessageProgramme": "Master in Automated Manufacturing enginnering",
+    "linkedin": "https://www.linkedin.com/in/amira-morsli-786778161"
+  },
+  {
+    "imgName": "carlos2023",
+    "img2Name": "carlos2",
+    "name": "Carlos Fallaque",
+    "idProgramme": "team.master_log",
+    "defaultMessageProgramme": "Master in Software enginnering",
+    "linkedin": "https://www.linkedin.com/in/carlos-cesar-fallaque-beltran-45a740b6"
+  },
+  {
+    "imgName": "florent2023",
+    "name": "Florent Duchesne",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/florent-duchesne"
   }
 ]

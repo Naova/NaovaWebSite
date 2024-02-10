@@ -73,11 +73,6 @@ class NavBar extends Component {
                             </a>
                         </li>
                         <li className="nav-item">
-                            <a href="/history" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
-                                <FormattedMessage id="nav.history" defaultMessage="History" />
-                            </a>
-                        </li>
-                        <li className="nav-item">
                             <a href="/sponsors" onClick={this.onChangeCollapse} className="scroll navbar-item-naova">
                                 <FormattedMessage id="nav.sponsors" defaultMessage="Sponsors" />
                             </a>

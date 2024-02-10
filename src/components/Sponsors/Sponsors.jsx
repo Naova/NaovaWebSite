@@ -14,7 +14,7 @@ class Sponsors extends Component {
         return (
             <div className={classNameCol}>
                 <div className="one-sponsor">
-                    <a href={link}>
+                    <a target="_blank" href={link}>
                         <div className="sponsors team-img">
                             <center><img src={require(`../../img/partenaire/${img}`)} alt="sponsor"/></center>
                             <div className="sponsors-title">

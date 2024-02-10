@@ -68,6 +68,10 @@ a.goto-arrow:hover {
     width: auto;
 }
 
+.partenaire_img {
+    width: 100%;
+}
+
 .partenaire-wrapper {
     display:flex;
     flex-direction: row;

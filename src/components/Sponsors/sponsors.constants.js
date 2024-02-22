@@ -88,7 +88,7 @@ export const SPONSORS = [
     },
     {
         img: "desjardinslogo.png",
-        link: "https://www.desjardins.com/",
+        link: "https://caissetech.com/",
         title: "sponsors.sp12",
         defaultMessageTitle: "Desjardins",
         type: SPONSOR_DIAMANT,

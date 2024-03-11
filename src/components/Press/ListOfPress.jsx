@@ -8,18 +8,15 @@ const press_data = require("../../json/press.json");
 
 class ListOfPress extends Component {
     render() {
+        const availableYears = press_data.map(p => new Date(p.date).getFullYear());
+        const uniqueYears = [...new Set(availableYears)].sort().reverse();
         return (
             <div>
                 <center>
                     <div className="container naova_press_section">
-                        <PressYearSection year={2018} />
-                       {/* 
-                        <div>
-                            {press_data.map((p, i) => {
-                                return <Press key={i} title={p.title} lang={p.lang} type={p.type} date={p.date} resume={p.resume} link={p.link} source={p.source}/>
-                            })}
-                        </div> 
-                        */} 
+                        {uniqueYears.map((year, i) => {
+                            return <PressYearSection key={i} year={year} />;
+                        })}
                     </div>
                 </center>
             </div>

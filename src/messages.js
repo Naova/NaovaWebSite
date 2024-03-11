@@ -130,6 +130,7 @@ export default {
     "sponsors.sp12": "Desjardins",
 
     "press.title": "La presse de Naova",
+    "press.year": "Année",
     "press.btn": "En savoir plus",
     "press.date1": "23 août 2017",
     "press.date2": "30 juin 2017",
@@ -284,6 +285,7 @@ export default {
     "sponsors.sp12": "Desjardins",
 
     "press.title": "Naova's press",
+    "press.year": "Year",
     "press.btn": "Show more",
     "press.date1": "August 23, 2017",
     "press.date2": "June 30, 2017",

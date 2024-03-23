@@ -1,30 +1,19 @@
 [
     {
-        "title": "Porte ouverte de l'ÉTS",
+        "title": "Portes ouvertes de l'ÉTS",
         "lang": "FR",
         "resume": "Les membres du club Naova étaient présent lors des portes ouvert de l'ÉTS",
-        "idDate": "press.date14",
-        "defaultMessageDate": "January 27, 2019",
+        "date": "2019-01-27",
         "type": "Photo",
         "link": "https://www.facebook.com/151988981995338/posts/492778491249717/",
-        "source": "ÉTS - École de technologie supérieure"
-    },
-    {
-        "title": "ROBOCUPSOCCER",
-        "lang": "FR",
-        "resume": "L’équipe de l’ÉTS [Naova] a terminé sur la 2e marche du podium de la division Challenger de la Standard Platform League (SPL) de la RoboCupSoccer tenue dans le cadre du tournoi international de robotique RoboCup l’été dernier à Montréal. Ce tournoi réunit 4000 participants de 35 pays et 5000 robots autonomes.",
-        "idDate": "press.date13",
-        "defaultMessageDate": "Fall 2018",
-        "type": "Magazine",
-        "link": "https://www.etsmtl.ca/docs/ETS/A-propos/Publications/Documents/ETS-360",
-        "source": "L'ÉTS@360° - Volume 14, numéro 2 - Automne 2018 - page 23 "
+        "source": "ÉTS - École de technologie supérieure",
+        "image": "porteouverte2019.jpg"
     },
     {
         "title": "Video - ROBOCUP 2018 | MONTRÉAL",
         "lang": "EN",
         "resume": "Interview with the Naova co-capitain (Jonathan Fortin) and the capitain (Ariane B. Bétournay) to summarize the RoboCup 2018 at Montréal",
-        "idDate": "press.date12",
-        "defaultMessageDate": "November 15, 2018",
+        "date": "2018-11-15",
         "type": "Video",
         "link": "https://www.youtube.com/watch?v=_whKvIQkM6U",
         "source": "SoftBank Robotics Europe"
@@ -33,110 +22,58 @@
         "title": "Participation au #technofeminin",
         "lang": "FR",
         "resume": "Naova était présent au #technofeminin",
-        "idDate": "press.date11",
-        "defaultMessageDate": "October 13, 2018",
+        "date": "2018-10-13",
         "type": "Photo",
         "link": "https://www.facebook.com/ConcertationMTL/photos/a.962928260446716/2253418161397713/?type=3&hc_ref=ART03OL1DUY5VBn9l82nky1-AbvazvZhEe826NjlIczin_KpllxL0zOE9e8nZI4dkSk&__xts__%5B0%5D=68.ARDURgtwDXLNg-oEr6zI-LbcK-whv73tYWFiWkmLXBSk9rdYMR2BGQ4T4ILDcHWask2MxcyzzdOzcC9WQRwd3zj-Pn2DtqJdjpbO6eck9G80ScTk04hT-m6W3dGjjbdqmtryQ97ztxBCVwFku5sm8uNHIt6cyWGptmbDk9OkVsfiR5GqtzoUxO6BmX2L3KGr-hY29Iqw2zORkDJ2RuVI7lXN&__tn__=EC-R",
-        "source": "Concertation Montréal - CMTL"
+        "source": "Concertation Montréal - CMTL",
+        "image": "technofeminin2018.jpeg"
     },
     {
         "title": "L’ÉTS à la RoboCup 2018: une 2e place et des émotions fortes pour le club Naova",
         "lang": "FR",
         "resume": "Après Leipzig en Allemagne en 2016 et Nagoya au Japon en 2017, c’est Montréal qui accueillait cette année le prestigieux tournoi international de robotique RoboCup. Le tournoi, qui réunit 4000 participants provenant de 35 pays, compte sur la présence de 5000 robots qui ont la particularité d’être autonomes, c’est-à-dire qu’ils ne sont pas téléguidés, mais plutôt programmés pour exécuter une série de gestes et répondre à leur environnement. Ces robots compétitionnent dans une quinzaine de divisions différentes, dont la RoboCupSoccer, à laquelle participait cette année le club étudiant Naova. L’équipe, composée de 8 étudiants de l’ÉTS, a terminé sur la 2e marche du podium de la division challenger de SPL, un exploit quand on sait qu’elle en est seulement à sa première année d’existence!",
-        "idDate": "press.date10",
-        "defaultMessageDate": "July 13, 2018",
+        "date": "2018-07-13",
         "type": "Article",
         "link": "http://magazinemci.com/2018/07/13/lets-a-la-robocup-2018-une-2e-place-et-des-emotions-fortes-pour-le-club-naova/",
         "source": "GroupePageau"
     },
     {
-        "title": "L’ÉTS à la RoboCup 2018",
-        "lang": "FR",
-        "resume": "Une 2e place et des émotions fortes pour le club Naova",
-        "idDate": "press.date9",
-        "defaultMessageDate": "July 11, 2018",
-        "type": "Article",
-        "link": "https://www.etsmtl.ca/nouvelles/2018/L-ETS-a-la-RoboCup-2018",
-        "source": "Cindy D. Gauthier - Conseillère en communication de l'ETS"
-    },
-    {
         "title": "Naova's first RoboCup SPL goal",
         "lang": "EN",
         "resume": "That feeling when you score your first-ever RoboCup SPL goal! Congrats and welcome to the league Naova!",
-        "idDate": "press.date8",
-        "defaultMessageDate": "June 18, 2018",
+        "date": "2018-06-18",
         "type": "Video",
         "link": "https://www.facebook.com/RoboCupSPL/videos/880545555465162/?hc_ref=ARTE5vAJ73rb_qWdGX5Bc8pqaYh9_Yze5Ioku_LGIJ7uNf2uCjLdLXa90D4YLjqVlYE&__tn__=FC-R",
-        "source": "RoboCup SPL"
+        "source": "RoboCup SPL",
+        "image": "firstgoal2018.png"
     },
     {
         "title": "Participation au Festival Eurêka",
         "lang": "FR",
         "resume": "Naova était présent au Festival Eurêka",
-        "idDate": "press.date7",
-        "defaultMessageDate": "June 10, 2018",
+        "date": "2018-06-10",
         "type": "Photo",
         "link": "https://www.facebook.com/festivaleureka/photos/a.10155692330499010/10155692330834010/?type=3&theater",
-        "source": "Festival Eurêka"
+        "source": "Festival Eurêka",
+        "image": "eureka2018.jpeg"
     },
     {
         "title": "Vidéo - Exposant au #ColloqueOIQ 2018 - Club étudiant ÉTS Naova",
         "lang": "FR",
         "resume": "Jonathan Fortin, étudiant en maîtrise avec mémoire sur l’optimisation des déplacements robotiques, ÉTS. Naova a pour vocation la participation aux matchs de soccer robotique lors des épreuves de la plus grande compétition internationale de robots: la Robocup. Lors de ces matchs, des équipes de robots s'affrontent pour marquer un maximum de buts contre l'adversaire. Les robots agissent de manière entièrement autonome, et doivent donc être programmés de manière à pouvoir jouer en équipe sans intervention extérieure. Toutes les équipes sont composées du même robot standard, il faut donc réussir à faire la différence sur le programme dictant son comportement.",
-        "idDate": "press.date6",
-        "defaultMessageDate": "May 9, 2018",
+        "date": "2018-05-09",
         "type": "Video",
         "link": "https://www.youtube.com/watch?v=4290blEWWZs",
         "source": "Ordre des ingénieurs du Québec"
     },
     {
-        "title": "Entrevue avec «Le Jeu, C’est Sérieux» au porte ouvert de l'ETS",
-        "lang": "FR",
-        "resume": "Entrevue avec «Le Jeu, C’est Sérieux» au porte ouvert de l'ETS",
-        "idDate": "press.date5",
-        "defaultMessageDate": "January 28, 2018",
-        "type": "Video",
-        "link": "https://www.facebook.com/JeuSerieux/videos/1574664819269801/",
-        "source": "Le Jeu, C’est Sérieux"
-    },
-    {
-        "title": "Des robots humanoïdes NAO bientôt à l’ÉTS",
-        "lang": "FR",
-        "resume": "Des robots humanoïdes NAO bientôt à l’ÉTS",
-        "idDate": "press.date4",
-        "defaultMessageDate": "May 9, 2017",
-        "type": "Article",
-        "link": "https://www.uquebec.ca/reseau/fr/contenu/des-robots-humanoides-nao-bientot-lets",
-        "source": "Stéphanie-Élizabeth Le Sieur - Services aux étudiants de l'ETS"
-    },
-    {
-        "title": "Nouveau projet étudiant NAOVA",
-        "lang": "FR",
-        "resume": "Des robots humanoïdes NAO bientôt à l’ÉTS",
-        "idDate": "press.date3",
-        "defaultMessageDate": "May 4, 2017",
-        "type": "Article",
-        "link": "https://www.etsmtl.ca/nouvelles/2017/Nouveau-projet-etudiant-NAOVA-(1)",
-        "source": "Stéphanie-Élizabeth Le Sieur - Services aux étudiants de l'ETS"
-    },
-    {
         "title": "Interview with CTV - RoboCup International 2018 Montréal Canada",
         "lang": "EN",
         "resume": "Compétition et symposium, 15 au 22 juin 2018 - Competition and symposium, June 15 to 22, 2018",
-        "idDate": "press.date2",
-        "defaultMessageDate": "June 30, 2017",
+        "date": "2017-06-30",
         "type": "Photo",
         "link": "https://www.facebook.com/media/set/?set=a.756777227816972&type=3&__tn__=-UC-R",
-        "source": "RoboCup International 2018 Montréal Canada"
-    },
-    {
-        "title": "Naova : la robotique moderne à l’ÉTS",
-        "lang": "FR",
-        "resume": "Jonathan Fortin a effectué des études en gestion de commerces au Cégep Lionel-Groulx avant de poursuivre au baccalauréat à l’ÉTS en génie des opérations et de la logistique. Son projet de maîtrise (et sa passion) porte sur le travail effectué au club étudiant Naova dont l’objectif est de remporter la Robocup2018.",
-        "idDate": "press.date1",
-        "defaultMessageDate": "August 23, 2017",
-        "type": "Article",
-        "link": "https://substance.etsmtl.ca/naova-la-robotique-moderne-lets",
-        "source": "Jonathan Fortin - Substance"
+        "source": "RoboCup International 2018 Montréal Canada",
+        "image": "robocupinternational2017.jpeg"
     }
 ]

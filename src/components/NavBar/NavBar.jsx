@@ -85,17 +85,18 @@ class NavBar extends Component {
                         </li>
                     </ul>
                     </div>
-                    <button onClick={() => {
+                    <button onClick={async () => {
                         const formData = {
-                            test: 'Test Form'
+                            "form-name": "test-form",
+                            testValue: 'Test Form'
                         }
-                        fetch("/", {
-                            method: "POST",
-                            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-                            body: new URLSearchParams(formData).toString(),
-                          })
-                            .then(() => console.log("Form successfully submitted"))
-                            .catch((error) => alert(error));
+
+                        await fetch("/", {
+                                method: "POST",
+                                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                                body: new URLSearchParams(formData).toString()
+                              })
+                        alert('Success')
                     }}>
                         SUBSCRIBE TO NEWLETTERS
                     </button>

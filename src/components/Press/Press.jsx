@@ -9,18 +9,6 @@ class Press extends Component {
         const { title, lang, type, idDate, defaultMessageDate, resume, link, source } = this.props;
         return (
             <div id="press">
-                <form name="subscribe-newsletter" method="post">
-                  <input type="hidden" name="form-name" value="subscribe-newsletter" />
-                  <p>
-                    <label htmlFor="email">Email</label> <br />
-                    <input type="email" id="email" name="email" required />
-                  </p>
-                  <p>
-                    <input type="submit" value="Submit message" />
-                  </p>
-                </form>
-
-
                 <SectionHeaderNao isBigNaoFace={false} idSmallTitle={idDate} defaultMessageSmallTitle={defaultMessageDate} title={" - source : " + source}>
                     <span>{title}</span>
                 </SectionHeaderNao>

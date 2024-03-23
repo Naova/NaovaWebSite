@@ -6,6 +6,7 @@ import { setLocale } from "../../actions/locale";
 import { getLang } from "../../selector/locale";
 
 import "./navbar.css";
+import NewsletterSubscribeDialog from "../NewsletterSubscribeDialog/NewsletterSubscribeDialog";
 
 const logo_img = require("../../img/logo/logo.png");
 
@@ -85,21 +86,6 @@ class NavBar extends Component {
                         </li>
                     </ul>
                     </div>
-                    <button onClick={async () => {
-                        const formData = {
-                            "form-name": "test-form",
-                            testValue: 'Test Form'
-                        }
-
-                        await fetch("/", {
-                                method: "POST",
-                                headers: { "Content-Type": "application/x-www-form-urlencoded" },
-                                body: new URLSearchParams(formData).toString()
-                              })
-                        alert('Success')
-                    }}>
-                        SUBSCRIBE TO NEWLETTERS
-                    </button>
                 </div>
             </nav>
         );

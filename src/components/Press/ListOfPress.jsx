@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Press from "./Press";
 
 import "./press.css";
 import PressYearSection from "./PressYearSection";

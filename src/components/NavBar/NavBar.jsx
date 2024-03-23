@@ -85,6 +85,20 @@ class NavBar extends Component {
                         </li>
                     </ul>
                     </div>
+                    <button onClick={() => {
+                        const formData = {
+                            test: 'Test Form'
+                        }
+                        fetch("/", {
+                            method: "POST",
+                            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                            body: new URLSearchParams(formData).toString(),
+                          })
+                            .then(() => console.log("Form successfully submitted"))
+                            .catch((error) => alert(error));
+                    }}>
+                        SUBSCRIBE TO NEWLETTERS
+                    </button>
                 </div>
             </nav>
         );

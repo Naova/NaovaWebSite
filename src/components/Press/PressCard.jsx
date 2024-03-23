@@ -1,4 +1,5 @@
 import React from 'react'
+import { FormattedMessage } from 'react-intl';
 
 const getImageLink = (article) => {
   const isYoutube = article.link.toLowerCase().includes('youtube')
@@ -30,7 +31,10 @@ const PressCard = ({article}) => {
         <p className="press-card-title">{article.title}</p>
         <p className="press-card-date">{date.toLocaleDateString()}</p>
         <p className="press-card-summary">{article.resume}</p>
-        <p className="press-card-source">Source: {article.source}</p>
+        <p className="press-card-source">
+          <FormattedMessage id="press.source" defaultMessage="Source: " />
+          {article.source}
+        </p>
         <img src={image} className="press-card-img" />
     </div>
     

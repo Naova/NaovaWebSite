@@ -129,6 +129,7 @@ export default {
     "sponsors.sp11": "Rousseau Metal International",
     "sponsors.sp12": "Desjardins",
 
+    "press.source": "Source: ",
     "press.title": "La presse de Naova",
     "press.year": "Année",
     "press.btn": "En savoir plus",
@@ -284,6 +285,7 @@ export default {
     "sponsors.sp11": "Rousseau Metal International",
     "sponsors.sp12": "Desjardins",
 
+    "press.source": "Source: ",
     "press.title": "Naova's press",
     "press.year": "Year",
     "press.btn": "Show more",

@@ -6,7 +6,8 @@
         "date": "2019-01-27",
         "type": "Photo",
         "link": "https://www.facebook.com/151988981995338/posts/492778491249717/",
-        "source": "ÉTS - École de technologie supérieure"
+        "source": "ÉTS - École de technologie supérieure",
+        "image": "porteouverte2019.jpg"
     },
     {
         "title": "Video - ROBOCUP 2018 | MONTRÉAL",
@@ -24,7 +25,8 @@
         "date": "2018-10-13",
         "type": "Photo",
         "link": "https://www.facebook.com/ConcertationMTL/photos/a.962928260446716/2253418161397713/?type=3&hc_ref=ART03OL1DUY5VBn9l82nky1-AbvazvZhEe826NjlIczin_KpllxL0zOE9e8nZI4dkSk&__xts__%5B0%5D=68.ARDURgtwDXLNg-oEr6zI-LbcK-whv73tYWFiWkmLXBSk9rdYMR2BGQ4T4ILDcHWask2MxcyzzdOzcC9WQRwd3zj-Pn2DtqJdjpbO6eck9G80ScTk04hT-m6W3dGjjbdqmtryQ97ztxBCVwFku5sm8uNHIt6cyWGptmbDk9OkVsfiR5GqtzoUxO6BmX2L3KGr-hY29Iqw2zORkDJ2RuVI7lXN&__tn__=EC-R",
-        "source": "Concertation Montréal - CMTL"
+        "source": "Concertation Montréal - CMTL",
+        "image": "technofeminin2018.jpeg"
     },
     {
         "title": "L’ÉTS à la RoboCup 2018: une 2e place et des émotions fortes pour le club Naova",
@@ -36,22 +38,14 @@
         "source": "GroupePageau"
     },
     {
-        "title": "L’ÉTS à la RoboCup 2018",
-        "lang": "FR",
-        "resume": "Une 2e place et des émotions fortes pour le club Naova",
-        "date": "2018-07-11",
-        "type": "Article",
-        "link": "https://www.etsmtl.ca/nouvelles/2018/L-ETS-a-la-RoboCup-2018",
-        "source": "Cindy D. Gauthier - Conseillère en communication de l'ETS"
-    },
-    {
         "title": "Naova's first RoboCup SPL goal",
         "lang": "EN",
         "resume": "That feeling when you score your first-ever RoboCup SPL goal! Congrats and welcome to the league Naova!",
         "date": "2018-06-18",
         "type": "Video",
         "link": "https://www.facebook.com/RoboCupSPL/videos/880545555465162/?hc_ref=ARTE5vAJ73rb_qWdGX5Bc8pqaYh9_Yze5Ioku_LGIJ7uNf2uCjLdLXa90D4YLjqVlYE&__tn__=FC-R",
-        "source": "RoboCup SPL"
+        "source": "RoboCup SPL",
+        "image": "firstgoal2018.png"
     },
     {
         "title": "Participation au Festival Eurêka",
@@ -60,7 +54,8 @@
         "date": "2018-06-10",
         "type": "Photo",
         "link": "https://www.facebook.com/festivaleureka/photos/a.10155692330499010/10155692330834010/?type=3&theater",
-        "source": "Festival Eurêka"
+        "source": "Festival Eurêka",
+        "image": "eureka2018.jpeg"
     },
     {
         "title": "Vidéo - Exposant au #ColloqueOIQ 2018 - Club étudiant ÉTS Naova",
@@ -78,15 +73,7 @@
         "date": "2017-06-30",
         "type": "Photo",
         "link": "https://www.facebook.com/media/set/?set=a.756777227816972&type=3&__tn__=-UC-R",
-        "source": "RoboCup International 2018 Montréal Canada"
-    },
-    {
-        "title": "Naova : la robotique moderne à l’ÉTS",
-        "lang": "FR",
-        "resume": "Jonathan Fortin a effectué des études en gestion de commerces au Cégep Lionel-Groulx avant de poursuivre au baccalauréat à l’ÉTS en génie des opérations et de la logistique. Son projet de maîtrise (et sa passion) porte sur le travail effectué au club étudiant Naova dont l’objectif est de remporter la Robocup2018.",
-        "date": "2017-09-23",
-        "type": "Article",
-        "link": "https://substance.etsmtl.ca/naova-la-robotique-moderne-lets",
-        "source": "Jonathan Fortin - Substance"
+        "source": "RoboCup International 2018 Montréal Canada",
+        "image": "robocupinternational2017.jpeg"
     }
 ]

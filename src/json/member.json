@@ -1,6 +1,6 @@
 [
   {
-    "imgName": "olivier2023",
+    "imgName": "Olivier2024",
     "name": "Olivier St-Pierre",
     "idProgramme": "team.log",
     "idTitre": "team.capitain",
@@ -18,20 +18,13 @@
     "linkedin": "https://www.linkedin.com/in/catarina-castro-13a6b9183"
   },
   {
-    "imgName": "marc-olivier2023",
+    "imgName": "Marc-Olivier2024",
     "name": "Marc-Olivier Bisson",
     "idProgramme": "team.log",
     "idTitre": "team.technique & team.cocap",
     "defaultMessageTitre": "Technical director & Co-Captain",
     "defaultMessageProgramme": "Software engineering",
     "linkedin": "https://www.linkedin.com/in/marc-olivier-bisson-15503517b"
-  },
-  {
-    "imgName": "elias2023",
-    "name": "Elias David Zabaleta Forero",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering",
-    "linkedin": "https://www.linkedin.com/in/elias-zabaleta-67626b250"
   },
   {
     "imgName": "paul2023",
@@ -41,7 +34,7 @@
     "linkedin": "https://www.linkedin.com/in/paul-beltran-71899793"
   },
   {
-    "imgName": "catherine2023",
+    "imgName": "Catherine2024",
     "name": "Catherine Ouimet",
     "idProgramme": "team.mec",
     "defaultMessageProgramme": "Mechanical engineering",
@@ -55,33 +48,55 @@
     "linkedin": "https://www.linkedin.com/in/mathieu-gagnon"
   },
   {
-    "imgName": "camilo2023",
+    "imgName": "Camilo2024",
     "name": "Camilo Vela",
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin": "https://www.linkedin.com/in/juan-camilo-vela-laverde/"
   },
   {
+    "imgName": "Jeremy2024",
     "name": "Jérémy Thu-Thon",
     "idProgramme": "team.gpa",
     "defaultMessageProgramme": "Engineering of Automated Manufacturing"
   },
   {
+    "imgName": "Robyn2024",
     "name": "Robyn Girardeau",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin": "https://www.linkedin.com/in/robyn-girardeau/"
   },
   {
-    "name": "Eliott Frohly",
+    "imgName": "Nadir2024",
+    "name": "Nadir Kaciousalah",
     "idProgramme": "team.gpa",
     "defaultMessageProgramme": "Engineering of Automated Manufacturing",
-    "linkedin": "https://www.linkedin.com/in/eliott-f/"
+    "linkedin": "https://www.linkedin.com/in/nadir-kaciousalah/"
   },
   {
-    "name": "Emmanuel Coulombe",
+    "name": "Annie Tremblay",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "Liza2024",
+    "name": "Liza Benkadoum",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/emmanuelcoulombe"
+    "linkedin":"https://www.linkedin.com/in/liza-benkadoum/"
+  },
+  {
+    "name": "Guy-Philippe Nadon",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/guy-philippe-nadon-26489a114/"
+  },
+  {
+    "imgName": "William2024",
+    "name": "William Hébert",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/w-hebert/"
   }
 ]

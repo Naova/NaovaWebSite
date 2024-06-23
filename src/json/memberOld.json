@@ -146,5 +146,24 @@
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin": "https://www.linkedin.com/in/florent-duchesne"
+  },
+  {
+    "imgName": "elias2023",
+    "name": "Elias David Zabaleta Forero",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin": "https://www.linkedin.com/in/elias-zabaleta-67626b250"
+  },
+  {
+    "name": "Emmanuel Coulombe",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/emmanuelcoulombe"
+  },
+  {
+    "name": "Eliott Frohly",
+    "idProgramme": "team.gpa",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+    "linkedin": "https://www.linkedin.com/in/eliott-f/"
   }
 ]

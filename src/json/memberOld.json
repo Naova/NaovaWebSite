@@ -165,5 +165,26 @@
     "idProgramme": "team.gpa",
     "defaultMessageProgramme": "Engineering of Automated Manufacturing",
     "linkedin": "https://www.linkedin.com/in/eliott-f/"
+  },
+  {
+    "imgName": "catarina2023",
+    "name": "Catarina Castro",
+    "idProgramme": "team.master_ti",
+    "defaultMessageProgramme": "Master in Information Technology engineering",
+    "linkedin": "https://www.linkedin.com/in/catarina-castro-13a6b9183"
+  },
+  {
+    "imgName": "paul2023",
+    "name": "Paul Joseph Beltran",
+    "idProgramme": "team.ti",
+    "defaultMessageProgramme": "Information technology engineering",
+    "linkedin": "https://www.linkedin.com/in/paul-beltran-71899793"
+  },
+  {
+    "imgName": "mathieu2023",
+    "name": "Mathieu Gagnon",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin": "https://www.linkedin.com/in/mathieu-gagnon"
   }
 ]

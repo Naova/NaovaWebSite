@@ -9,15 +9,6 @@
     "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
   },
   {
-    "imgName": "catarina2023",
-    "name": "Catarina Castro",
-    "idTitre": "team.treasurer & team.cocap",
-    "defaultMessageTitre": "Treasurer & Co-Captain",
-    "idProgramme": "team.master_ti",
-    "defaultMessageProgramme": "Master in Information Technology engineering",
-    "linkedin": "https://www.linkedin.com/in/catarina-castro-13a6b9183"
-  },
-  {
     "imgName": "Marc-Olivier2024",
     "name": "Marc-Olivier Bisson",
     "idProgramme": "team.log",
@@ -27,11 +18,13 @@
     "linkedin": "https://www.linkedin.com/in/marc-olivier-bisson-15503517b"
   },
   {
-    "imgName": "paul2023",
-    "name": "Paul Joseph Beltran",
-    "idProgramme": "team.ti",
-    "defaultMessageProgramme": "Information technology engineering",
-    "linkedin": "https://www.linkedin.com/in/paul-beltran-71899793"
+    "imgName": "Jeremy2024",
+    "name": "Jérémy Thu-Thon",
+    "idProgramme": "team.gpa",
+    "idTitre": "team.treasurer & team.cocap",
+    "defaultMessageTitre": "Treasurer & Co-Captain",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+    "linkedin": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-thu-thon-8638a3304/"
   },
   {
     "imgName": "Catherine2024",
@@ -41,24 +34,11 @@
     "linkedin": "https://www.linkedin.com/in/catherine-ouimet-8361b6291/"
   },
   {
-    "imgName": "mathieu2023",
-    "name": "Mathieu Gagnon",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering",
-    "linkedin": "https://www.linkedin.com/in/mathieu-gagnon"
-  },
-  {
     "imgName": "Camilo2024",
     "name": "Camilo Vela",
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin": "https://www.linkedin.com/in/juan-camilo-vela-laverde/"
-  },
-  {
-    "imgName": "Jeremy2024",
-    "name": "Jérémy Thu-Thon",
-    "idProgramme": "team.gpa",
-    "defaultMessageProgramme": "Engineering of Automated Manufacturing"
   },
   {
     "imgName": "Robyn2024",

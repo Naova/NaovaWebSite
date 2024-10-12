@@ -78,5 +78,73 @@
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin":"https://www.linkedin.com/in/w-hebert/"
+  },
+  {
+    "name": "Christine Yang-Dai",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/christine-yang-dai/"
+  },
+  {
+    "name": "Liliana Palma-Espinoza",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
+  },
+  {
+    "name": "Piero Castrillon Gamarra",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin":"https://www.linkedin.com/in/piero-castrillon-gamarra-357070284/"
+  },
+  {
+    "name": "Stacy-Linsay Octave",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin":"https://www.linkedin.com/in/piero-castrillon-gamarra-357070284/"
+  },
+  {
+    "name": "Gregor Postmus",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/gregor-p-59596a293/"
+  },
+  {
+    "name": "Aissa Bouaraguia",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/aissa-bouaraguia-78976b319/"
+  },
+  {
+    "name": "Nina Bodelot",
+    "idProgramme": "team.master_ti_sante",
+    "defaultMessageProgramme": "Master in Engineering in Healthcare Technology",
+    "linkedin":"https://www.linkedin.com/in/nina-b-9b8667aa/"
+  },
+  {
+    "name": "Pierre Galopin",
+    "idProgramme": "team.master_gpa",
+    "defaultMessageProgramme": "Master in Automated Manufacturing enginnering",
+    "linkedin":"https://www.linkedin.com/in/pierre-galopin/"
+  },
+  {
+    "name": "Kerian Devillers",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "name": "Félix Boyer",
+    "idProgramme": "team.cursus",
+    "defaultMessageProgramme": "Technological Academic Path"
+  },
+  {
+    "name": "Pelayo García Seco",
+    "idProgramme": "team.gpa",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+    "linkedin":"https://www.linkedin.com/in/pelayogarciaseco/"
+  },
+  {
+    "name": "Nicolas Laurin",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
   }
 ]

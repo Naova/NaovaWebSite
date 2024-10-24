@@ -69,15 +69,6 @@ export const SPONSORS = [
         frontPageWidth: "20%"
     },
     {
-        img: "aeetslogo.png",
-        link: "http://aeets.com/",
-        title: "sponsors.sp1",
-        defaultMessageTitle: "ETS's Student Association",
-        type: SPONSOR_PLATINE,
-        colNum: "12",
-        frontPageWidth: "25%"
-    },
-    {
         img: "rousseau_blue_logo.png",
         link: "https://www.rousseau.com/int_fr/",
         title: "sponsors.sp11",
@@ -94,7 +85,14 @@ export const SPONSORS = [
         type: SPONSOR_DIAMANT,
         colNum: "12",
         frontPageWidth: "35%"
-    }
-    
-    
+    },
+    {
+        img: "aeetslogo.png",
+        link: "http://aeets.com/",
+        title: "sponsors.sp1",
+        defaultMessageTitle: "ETS's Student Association",
+        type: SPONSOR_DIAMANT,
+        colNum: "12",
+        frontPageWidth: "25%"
+    }  
 ]

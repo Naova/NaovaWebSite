@@ -6,6 +6,7 @@ import { setLocale } from "../../actions/locale";
 import { getLang } from "../../selector/locale";
 
 import "./navbar.css";
+import NewsletterSubscribeDialog from "../NewsletterSubscribeDialog/NewsletterSubscribeDialog";
 
 const logo_img = require("../../img/logo/logo.png");
 

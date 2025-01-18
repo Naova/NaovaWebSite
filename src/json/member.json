@@ -34,20 +34,6 @@
     "linkedin": "https://www.linkedin.com/in/catherine-ouimet-8361b6291/"
   },
   {
-    "imgName": "Camilo2024",
-    "name": "Camilo Vela",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering",
-    "linkedin": "https://www.linkedin.com/in/juan-camilo-vela-laverde/"
-  },
-  {
-    "imgName": "Robyn2024",
-    "name": "Robyn Girardeau",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/robyn-girardeau/"
-  },
-  {
     "imgName": "Nadir2024",
     "name": "Nadir Kaciousalah",
     "idProgramme": "team.gpa",
@@ -65,12 +51,6 @@
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin":"https://www.linkedin.com/in/liza-benkadoum/"
-  },
-  {
-    "name": "Guy-Philippe Nadon",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/guy-philippe-nadon-26489a114/"
   },
   {
     "imgName": "William2024",
@@ -103,28 +83,10 @@
     "linkedin":"https://www.linkedin.com/in/piero-castrillon-gamarra-357070284/"
   },
   {
-    "name": "Gregor Postmus",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/gregor-p-59596a293/"
-  },
-  {
     "name": "Aissa Bouaraguia",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering",
     "linkedin":"https://www.linkedin.com/in/aissa-bouaraguia-78976b319/"
-  },
-  {
-    "name": "Nina Bodelot",
-    "idProgramme": "team.master_ti_sante",
-    "defaultMessageProgramme": "Master in Engineering in Healthcare Technology",
-    "linkedin":"https://www.linkedin.com/in/nina-b-9b8667aa/"
-  },
-  {
-    "name": "Pierre Galopin",
-    "idProgramme": "team.master_gpa",
-    "defaultMessageProgramme": "Master in Automated Manufacturing enginnering",
-    "linkedin":"https://www.linkedin.com/in/pierre-galopin/"
   },
   {
     "name": "Kerian Devillers",
@@ -137,14 +99,18 @@
     "defaultMessageProgramme": "Technological Academic Path"
   },
   {
-    "name": "Pelayo García Seco",
-    "idProgramme": "team.gpa",
-    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
-    "linkedin":"https://www.linkedin.com/in/pelayogarciaseco/"
+    "name": "Louis Le Lay",
+    "idProgramme": "team.master_ti",
+    "linkedin":"https://www.linkedin.com/in/louis-le-lay/"
   },
   {
-    "name": "Nicolas Laurin",
+    "name": "Harry Phan",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "linkedin":"https://www.linkedin.com/in/phan-tung-bui-harry/"
+  },
+  {
+    "name": "Mohammadsam Karimi",
+    "idProgramme": "team.log",
+    "linkedin":"https://www.linkedin.com/in/mohammadsam-karimi/"
   }
 ]

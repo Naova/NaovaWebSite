@@ -186,5 +186,31 @@
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin": "https://www.linkedin.com/in/mathieu-gagnon"
+  },
+  {
+    "imgName": "Camilo2024",
+    "name": "Camilo Vela",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin": "https://www.linkedin.com/in/juan-camilo-vela-laverde/"
+  },
+  {
+    "imgName": "Robyn2024",
+    "name": "Robyn Girardeau",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/robyn-girardeau/"
+  },
+  {
+    "name": "Guy-Philippe Nadon",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/guy-philippe-nadon-26489a114/"
+  },
+  {
+    "name": "Pelayo García Seco",
+    "idProgramme": "team.gpa",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+    "linkedin":"https://www.linkedin.com/in/pelayogarciaseco/"
   }
 ]

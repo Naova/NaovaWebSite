@@ -78,15 +78,6 @@ export const SPONSORS = [
         frontPageWidth: "20%"
     },
     {
-        img: "desjardinslogo.png",
-        link: "https://caissetech.com/",
-        title: "sponsors.sp12",
-        defaultMessageTitle: "Desjardins",
-        type: SPONSOR_DIAMANT,
-        colNum: "12",
-        frontPageWidth: "35%"
-    },
-    {
         img: "aeetslogo.png",
         link: "http://aeets.com/",
         title: "sponsors.sp1",

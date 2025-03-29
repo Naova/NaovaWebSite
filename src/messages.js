@@ -129,6 +129,7 @@ export default {
     "sponsors.sp10": "PCI Automatisation Industrielle",
     "sponsors.sp11": "Rousseau Metal International",
     "sponsors.sp12": "Desjardins",
+    "sponsors.sp13": "Genium360",
 
     "press.source": "Source: ",
     "press.title": "La presse de Naova",

@@ -85,5 +85,14 @@ export const SPONSORS = [
         type: SPONSOR_DIAMANT,
         colNum: "12",
         frontPageWidth: "25%"
+    },
+    {
+        img: "GENIUM360_LogoCoul_002.png",
+        link: "https://www.genium360.ca/fr-ca/",
+        title: "sponsors.sp13",
+        defaultMessageTitle: "Genium360",
+        type: SPONSOR_OR,
+        colNum: "12",
+        frontPageWidth: "25%"
     }  
 ]

@@ -130,6 +130,7 @@ export default {
     "sponsors.sp11": "Rousseau Metal International",
     "sponsors.sp12": "Desjardins",
     "sponsors.sp13": "Genium360",
+    "sponsors.sp14": "Air Canada",
 
     "press.source": "Source: ",
     "press.title": "La presse de Naova",

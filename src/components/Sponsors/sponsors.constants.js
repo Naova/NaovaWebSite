@@ -84,7 +84,7 @@ export const SPONSORS = [
         defaultMessageTitle: "ETS's Student Association",
         type: SPONSOR_DIAMANT,
         colNum: "12",
-        frontPageWidth: "25%"
+        frontPageWidth: "20%"
     },
     {
         img: "GENIUM360_LogoCoul_002.png",
@@ -93,6 +93,16 @@ export const SPONSORS = [
         defaultMessageTitle: "Genium360",
         type: SPONSOR_OR,
         colNum: "12",
-        frontPageWidth: "25%"
-    }  
+        frontPageWidth: "20%"
+    },
+    {
+        img: "AC_Logo_Vertical_onWhiteTransparent.png",
+        link: "https://www.aircanada.com/",
+        title: "sponsors.sp14",
+        defaultMessageTitle: "Air Canada",
+        type: SPONSOR_OR,
+        colNum: "12",
+        frontPageWidth: "20%"
+    }   
+    
 ]

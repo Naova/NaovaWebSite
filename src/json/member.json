@@ -1,6 +1,6 @@
 [
   {
-    "imgName": "Olivier2024",
+    "imgName": "Olivier2025",
     "name": "Olivier St-Pierre",
     "idProgramme": "team.log",
     "idTitre": "team.capitain",
@@ -9,7 +9,7 @@
     "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
   },
   {
-    "imgName": "Marc-Olivier2024",
+    "imgName": "Marc-Olivier2025",
     "name": "Marc-Olivier Bisson",
     "idProgramme": "team.log",
     "idTitre": "team.technique & team.cocap",
@@ -18,7 +18,7 @@
     "linkedin": "https://www.linkedin.com/in/marc-olivier-bisson-15503517b"
   },
   {
-    "imgName": "Jeremy2024",
+    "imgName": "Jeremy2025",
     "name": "Jérémy Thu-Thon",
     "idProgramme": "team.gpa",
     "idTitre": "team.treasurer & team.cocap",
@@ -27,11 +27,46 @@
     "linkedin": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-thu-thon-8638a3304/"
   },
   {
-    "imgName": "Catherine2024",
+    "imgName": "Aissa2025",
+    "name": "Aissa Bouaraguia",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/aissa-bouaraguia-78976b319/"
+  },
+  {
+    "imgName": "Kerian2025",
+    "name": "Kerian Devillers",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/kerian-devillers/"
+  },
+  {
+    "imgName": "Catherine2025",
     "name": "Catherine Ouimet",
     "idProgramme": "team.mec",
     "defaultMessageProgramme": "Mechanical engineering",
     "linkedin": "https://www.linkedin.com/in/catherine-ouimet-8361b6291/"
+  },
+  {
+    "imgName": "Liza2025",
+    "name": "Liza Benkadoum",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/liza-benkadoum/"
+  },
+  {
+    "imgName": "William2025",
+    "name": "William Hébert",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/w-hebert/"
+  },
+  {
+    "imgName": "Christine2025",
+    "name": "Christine Yang-Dai",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/christine-yang-dai/"
   },
   {
     "imgName": "Nadir2024",
@@ -46,57 +81,9 @@
     "defaultMessageProgramme": "Software engineering"
   },
   {
-    "imgName": "Liza2024",
-    "name": "Liza Benkadoum",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/liza-benkadoum/"
-  },
-  {
-    "imgName": "William2024",
-    "name": "William Hébert",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/w-hebert/"
-  },
-  {
-    "name": "Christine Yang-Dai",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/christine-yang-dai/"
-  },
-  {
     "name": "Liliana Palma-Espinoza",
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering"
-  },
-  {
-    "name": "Piero Castrillon Gamarra",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering",
-    "linkedin":"https://www.linkedin.com/in/piero-castrillon-gamarra-357070284/"
-  },
-  {
-    "name": "Stacy-Linsay Octave",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering",
-    "linkedin":"https://www.linkedin.com/in/piero-castrillon-gamarra-357070284/"
-  },
-  {
-    "name": "Aissa Bouaraguia",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/aissa-bouaraguia-78976b319/"
-  },
-  {
-    "name": "Kerian Devillers",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
-  },
-  {
-    "name": "Félix Boyer",
-    "idProgramme": "team.cursus",
-    "defaultMessageProgramme": "Technological Academic Path"
   },
   {
     "name": "Louis Le Lay",

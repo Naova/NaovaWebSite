@@ -212,5 +212,16 @@
     "idProgramme": "team.gpa",
     "defaultMessageProgramme": "Engineering of Automated Manufacturing",
     "linkedin":"https://www.linkedin.com/in/pelayogarciaseco/"
+  },
+  {
+    "name": "Stacy-Linsay Octave",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin":"https://www.linkedin.com/in/piero-castrillon-gamarra-357070284/"
+  },
+  {
+    "name": "Félix Boyer",
+    "idProgramme": "team.cursus",
+    "defaultMessageProgramme": "Technological Academic Path"
   }
 ]

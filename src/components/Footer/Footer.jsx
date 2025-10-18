@@ -10,7 +10,7 @@ class ContactUs extends Component {
                 <div className="container">
                     <div className="row ">
                         <div className="col-md-6 mt-md-0 mt-3">
-                            <p className="pull-left">© 2018 Naova<br />Design basé sur ethanol</p>
+                            <p className="pull-left">© 2025 Naova<br />Design basé sur ethanol</p>
                         </div>
                         <div className="col-md-6 mt-md-0 mt-3">
                             <div className="mb-5 flex-center">

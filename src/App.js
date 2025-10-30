@@ -19,8 +19,14 @@ import messages from "./messages";
 import "./style/font-awesome.css";
 //import "./style/style.css";
 import "./style/responsive.css";
+import NewsletterSubscribeDialog from './components/NewsletterSubscribeDialog/NewsletterSubscribeDialog';
 
 class App extends Component {
+	constructor(props) {
+        super(props);
+        this.state = { isNewsletterDialogVisible: false };
+    }
+
 	render() {
 		const { lang } = this.props;
 		return (
@@ -36,6 +42,7 @@ class App extends Component {
 							<Route component={Home} />
 						</Switch>
 					</Router>
+	                <NewsletterSubscribeDialog />
 				</div>
 			</IntlProvider>
 		);

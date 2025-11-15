@@ -1,51 +1,37 @@
 [
   {
-    "imgName": "Olivier2025",
-    "name": "Olivier St-Pierre",
-    "idProgramme": "team.log",
-    "idTitre": "team.capitain",
-    "defaultMessageTitre": "Captain",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/olivier-st-pierre"
-  },
-  {
-    "imgName": "Marc-Olivier2025",
-    "name": "Marc-Olivier Bisson",
-    "idProgramme": "team.log",
-    "idTitre": "team.technique & team.cocap",
-    "defaultMessageTitre": "Technical director & Co-Captain",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin": "https://www.linkedin.com/in/marc-olivier-bisson-15503517b"
-  },
-  {
     "imgName": "Jeremy2025",
     "name": "Jérémy Thu-Thon",
     "idProgramme": "team.gpa",
-    "idTitre": "team.treasurer & team.cocap",
-    "defaultMessageTitre": "Treasurer & Co-Captain",
+    "idTitre": "team.capitain",
+    "defaultMessageTitre": "Captain",
     "defaultMessageProgramme": "Engineering of Automated Manufacturing",
     "linkedin": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-thu-thon-8638a3304/"
   },
   {
-    "imgName": "Aissa2025",
-    "name": "Aissa Bouaraguia",
+    "imgName": "Christine2025",
+    "name": "Christine Yang-Dai",
     "idProgramme": "team.log",
+    "idTitre": "team.technique & team.cocap",
+    "defaultMessageTitre": "Technical director & Co-Captain",
     "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/aissa-bouaraguia-78976b319/"
+    "linkedin":"https://www.linkedin.com/in/christine-yang-dai/"
   },
   {
     "imgName": "Kerian2025",
     "name": "Kerian Devillers",
     "idProgramme": "team.log",
+    "idTitre": "team.treasurer & team.cocap",
+    "defaultMessageTitre": "Treasurer & Co-Captain",
     "defaultMessageProgramme": "Software engineering",
     "linkedin":"https://www.linkedin.com/in/kerian-devillers/"
   },
   {
-    "imgName": "Catherine2025",
-    "name": "Catherine Ouimet",
-    "idProgramme": "team.mec",
-    "defaultMessageProgramme": "Mechanical engineering",
-    "linkedin": "https://www.linkedin.com/in/catherine-ouimet-8361b6291/"
+    "imgName": "Aissa2025",
+    "name": "Aissa Bouaraguia",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin":"https://www.linkedin.com/in/aissa-bouaraguia-78976b319/"
   },
   {
     "imgName": "Liza2025",
@@ -55,20 +41,6 @@
     "linkedin":"https://www.linkedin.com/in/liza-benkadoum/"
   },
   {
-    "imgName": "William2025",
-    "name": "William Hébert",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/w-hebert/"
-  },
-  {
-    "imgName": "Christine2025",
-    "name": "Christine Yang-Dai",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/christine-yang-dai/"
-  },
-  {
     "imgName": "Nadir2024",
     "name": "Nadir Kaciousalah",
     "idProgramme": "team.gpa",
@@ -76,28 +48,73 @@
     "linkedin": "https://www.linkedin.com/in/nadir-kaciousalah/"
   },
   {
-    "name": "Annie Tremblay",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
-  },
-  {
-    "name": "Liliana Palma-Espinoza",
-    "idProgramme": "team.ele",
-    "defaultMessageProgramme": "Electrical engineering"
-  },
-  {
-    "name": "Louis Le Lay",
-    "idProgramme": "team.master_ti",
-    "linkedin":"https://www.linkedin.com/in/louis-le-lay/"
-  },
-  {
     "name": "Harry Phan",
     "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
     "linkedin":"https://www.linkedin.com/in/phan-tung-bui-harry/"
   },
   {
     "name": "Mohammadsam Karimi",
     "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
     "linkedin":"https://www.linkedin.com/in/mohammadsam-karimi/"
+  },
+  {
+    "name": "Alexandre Bédard",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering",
+    "linkedin":"https://www.linkedin.com/in/alexandre-b%C3%A9dard-a79258382/"
+  },
+  {
+    "name": "Adem Bessam",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/adem-bessam?trk=contact-info"
+  },
+  {
+    "name": "Romain Boiret",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/romain-boiret-54b0ab286/"
+  },
+  {
+    "name": "Gabriel Chartier",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "name": "Benjamin Joinvil",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/benjaminjoinvil/"
+  },
+  {
+    "name": "Adylbek Kadyraliev",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "name": "Aymane Laghrieb",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/aymane-laghrieb-a5a88a34b/"
+  },
+  {
+    "name": "Willy Ung",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/wung/"
+  },
+  {
+    "name": "Victor Vaillancourt-Neuwirth",
+    "idProgramme": "team.gol",
+    "defaultMessageProgramme": "Operations and Logistics engineering",
+    "linkedin":"https://www.linkedin.com/in/victor-vaillancourt-neuwirth-004684323/"
+  },
+  {
+    "name": "Nicolas Weill",
+    "idProgramme": "team.master_ti",
+    "defaultMessageProgramme": "Master in Information Technology engineering",
+    "linkedin":"https://www.linkedin.com/in/nicolas-weill-b8b147224/"
   }
 ]

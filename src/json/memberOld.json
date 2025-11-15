@@ -223,5 +223,43 @@
     "name": "Félix Boyer",
     "idProgramme": "team.cursus",
     "defaultMessageProgramme": "Technological Academic Path"
+  },
+  {
+    "imgName": "Olivier2025",
+    "name": "Olivier St-Pierre",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "Marc-Olivier2025",
+    "name": "Marc-Olivier Bisson",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "William2025",
+    "name": "William Hébert",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "imgName": "Catherine2025",
+    "name": "Catherine Ouimet",
+    "idProgramme": "team.mec",
+    "defaultMessageProgramme": "Mechanical engineering"
+  },
+  {
+    "name": "Annie Tremblay",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering"
+  },
+  {
+    "name": "Louis Le Lay",
+    "idProgramme": "team.master_ti"
+  },
+  {
+    "name": "Liliana Palma-Espinoza",
+    "idProgramme": "team.ele",
+    "defaultMessageProgramme": "Electrical engineering"
   }
 ]

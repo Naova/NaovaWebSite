@@ -9,7 +9,7 @@ const getImageLink = (article) => {
     const index = article.link.lastIndexOf("=");
     const videoId = article.link.substring(index+1, article.link.length)
     
-    return `https://i3.ytimg.com/vi/${videoId}/maxresdefault.jpg`
+    return `https://i3.ytimg.com/vi/${videoId}/maxresdefault.webp`
   }
 
   if(article.image) {

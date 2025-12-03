@@ -134,7 +134,7 @@ a:focus {
 .carousel-fade .carousel-control { z-index: 2 }
 /* Home Section Style 4 - App Header Style*/
 #tf-home.app .overlay { padding: 10% 0 5% 0 }
-/*#tf-home.app {background: url(../img/bg/02.jpg);}*/
+/*#tf-home.app {background: url(../img/bg/02.webp);}*/
 a.goto-btn { margin-right: 30px }
 .ipad-wrapper .app-wrap {
     position: relative;
@@ -142,7 +142,7 @@ a.goto-btn { margin-right: 30px }
 }
 .app-wrap {
     position: absolute;
-    /*background: url(../img/header4.png);*/
+    /*background: url(../img/header4.webp);*/
     width: 395px;
     height: 540px;
     background-repeat: no-repeat;
@@ -183,7 +183,7 @@ a.goto-btn { margin-right: 30px }
   width: 100%;
 }
 
-/*#tf-home.parallax .bcg { background-image:url('../img/bg/slider03.jpg'); }*/
+/*#tf-home.parallax .bcg { background-image:url('../img/bg/slider03.webp'); }*/
 .parallax  .content-heading{
     padding: 20% 0;
     text-align: center;

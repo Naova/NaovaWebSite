@@ -26,7 +26,7 @@ Le site est programmé en Reactjs (https://reactjs.org), c'est un mélange de HT
     ├── node_modules          # Le code des dépendances (ne pas jouer dedans)
     ├── public
     │   ├── index.html        # La page HTML qui contient le core du projet
-    │   └── noafacehalf.png   # Le favicon (logo de naova dans le tab du browser)
+    │   └── noafacehalf.webp   # Le favicon (logo de naova dans le tab du browser)
     ├── src                   # Tout le code React
     │   └── ...
     ├── .gitignore            # Le code que nous voulons que Git ignore
@@ -150,8 +150,8 @@ Prendre une vidéo de Youtube pour la section Vidéo :
 ## member.json
 ````
 {
-    imgName,                    # Le nom du fichier de la photo (la photo doit être dans le fichier /src/img/team, en format .jpg)
-    *img2Name,                  # Le nom du fichier de la photo hover/funny (la photo doit être dans le fichier /src/img/team, en format .jpg)
+    imgName,                    # Le nom du fichier de la photo (la photo doit être dans le fichier /src/img/team, en format .webp)
+    *img2Name,                  # Le nom du fichier de la photo hover/funny (la photo doit être dans le fichier /src/img/team, en format .webp)
     name,                       # Le nom complet de la personne
     *idTitre,                   # L'id du message.json qui représente le titre de la personne (Capitainerie)
     *defaultMessageTitre,       # Le message en anglais du titre de la personne (Capitainerie)
@@ -217,7 +217,7 @@ Les champs qui commence par * ne sont pas obligatoire
 10. À droite vous avez vos documents et à gauche se sont les documents du serveur
 11. À droite, allez dans votre répertoire où vous avez mis le code et ensuite dans build
 12. À gauche, allez dans le répertoire /public_html
-13. À droite sélectionner tous les fichiers (static, asset-manifest.json, index.html, naofacehalf.png et service-worker.js)
+13. À droite sélectionner tous les fichiers (static, asset-manifest.json, index.html, naofacehalf.webp et service-worker.js)
 14. Clic droit sur la sélection et faire "Envoyer"
 15. Il se peut qu'il ait des pop-up pour dire que le fichier existe, on remplace tout!
 

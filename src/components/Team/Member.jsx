@@ -13,7 +13,7 @@ class Member extends Component {
     renderImageMember() {
         const { imgName, name } = this.props;
         if (imgName) {
-            return <img src={require(`../../img/team/${imgName}.jpg`)} alt={name} className="img-fluid img-membre-profil" />;
+            return <img src={require(`../../img/team/${imgName}.webp`)} alt={name} className="img-fluid img-membre-profil" />;
         } else {
             return <img src={naoFace_img} alt="team member" className="img-fluid" />;
         }

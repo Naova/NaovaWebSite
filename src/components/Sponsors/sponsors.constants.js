@@ -60,7 +60,7 @@ export const SPONSOR_TITLES = {
 
 export const SPONSORS = [
     {
-        img: "ets.png",
+        img: "ets.webp",
         link: "https://www.etsmtl.ca/",
         title: "sponsors.sp4",
         defaultMessageTitle: "École de technologie supérieure",
@@ -69,7 +69,7 @@ export const SPONSORS = [
         frontPageWidth: "20%"
     },
     {
-        img: "rousseau_blue_logo.png",
+        img: "rousseau_blue_logo.webp",
         link: "https://www.rousseau.com/int_fr/",
         title: "sponsors.sp11",
         defaultMessageTitle: "Rousseau Metal International",
@@ -78,7 +78,7 @@ export const SPONSORS = [
         frontPageWidth: "20%"
     },
     {
-        img: "aeetslogo.png",
+        img: "aeetslogo.webp",
         link: "http://aeets.com/",
         title: "sponsors.sp1",
         defaultMessageTitle: "ETS's Student Association",
@@ -87,7 +87,7 @@ export const SPONSORS = [
         frontPageWidth: "20%"
     },
     {
-        img: "GENIUM360_LogoCoul_002.png",
+        img: "GENIUM360_LogoCoul_002.webp",
         link: "https://www.genium360.ca/fr-ca/",
         title: "sponsors.sp13",
         defaultMessageTitle: "Genium360",
@@ -96,7 +96,7 @@ export const SPONSORS = [
         frontPageWidth: "20%"
     },
     {
-        img: "AC_Logo_Vertical_onWhiteTransparent.png",
+        img: "AC_Logo_Vertical_onWhiteTransparent.webp",
         link: "https://www.aircanada.com/",
         title: "sponsors.sp14",
         defaultMessageTitle: "Air Canada",

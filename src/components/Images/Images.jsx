@@ -15,59 +15,59 @@ class Images extends Component {
                 </SectionHeaderNao>
                 <div className="images">
                     <center>
-                        <OneImage img="36.jpg" />
-                        <OneImage img="32.jpg" />
-                        <OneImage img="33.jpg" />
-                        <OneImage img="34.jpg" />
-                        <OneImage img="35.jpg" />
+                        <OneImage img="36.webp" />
+                        <OneImage img="32.webp" />
+                        <OneImage img="33.webp" />
+                        <OneImage img="34.webp" />
+                        <OneImage img="35.webp" />
                     </center>
                     <br />
                     <center>
-                        <OneImage img="27.jpg" />
-                        <OneImage img="28.jpg" />
-                        <OneImage img="29.jpg" />
-                        <OneImage img="30.jpg" />
-                        <OneImage img="31.jpg" />
+                        <OneImage img="27.webp" />
+                        <OneImage img="28.webp" />
+                        <OneImage img="29.webp" />
+                        <OneImage img="30.webp" />
+                        <OneImage img="31.webp" />
                     </center>
                     <br />
                     <center>
-                        <OneImage img="22.jpg" />
-                        <OneImage img="23.jpg" />
-                        <OneImage img="24.jpg" />
-                        <OneImage img="25.jpg" />
-                        <OneImage img="26.jpg" />
+                        <OneImage img="22.webp" />
+                        <OneImage img="23.webp" />
+                        <OneImage img="24.webp" />
+                        <OneImage img="25.webp" />
+                        <OneImage img="26.webp" />
                     </center>
                     <br />
                     <center>
-                        <OneImage img="16.jpg" />
-                        <OneImage img="17.jpg" />
-                        <OneImage img="19.jpg" />
-                        <OneImage img="20.jpg" />
-                        <OneImage img="21.jpg" />
+                        <OneImage img="16.webp" />
+                        <OneImage img="17.webp" />
+                        <OneImage img="19.webp" />
+                        <OneImage img="20.webp" />
+                        <OneImage img="21.webp" />
                     </center>
                     <br />
                     <center>
-                        <OneImage img="11.jpg" />
-                        <OneImage img="12.png" />
-                        <OneImage img="13.jpg" />
-                        <OneImage img="14.jpg" />
-                        <OneImage img="15.jpg" />
+                        <OneImage img="11.webp" />
+                        <OneImage img="12.webp" />
+                        <OneImage img="13.webp" />
+                        <OneImage img="14.webp" />
+                        <OneImage img="15.webp" />
                     </center>
                     <br />
                     <center>
-                        <OneImage img="6.png" />
-                        <OneImage img="7.png" />
-                        <OneImage img="8.png" />
-                        <OneImage img="9.png" />
-                        <OneImage img="10.png" />
+                        <OneImage img="6.webp" />
+                        <OneImage img="7.webp" />
+                        <OneImage img="8.webp" />
+                        <OneImage img="9.webp" />
+                        <OneImage img="10.webp" />
                     </center>
                     <br />
                     <center>
-                        <OneImage img="1.png" />
-                        <OneImage img="2.png" />
-                        <OneImage img="3.png" />
-                        <OneImage img="4.png" />
-                        <OneImage img="5.png" />
+                        <OneImage img="1.webp" />
+                        <OneImage img="2.webp" />
+                        <OneImage img="3.webp" />
+                        <OneImage img="4.webp" />
+                        <OneImage img="5.webp" />
                     </center>
                 </div>
             </div>

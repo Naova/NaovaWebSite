@@ -7,7 +7,7 @@
         "type": "Photo",
         "link": "https://www.facebook.com/151988981995338/posts/492778491249717/",
         "source": "ÉTS - École de technologie supérieure",
-        "image": "porteouverte2019.jpg"
+        "image": "porteouverte2019.webp"
     },
     {
         "title": "Video - ROBOCUP 2018 | MONTRÉAL",
@@ -26,7 +26,7 @@
         "type": "Photo",
         "link": "https://www.facebook.com/ConcertationMTL/photos/a.962928260446716/2253418161397713/?type=3&hc_ref=ART03OL1DUY5VBn9l82nky1-AbvazvZhEe826NjlIczin_KpllxL0zOE9e8nZI4dkSk&__xts__%5B0%5D=68.ARDURgtwDXLNg-oEr6zI-LbcK-whv73tYWFiWkmLXBSk9rdYMR2BGQ4T4ILDcHWask2MxcyzzdOzcC9WQRwd3zj-Pn2DtqJdjpbO6eck9G80ScTk04hT-m6W3dGjjbdqmtryQ97ztxBCVwFku5sm8uNHIt6cyWGptmbDk9OkVsfiR5GqtzoUxO6BmX2L3KGr-hY29Iqw2zORkDJ2RuVI7lXN&__tn__=EC-R",
         "source": "Concertation Montréal - CMTL",
-        "image": "technofeminin2018.jpeg"
+        "image": "technofeminin2018.webp"
     },
     {
         "title": "L’ÉTS à la RoboCup 2018: une 2e place et des émotions fortes pour le club Naova",
@@ -45,7 +45,7 @@
         "type": "Video",
         "link": "https://www.facebook.com/RoboCupSPL/videos/880545555465162/?hc_ref=ARTE5vAJ73rb_qWdGX5Bc8pqaYh9_Yze5Ioku_LGIJ7uNf2uCjLdLXa90D4YLjqVlYE&__tn__=FC-R",
         "source": "RoboCup SPL",
-        "image": "firstgoal2018.png"
+        "image": "firstgoal2018.webp"
     },
     {
         "title": "Participation au Festival Eurêka",
@@ -55,7 +55,7 @@
         "type": "Photo",
         "link": "https://www.facebook.com/festivaleureka/photos/a.10155692330499010/10155692330834010/?type=3&theater",
         "source": "Festival Eurêka",
-        "image": "eureka2018.jpeg"
+        "image": "eureka2018.webp"
     },
     {
         "title": "Vidéo - Exposant au #ColloqueOIQ 2018 - Club étudiant ÉTS Naova",
@@ -74,6 +74,6 @@
         "type": "Photo",
         "link": "https://www.facebook.com/media/set/?set=a.756777227816972&type=3&__tn__=-UC-R",
         "source": "RoboCup International 2018 Montréal Canada",
-        "image": "robocupinternational2017.jpeg"
+        "image": "robocupinternational2017.webp"
     }
 ]

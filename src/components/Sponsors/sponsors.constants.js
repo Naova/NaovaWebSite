@@ -103,6 +103,14 @@ export const SPONSORS = [
         type: SPONSOR_OR,
         colNum: "12",
         frontPageWidth: "20%"
-    }   
-    
+    },
+    {
+        img: "aseq_logo.svg",
+        link: "https://www.aseq.ca/",
+        title: "sponsors.sp15",
+        defaultMessageTitle: "Aseq",
+        type: SPONSOR_BRONZE,
+        colNum: "12",
+        frontPageWidth: "20%"
+    }  
 ]

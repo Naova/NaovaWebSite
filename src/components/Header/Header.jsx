@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { FormattedMessage } from "react-intl";
 
 import "./header.css"
-import { SPONSORS, SPONSOR_DIAMANT, SPONSOR_OR, SPONSOR_PLATINE } from "../Sponsors/sponsors.constants";
+import { SPONSORS, SPONSOR_DIAMANT, SPONSOR_OR, SPONSOR_PLATINE, SPONSOR_BRONZE } from "../Sponsors/sponsors.constants";
 
 const naovaLogo_img = require("../../img/logo/logo_titre.svg").default;
 const aeetsLogo_img = require("../../img/partenaire/aeetslogo.webp");
@@ -17,7 +17,8 @@ class Header extends Component {
         const diamondSponsors = SPONSORS.filter((sponsor) => sponsor.type === SPONSOR_DIAMANT)
         const platinumSponsors = SPONSORS.filter((sponsor) => sponsor.type === SPONSOR_PLATINE)
         const goldSponsors = SPONSORS.filter((sponsor) => sponsor.type === SPONSOR_OR)
-        const allSponsors = [...diamondSponsors, ...platinumSponsors, ...goldSponsors]
+        const bronzeSponsors = SPONSORS.filter((sponsor) => sponsor.type === SPONSOR_BRONZE)
+        const allSponsors = [...diamondSponsors, ...platinumSponsors, ...goldSponsors, ...bronzeSponsors]
         return (
             <div id="tf-home">
                 <div className="overlay"> 

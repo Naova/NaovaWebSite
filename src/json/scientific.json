@@ -1,5 +1,13 @@
 [
     {
+        "title": "Real-Time Line and Center Circle Detection for NAO Robots in RoboCup Matches",
+        "lang": "EN",
+        "idDate": "sci.date6",
+        "defaultMessageDate": "June, 2025",
+        "url": "RoboCup_2025.pdf",
+        "source": "Team Naova - Marc-Olivier Bisson, Olivier St-Pierre, Luc Duong & Camille Coti"
+    },
+    {
         "title": "Walking task space control using time delay estimation based sliding mode of position Controlled NAO biped robot",
         "lang": "EN",
         "idDate": "sci.date5",

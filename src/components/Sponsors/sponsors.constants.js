@@ -68,15 +68,15 @@ export const SPONSORS = [
         colNum: "12",
         frontPageWidth: "20%"
     },
-    {
-        img: "rousseau_blue_logo.webp",
-        link: "https://www.rousseau.com/int_fr/",
-        title: "sponsors.sp11",
-        defaultMessageTitle: "Rousseau Metal International",
-        type: SPONSOR_OR,
-        colNum: "12",
-        frontPageWidth: "20%"
-    },
+    // {
+    //     img: "rousseau_blue_logo.webp",
+    //     link: "https://www.rousseau.com/int_fr/",
+    //     title: "sponsors.sp11",
+    //     defaultMessageTitle: "Rousseau Metal International",
+    //     type: SPONSOR_OR,
+    //     colNum: "12",
+    //     frontPageWidth: "20%"
+    // },
     {
         img: "aeetslogo.webp",
         link: "http://aeets.com/",

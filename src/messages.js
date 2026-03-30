@@ -53,8 +53,8 @@ export default {
       "Notre objectif est de gagner la 1ère position à la Robocup, catégorie soccer 5 vs 5",
     "summary.title2": "UN ROBOT IDÉAL",
     "summary.description2":
-      "À l'aide de sa forme humanoïde et des ses nombreux capteurs embarqués, le robot Nao n'a (presque) rien à envier à Zidane.",
-    "summary.linkTitle2": "Decouvrez le Nao",
+      "À l'aide de sa forme humanoïde et des ses nombreux capteurs embarqués, le Booster K1 n'a (presque) rien à envier à Zidane.",
+    "summary.linkTitle2": "Decouvrez le K1",
     "summary.title3": "DES SOUTIENS ESSENTIELS",
     "summary.description3":
       "Parce que sans eux, rien ne serait possible, nous tenons à remercier nos commanditaires.",
@@ -211,8 +211,8 @@ export default {
     "summary.description1": "We aim to win in Robocup, category soccer 5vs5.",
     "summary.title2": "AN IDEAL ROBOT",
     "summary.description2":
-      "With the help of its humanoid shape and its numerous embarked captors, the robot Nao has (almost) nothing to envy from Zidane.",
-    "summary.linkTitle2": "Learn more about Nao",
+      "With the help of its humanoid shape and its numerous embarked captors, the Booster K1 robot has (almost) nothing to envy from Zidane.",
+    "summary.linkTitle2": "Learn more about the K1",
     "summary.title3": "NECESSARY SUPPORT",
     "summary.description3":
       "Without them nothing would be possible, we want to thank our sponsors.",

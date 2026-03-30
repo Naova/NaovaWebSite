@@ -15,7 +15,7 @@ class Summary extends Component {
                         idTitle="summary.title1"
                         defaultMessageTitle="A CLEAR GOAL"
                         idDescription="summary.description1"
-                        defaultMessageDescription="We aim to win in Robocup, category soccer 5vs5."
+                        defaultMessageDescription="We aim to win in Robocup, category soccer 3vs3."
                         icon="fa fa-futbol-o"/>
 
                     <br/><br/>
@@ -26,7 +26,7 @@ class Summary extends Component {
                         idDescription="summary.description2"
                         defaultMessageDescription="With the help of its humanoid shape and its numerous embarked captors, the robot Nao has (almost) nothing to envy from Zidane."
                         icon="fa fa-magic"
-                        link="https://www.ald.softbankrobotics.com/fr/robots/nao"
+                        link="https://www.booster.tech/booster-k1/"
                         idLinkTitle="summary.linkTitle2"
                         defaultMessageLinkTitle="Learn more about Nao"/>
 

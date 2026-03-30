@@ -212,7 +212,7 @@ export default {
     "summary.title2": "AN IDEAL ROBOT",
     "summary.description2":
       "With the help of its humanoid shape and its numerous embarked captors, the Booster K1 robot has (almost) nothing to envy from Zidane.",
-    "summary.linkTitle2": "Learn more about K1",
+    "summary.linkTitle2": "Learn more about the K1",
     "summary.title3": "NECESSARY SUPPORT",
     "summary.description3":
       "Without them nothing would be possible, we want to thank our sponsors.",

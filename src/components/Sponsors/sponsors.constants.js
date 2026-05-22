@@ -112,5 +112,14 @@ export const SPONSORS = [
         type: SPONSOR_BRONZE,
         colNum: "12",
         frontPageWidth: "20%"
-    }  
+    },      
+    {
+        img: "concord_logo_vertical.webp",
+        link: "https://www.concordtours.ca/",
+        title: "sponsors.sp16",
+        defaultMessageTitle: "Concord Tours & Travel",
+        type: SPONSOR_BRONZE,
+        colNum: "12",
+        frontPageWidth: "20%"
+    }
 ]

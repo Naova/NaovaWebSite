@@ -1,14 +1,5 @@
 [
   {
-    "imgName": "Jeremy2025",
-    "name": "Jérémy Thu-Thon",
-    "idProgramme": "team.gpa",
-    "idTitre": "team.capitain",
-    "defaultMessageTitre": "Captain",
-    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
-    "linkedin": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-thu-thon-8638a3304/"
-  },
-  {
     "imgName": "Christine2025",
     "name": "Christine Yang-Dai",
     "idProgramme": "team.log",
@@ -21,8 +12,8 @@
     "imgName": "Kerian2025",
     "name": "Kerian Devillers",
     "idProgramme": "team.log",
-    "idTitre": "team.treasurer & team.cocap",
-    "defaultMessageTitre": "Treasurer & Co-Captain",
+    "idTitre": "team.capitain",
+    "defaultMessageTitre": "Captain",
     "defaultMessageProgramme": "Software engineering",
     "linkedin":"https://www.linkedin.com/in/kerian-devillers/"
   },
@@ -30,22 +21,10 @@
     "imgName": "Aissa2025",
     "name": "Aissa Bouaraguia",
     "idProgramme": "team.ele",
+    "idTitre": "team.treasurer & team.cocap",
+    "defaultMessageTitre": "Treasurer & Co-Captain",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin":"https://www.linkedin.com/in/aissa-bouaraguia-78976b319/"
-  },
-  {
-    "imgName": "Liza2025",
-    "name": "Liza Benkadoum",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/liza-benkadoum/"
-  },
-  {
-    "imgName": "Nadir2024",
-    "name": "Nadir Kaciousalah",
-    "idProgramme": "team.gpa",
-    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
-    "linkedin": "https://www.linkedin.com/in/nadir-kaciousalah/"
   },
   {
     "name": "Harry Phan",
@@ -54,22 +33,10 @@
     "linkedin":"https://www.linkedin.com/in/phan-tung-bui-harry/"
   },
   {
-    "name": "Mohammadsam Karimi",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/mohammadsam-karimi/"
-  },
-  {
     "name": "Alexandre Bédard",
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering",
     "linkedin":"https://www.linkedin.com/in/alexandre-b%C3%A9dard-a79258382/"
-  },
-  {
-    "name": "Adem Bessam",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/adem-bessam?trk=contact-info"
   },
   {
     "name": "Romain Boiret",
@@ -100,21 +67,42 @@
     "linkedin":"https://www.linkedin.com/in/aymane-laghrieb-a5a88a34b/"
   },
   {
-    "name": "Willy Ung",
-    "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
-    "linkedin":"https://www.linkedin.com/in/wung/"
-  },
-  {
-    "name": "Victor Vaillancourt-Neuwirth",
-    "idProgramme": "team.gol",
-    "defaultMessageProgramme": "Operations and Logistics engineering",
-    "linkedin":"https://www.linkedin.com/in/victor-vaillancourt-neuwirth-004684323/"
-  },
-  {
     "name": "Nicolas Weill",
     "idProgramme": "team.master_ti",
     "defaultMessageProgramme": "Master in Information Technology engineering",
     "linkedin":"https://www.linkedin.com/in/nicolas-weill-b8b147224/"
+  },
+    {
+    "name": "Amine Fanid",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/amine-fanid/"
+  },
+  {
+    "name": "Simon Tuong Tang",
+    "idProgramme": "team.gpa",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+    "linkedin":"https://www.linkedin.com/in/simon-tuong-tang-gpa-ets/"
+  },
+  {
+    "name": "Janice Bessard",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/janice-b-858122331/"
+  },
+  {
+    "name": "Sara Loubane",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+  },
+  {
+    "name": "Ilaha Mawladad",
+    "idProgramme": "team.gpa",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+  },
+  {
+    "name": "Martin Rolo Dussault",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
   }
 ]

@@ -93,16 +93,16 @@
   {
     "name": "Sara Loubane",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
+    "defaultMessageProgramme": "Software engineering"
   },
   {
     "name": "Ilaha Mawladad",
     "idProgramme": "team.gpa",
-    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing"
   },
   {
     "name": "Martin Rolo Dussault",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering",
+    "defaultMessageProgramme": "Software engineering"
   }
 ]

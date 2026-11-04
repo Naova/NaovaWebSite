@@ -97,12 +97,17 @@
   },
   {
     "name": "Ilaha Mawladad",
-    "idProgramme": "team.gpa",
-    "defaultMessageProgramme": "Engineering of Automated Manufacturing"
+    "idProgramme": "team.cursus",
+    "defaultMessageProgramme": "Technological Academic Path"
   },
   {
     "name": "Martin Rolo Dussault",
     "idProgramme": "team.log",
     "defaultMessageProgramme": "Software engineering"
+  },
+    {
+    "name": "Gemyma Augustin",
+    "idProgramme": "team.design",
+    "defaultMessageProgramme": "Bachelor's in user experience design"
   }
 ]

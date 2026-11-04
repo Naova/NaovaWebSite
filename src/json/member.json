@@ -47,7 +47,8 @@
   {
     "name": "Gabriel Chartier",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/gabriel-chartier-327175413"
   },
   {
     "name": "Benjamin Joinvil",
@@ -58,7 +59,8 @@
   {
     "name": "Adylbek Kadyraliev",
     "idProgramme": "team.log",
-    "defaultMessageProgramme": "Software engineering"
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin": "https://www.linkedin.com/in/adyl-kadyraliev-750b14300/"
   },
   {
     "name": "Aymane Laghrieb",

@@ -261,5 +261,47 @@
     "name": "Liliana Palma-Espinoza",
     "idProgramme": "team.ele",
     "defaultMessageProgramme": "Electrical engineering"
+  },
+  {
+    "name": "Jérémy Thu-Thon",
+    "idProgramme": "team.gpa",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+    "linkedin": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-thu-thon-8638a3304/"
+  },
+  {
+    "name": "Liza Benkadoum",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/liza-benkadoum/"
+  },
+  {
+    "name": "Nadir Kaciousalah",
+    "idProgramme": "team.gpa",
+    "defaultMessageProgramme": "Engineering of Automated Manufacturing",
+    "linkedin": "https://www.linkedin.com/in/nadir-kaciousalah/"
+  },
+  {
+    "name": "Mohammadsam Karimi",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/mohammadsam-karimi/"
+  }, 
+  {
+    "name": "Adem Bessam",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/adem-bessam?trk=contact-info"
+  },
+  {
+    "name": "Willy Ung",
+    "idProgramme": "team.log",
+    "defaultMessageProgramme": "Software engineering",
+    "linkedin":"https://www.linkedin.com/in/wung/"
+  },
+  {
+    "name": "Victor Vaillancourt-Neuwirth",
+    "idProgramme": "team.gol",
+    "defaultMessageProgramme": "Operations and Logistics engineering",
+    "linkedin":"https://www.linkedin.com/in/victor-vaillancourt-neuwirth-004684323/"
   }
 ]
